@@ -28,14 +28,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: details early
-        run: cat ./Game/Example-Weapons.md
       - name: manipulate anchors
         run: python3 ./convert.py $(find ./Game -type f -name "*.md")
       - name: manipulate anchors strip %20
         run: sed -i 's/%20/-/g' $(find ./Game -type f -name "*.md")
-      - name: details later
-        run: cat ./Game/Example-Weapons.md
       - name: create index
         run: cp ./Game/Home.md ./Game/index.md
       - name: Setup Pages
@@ -43,7 +39,7 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: Game
+          source: core
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
