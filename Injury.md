@@ -26,14 +26,14 @@ An attack that doesn't cause serious wounds, but still causes disruption.
 Severe injuries need medical attention quickly. It can involve broken bones, internal bleeding, and severe lacerations. After taking a severe injury, there is only so long you can fight before you pass out. 
 * Must perform [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty) (0) or suffer an [Injury-Effects](Injury-Effects).
 * Become [Wounded](Effects#Wounded).
-* If you don't recieve medical aid you will die of complications in 30–60 minutes.
+* If you don't receive medical aid, you will die of complications in 30–60 minutes.
 
 ## Critical Injury
 Critical injuries pose an immediate threat to your life. You are left severely bleeding, unconscious, with organ failure, etc. as well you will have completely lost use of the attacked area which will need to be replaced with [Prosthetics](Character-Development#Prosthetics) or reattached/fixed by a [Surgeon](Academic#Surgeon).
 * Suffer an [Injury-Effects](Injury-Effects).
 * Become [Wounded](Effects#Wounded).
 * Critical [Vitals](#Vitals) injuries kill outright.
-* If you don't recieve medical aid you will die of complications in 3-5 minutes.
+* If you don't receive medical aid, you will die of complications in 3-5 minutes.
 
 ## Lethal Injury
 A lethal injury always means death to a normal-sized creature and represents a complete failure of their necessary systems for survival. 
@@ -55,7 +55,7 @@ tearing and cutting flesh.
 ### Piercing
 Stabbing and piercing flesh.
 ### Impact
-Slamming into and breaking flesh .
+Slamming into and breaking flesh.
 
 ---
 
@@ -63,9 +63,9 @@ Otherworldly injuries can consist of:
 ### Life
 Poison, acid, and rot ravage the body, destroying life itself.
 ### Heat
-Heat, power, holy energy ravage the body 
+Heat, power, holy energy ravage the body.
 ### Cold
-Ice, chill, vampiric energy ravage the body
+Ice, chill, vampiric energy ravage the body.
 
 ## Heroes
 Your characters are heroes. Heroes can’t instantly die from an attack. Any attack that would kill a hero outright, instead leaves the character [Defeated](Effects#Defeated).

@@ -44,8 +44,8 @@ To put yourself out is an [Application](Intelligence#Application) [Fixed Difficu
 ### Removing
 {: .no_toc }
 perform a [Grace](Agility#Grace) [Fixed Difficulty(0)](Skills#Fixed%20Difficulty):
-* If you succeed you may stand as a [Free Action](Terminology#Free%20Action).
-* If you fail you will need to spend your [Action](Terminology#Action) to remove prone.
+* If you succeed, you may stand as a [Free Action](Terminology#Free%20Action).
+* If you fail, you will need to spend your [Action](Terminology#Action) to remove prone.
 
 ---
 
@@ -109,8 +109,8 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 
 ### Removing
 {: .no_toc }
-* Can be removed with addequate time or healing.
-* Can be removed with [Gear](Gear)
+* Removed with adequate time or healing.
+* Removed with [Gear](Gear).
 
 ---
 
