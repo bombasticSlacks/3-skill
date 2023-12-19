@@ -89,14 +89,28 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 
 ### Removing
 {: .no_toc }
-* [Stabilization](Injury#Stabilization)
+* Anyone can do a basic stabilization of a defeated [Character](Terminology#Character). This is a very basic test to make sure they are no longer bleeding, their burns have been covered, etc. This is a [Application](Intelligence#Application) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0). No matter the result of the skill test, the person is no longer at risk of immediately dying, but if you fail they get an additional -1 to their [Long Term Injury](#Long%20Term%20Injury) penalty. 
 
 ---
 ## Wounded
 *Your character has suffered a meaningful injury, there is only so much longer they can keep fighting.*
-* On each combat turn, after you have performed your [Action](Terminology#Action), you make an [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)([Injury Penalty](#Injury%20Penalty)). For every severe injury add a (-1) to the test, and for every critical injury add (-2) to the test. If you fail, you become [Defeated](#Defeated).
+* On each combat turn, after you have performed your [Action](Terminology#Action), you make an [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)([Long Term Injury](Effects#Long%20Term%20Injury)). For every severe injury add a (-1) to the test, and for every critical injury add (-2) to the test. If you fail, you become [Defeated](#Defeated).
 ### Removing
 {: .no_toc }
 * Can be removed with [Gear](Gear).
 
 ---
+
+## Long Term Injury
+*Your character has suffered a meaningful injury. The discomfort causes them difficulty when performing actions.*
+* If you suffer a [Severe Injury](Injury#Severe%20Injury) or [Critical Injury](Injury#Critical%20Injury) after combat you will take a penalty to all [Action](Terminology#Action).
+* If the worst [Injury](Injury) you suffered was a [Severe Injury](Injury#Severe%20Injury) you suffer a (-2) to all [Action](Terminology#Action).
+* If the worst [Injury](Injury) you suffered was a [Critical Injury](Injury#Critical%20Injury) you suffer a (-3) to all [Action](Terminology#Action).
+
+### Removing
+{: .no_toc }
+* Can be removed with addequate time or healing.
+* Can be removed with [Gear](Gear)
+
+---
+

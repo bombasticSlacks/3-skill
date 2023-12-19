@@ -26,14 +26,14 @@ An attack that doesn't cause serious wounds, but still causes disruption.
 Severe injuries need medical attention quickly. It can involve broken bones, internal bleeding, and severe lacerations. After taking a severe injury, there is only so long you can fight before you pass out. 
 * Must perform [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty) (0) or suffer an [Injury-Effects](Injury-Effects).
 * Become [Wounded](Effects#Wounded).
-* You will die from complications without [Stabilization](#Stabilization) in 30–60 minutes.
+* If you don't recieve medical aid you will die of complications in 30–60 minutes.
 
 ## Critical Injury
 Critical injuries pose an immediate threat to your life. You are left severely bleeding, unconscious, with organ failure, etc. as well you will have completely lost use of the attacked area which will need to be replaced with [Prosthetics](Character-Development#Prosthetics) or reattached/fixed by a [Surgeon](Academic#Surgeon).
 * Suffer an [Injury-Effects](Injury-Effects).
 * Become [Wounded](Effects#Wounded).
 * Critical [Vitals](#Vitals) injuries kill outright.
-* You will die from complications without [Stabilization](#Stabilization) in 3–5 minutes.
+* If you don't recieve medical aid you will die of complications in 3-5 minutes.
 
 ## Lethal Injury
 A lethal injury always means death to a normal-sized creature and represents a complete failure of their necessary systems for survival. 
@@ -77,6 +77,3 @@ After someone is wounded, whether they pass out or stay conscious, they will suf
 Aside from the trauma of being injured in the field, there are other immediate risks to a person who has been injured, and they will need treatment to stay healthy or remain alive (depending on severity).
 
 When determining difficulty of [Application](Intelligence#Application) skill tests and negatives for any injuries, you just count the injury that would give you the largest negative/penalty. Multiple injuries don’t provide cumulative negatives.
-
-### Stabilization
-Even if you aren’t trained in [Application](Intelligence#Application) and don't have the proper tools you may still attempt to stabilize someone's injuries. This is a very basic test which means they are no longer bleeding, their burns have been covered, etc. This is a [Application](Intelligence#Application) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0). No matter the result of the skill test, the person is no longer at risk of immediately dying, but they get an additional -1 to their [injury penalty](#Lingering%20Pain). 

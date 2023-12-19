@@ -20,7 +20,6 @@ Any time you are applying your knowledge and expertise, you should make an appli
 
 ### Relevant Activities
 * [Being on Fire](Injury#Being%20on%20Fire)
-* [Stabilization](Injury#Stabilization)
 
 ---
 ## Insight
