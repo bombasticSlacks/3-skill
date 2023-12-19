@@ -7,11 +7,11 @@ nav_exclude: true
 
 Inspired by PBtA systems, rules light story telling games, and years of homebrew.
 
-* Remember to respect the [Code Of Conduct](https://github.com/bombasticSlacks/3-skill/blob/main/CODE_OF_CONDUCT.md).
+* Remember to respect the [Code Of Conduct](https://github.com/bombasticSlacks/3-skill/blob/main/CODE_OF_CONDUCT).
 * If you are going to approach difficult topics, make sure that everyone has [consented](https://www.montecookgames.com/store/product/consent-in-gaming/).
 
 
-*3-skill is currently a WIP*
+*3-skill is currently a work in progress, developing along with the projects it is based on.*
 * It is open source under [CC BY SA 4.0](https://github.com/bombasticSlacks/3-skill/blob/main/LICENSE) feel free to [fork](https://github.com/bombasticSlacks/3-skill/fork) and modify.
 * It is updated almost weekly with a public [change log](https://github.com/bombasticSlacks/3-skill/commits/main).
 * It may have proposed changes you can [review](https://github.com/bombasticSlacks/3-skill/pulls).
