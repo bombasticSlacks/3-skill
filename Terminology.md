@@ -22,8 +22,8 @@ If a [Character](#Character) fails an attack roll or their [Opponent](#Opponent)
 ## Damage
 An abstraction for how much power and harm is behind an attack. When you suffer damage it is first absorbed by [Armour](Armour) and then results in [Injury](Injury).
 
-## Injuring Attack
-If a [Character](#Character) successfully causes an injury with an attack, that is an Injuring Attack.
+## Wounding Attack
+If a [Character](#Character) successfully [Wounded](Effects#Wounded) with an attack it is considered a wounding attack.
 
 ## Reaction
 A response a [Character](#Character) can perform in combat while it is not their turn. [Characters](#Character) generally get 1 reaction per [Combat Round](#Combat%20Round). A [Character's](#Character) reaction refreshes at the start of their [Combat Turn](#Combat%20Turn). See [Reacting-To-Attacks](Reacting-To-Attacks) for a list of example reactions.
