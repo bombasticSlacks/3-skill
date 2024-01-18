@@ -75,7 +75,10 @@ Any skill test related to combat.
 Any skill test related to communicating or interacting non-violently with another character.
 
 ## Action
-Something that a [Character](#Character) does, usually requires a skill test and time.
+Something that a [Character](#Character) does, usually requires a [Skill Test](#Skill%20Test) and time.
+
+## Skill Test
+Any time a [Character](#Character) rolls 2d6 + skill to determine an outcome, this is a skill test.
 
 ## Ranged Attack
 Any [Attack](#Attack) that isn't a [Melee Attack](#Melee%20Attack).
