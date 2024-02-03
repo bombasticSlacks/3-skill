@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 ---
 # Comestibles
-Comestible [Equipment](Equipment) consists of anything that the character will exhaust with use.
+Comestible consists of anything that the character will exhaust with use.
 
 ## Munitions
 Some weapons with a [Capacity](Terminology#Capacity) will require munitions of some kind. 
@@ -26,10 +26,4 @@ When you use munitions and don't succeed at the skill test, there is a 50% chanc
 
 ## Alchemy
 #TODOcopy 
-
-## Acquiring Comestibles
-* [Found through play](Equipment#Looting)
-* [Crafted](Designing-Comestibles)
-* Commissioned [Costs Of Services](Services#Costs%20Of%20Services)
-* [Examples](Example-Comestibles)
 

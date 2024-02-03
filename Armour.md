@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 ---
 # Armour
-Armour [Equipment](Equipment) is your character's safety net. It is designed to protect against only a small amount of high-powered attacks. However, advanced armour can be almost impervious to simpler weapons. Armour will protect certain locations on your body. A suit of armour together has shared integrity, but separate details for each location it protects on your body. Some armours will stack, such as shields and energy fields. If you have multiple valid armour sources, you can choose to use whichever you want (though only 1 per attack).
+Armour is your character's safety net. It is designed to protect against only a small amount of high-powered attacks. However, advanced armour can be almost impervious to simpler weapons. Armour will protect certain locations on your body. A suit of armour together has shared integrity, but separate details for each location it protects on your body. Some armours will stack, such as shields and energy fields. If you have multiple valid armour sources, you can choose to use whichever you want (though only 1 per attack).
 
 ## Locations
 Armour is separated into 2 distinct sections. [Ancillary](Injury#Ancillary), [Vitals](Injury#Vitals).
@@ -39,9 +39,3 @@ Your overall suit of armour will have an armour integrity, which is how well it 
 Characters shouldn’t be punished for dressing their characters in a specific way that doesn’t describe perfect protection. The most obvious, however dated, example is a chain mail bikini. Though silly and perhaps not something players would be comfortable with, if it is in your game, it counts as fully functional armour with similar weaknesses to any other armour of similar material. Players and, in most cases, NPC characters should not have their narrative armour exploited.  
 
 This extends to hats and helmets as well. Many players love the idea of a hero with their hair flowing in the wind and a perfect smile as they rush into battle. This vision doesn’t need to conflict with having a protected head. Characters could have headbands, thinly framed helmets, or even a high coif / scarf. These give the impression of head armour without giving up the vision of a hero.
-
-## Acquiring Armour
-* [Purchased](Example-Armour)
-* [Found through play](Equipment#Looting)
-* [Crafted](Designing-Armour)
-* Commissioned [Costs Of Services](Services#Costs%20Of%20Services)

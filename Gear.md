@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 ---
 # Gear
-Generalist [Equipment](Equipment) characters need to perform activities and skill tests or otherwise help their characters. 
+Generalist equipment characters need to perform activities and skill tests or otherwise help their characters. 
 
 ## Handling Equipment
 Unless specified, gear should be handled narratively. Reliable gear that isn’t otherwise damaged or displaced can be reused, temporary things like torches usually can’t.

@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 ---
 # Weapons
-Weapon [Equipment](Equipment) can normally be separated into 3 categories: Basic, artisan and exotic. Anyone can use a basic or artisan weapon without difficulty. Exotic weapons would require [additional training](Rogue#Exotic%20Expert) or attacks will be at a -3.
+Weapons can normally be separated into 3 categories: Basic, artisan and exotic. Anyone can use a basic or artisan weapon without difficulty. Exotic weapons would require [additional training](Rogue#Exotic%20Expert) or attacks will be at a -3.
 
 Weapons should be a mixture of simple and unique to be found and experienced.
 
@@ -40,10 +40,4 @@ Abilities or unique effects a weapon might possess. If you have an idea in mind 
 
 ## Quality
 Weapons come in various qualities. Higher quality weapons require specific [Combat Training](Combat-Training) to use. For more details on how quality effects a weapon, you can look at [Designing Weapons](Designing-Weapons#Quality)
-
-## Acquiring Weapons
-* [Purchased](Example-Weapons)
-* [Found through play](Equipment#Looting)
-* [Crafted](Designing-Weapons)
-* Commissioned [Costs Of Services](Services#Costs%20Of%20Services)
 
