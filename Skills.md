@@ -78,7 +78,7 @@ Rolling double 6's on a skill test is always considered a success. If you wouldn
 If you roll two identical values on a skill test (1,1), (2,2)… (6,6) this is considered doubles. Some [Actions](Terminology#Action) or [Training](Character-Development#Training) may reference Doubles.
 
 ## Character Skills
-Aspirant has a prebuilt list of skills that should cover any activity a character would be expected to do related to their primary attributes.
+The list of skills should cover any activity a character would be expected to do related to their primary attributes.
 
 ### [Strength](Strength) Skills
 * [Athletics](Strength#Athletics)

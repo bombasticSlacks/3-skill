@@ -5,7 +5,7 @@ nav_order: 0
 has_children: true
 ---
 # Running The Game
-Rules primarily for the GM related to running a game of Aspirant.
+Rules primarily for the GM related to running a game.
 
 # Settlements
 Creating a new settlement is very easy in Aspirant.

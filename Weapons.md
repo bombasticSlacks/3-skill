@@ -8,7 +8,7 @@ has_children: true
 # Weapons
 Weapon [Equipment](Equipment) can normally be separated into 3 categories: Basic, artisan and exotic. Anyone can use a basic or artisan weapon without difficulty. Exotic weapons would require [additional training](Rogue#Exotic%20Expert) or attacks will be at a -3.
 
-In the world of Aspirant, there are plenty of unique weapons to be found and experienced. Some examples will be provided, along with rules for creating your own weapons in each category.
+Weapons should be a mixture of simple and unique to be found and experienced.
 
 ## Damage Bonus
 Weapons have a damage bonus, used to calculate how much [Damage](Terminology#Damage) they do. See [Calculating Damage](Attacks#Calculating%20Damage).

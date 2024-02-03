@@ -5,7 +5,7 @@ parent: Telling The Story
 nav_order: 0
 ---
 # Movement
-In Aspirant, specifics of measurement, distance and the idea of "movement speed", are simplified. Instead of a movement speed, usually it is assumed your character can make it to where they want to go, the question is how rushed will you be when you get there.
+Specifics of measurement, distance and the idea of "movement speed", are simplified. Instead of a movement speed, usually it is assumed your character can make it to where they want to go, the question is how rushed will you be when you get there.
 
 ## Distance Increments
 Generally, when you are getting ready to do an action and plan to move towards something, there are 5 distances it can be from you:
