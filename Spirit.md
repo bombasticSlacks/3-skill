@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spirit
-parent: Stats
+parent: Attributes
 nav_order: 2
 grand_parent: How To Play
 ---

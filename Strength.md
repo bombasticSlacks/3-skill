@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Strength
-parent: Stats
+parent: Attributes
 nav_order: 2
 grand_parent: How To Play
 ---
