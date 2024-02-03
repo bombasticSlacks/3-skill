@@ -97,7 +97,7 @@ Performing [Melee Attack](Terminology#Melee%20Attack) doesn't put you [In Melee]
 
 ### Shield
 * This weapon deals 1 [Impact](Injury#Impact) [Damage](Terminology#Damage).
-* This weapon provides a (+2) to [Avoid](Reacting-To-Attacks#Avoid) skill tests when wielded.
+* This weapon provides a (+2) to [Avoid](Reacting#Avoid) skill tests when wielded.
 * This weapon counts as additional [Armour](Armour) protecting your [Vitals](Injury#Vitals) with [Size](Weapons#Size) [Armour Integrity](Armour#Armour%20Integrity), that can only be used against [Ranged Attack](Terminology#Ranged%20Attack).
 
 ### Sling

@@ -15,7 +15,7 @@ More guidelines for the GM are provided in [Running The Game](Running-The-Game).
 
 ## Dice
 ![dice-icons](Content/dice-icons.svg)
-Every [Action](Terminology#Action) is resolved by rolling 2d6 + modifier. In every case, there will be a relevant [Skill](Skills) and [Stat](Stats) associated with the action being attempted. To obtain your modifier
+Every [Action](Terminology#Action) is resolved by rolling 2d6 + modifier. In every case, there will be a relevant [Skill](Skills) and [Attribute](Attributes) associated with the action being attempted. To obtain your modifier
 $$skill\ value + stat\ value - difficulty = modifier$$ 
 Difficulty is assigned by the GM and defaults to 0. After determining the modifier, you then roll. 
 * If roll + modifier >= 10 you succeed.

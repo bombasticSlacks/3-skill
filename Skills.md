@@ -6,7 +6,7 @@ parent: How To Play
 nav_order: 0
 ---
 # Skills
-Things your character can do. In general, if you don’t have any levels in a skill, you can’t attempt to make a skill test. If it seems possible, or you must make the test, you count your skill value as -2.
+Things your character can do.
 
 Skills range in value from 0-3
 0 is untrained
@@ -64,7 +64,7 @@ When multiple characters are all attempting to perform the same task together, i
 > If 5 characters are attempting to sneak past a guard and 2 are trained and 3 are not, then the skill test is at an additional -2 (+1, -3).
 
 ### Untrained
-Generally you cannot perform a skill without [Training](Character-Development#Training), however in some cases a skill test will be forced or simple enough the character could feasibly attempt it anyway. This means that even though you are untrained, you or the game state is forcing your character to try anyway. Any untrained skill test is at an additional -2.
+Any untrained skill test is at an additional -2.
 
 > Examples would be trying to spot enemies with [Insight](Intelligence#Insight), or jumping across a ledge with [Athletics](Strength#Athletics). 
 
@@ -75,7 +75,7 @@ Rolling double 1's on a skill test is always considered a failure.
 Rolling double 6's on a skill test is always considered a success. If you wouldn't otherwise have succeeded, you are considered to have 0 [Step Of Success](#Step%20Of%20Success) on the skill test.
 
 ## Doubles
-If you roll two identical values on a skill test (1,1), (2,2)… (6,6) this is considered doubles. Some [Actions](Terminology#Action) or [Training](Character-Development#Training) may reference Doubles.
+If you roll two identical values on a skill test (1,1), (2,2)… (6,6) this is considered doubles. Some [Actions](Terminology#Action) special rules may reference Doubles.
 
 ## Character Skills
 The list of skills should cover any activity a character would be expected to do related to their primary attributes.

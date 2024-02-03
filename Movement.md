@@ -39,10 +39,23 @@ Distances shouldn't be set in stone, it should be flexible based on your charact
 | [Impossible](#Impossible) | $> 50m$              |
 
 ## Movement Action Penalty
-When you are expected to travel to a location and immediately perform an action, like when in [Combat](Combat), or otherwise pressured, any action you take may be at a penalty based on your [Movement Distance](Stats#Movement%20Distance). 
+When you are expected to travel to a location and immediately perform an action, like when in [Combat](Combat), or otherwise pressured, any action you take may be at a penalty.
 
-Your movement action penalty is equal to the number of additional distance increments you need to travel beyond your [Movement Distance](Stats#Movement%20Distance).
+Your movement action penalty is equal to the number of additional distance increments you need to travel beyond your [Movement Distance](#Movement%20Distance).
 
-> So if you had 2 [Agility](Agility) your [Movement Distance](Stats#Movement%20Distance) is [Reach](#Reach), if you were to move [Close](#Close) you would suffer a (-1) to an action, [Far](#Far) would be a (-3).
+> So if you had 2 [Agility](Agility) your [Movement Distance](#Movement%20Distance) is [Reach](#Reach), if you were to move [Close](#Close) you would suffer a (-1) to an action, [Far](#Far) would be a (-3).
 
 There is no movement action penalty for [Impossible](#Impossible) because it isn't possible to arrive there. The character must spend some time in transit before making it, any action penalty would be based on their intermediate destination.
+
+## Movement Distance
+This is the distance you can comfortably move based on [Agility](Agility). Some equipment or abilities may effect this value.
+
+| Agility | Distance                |
+| ------- | ----------------------- |
+| 1       | -                       |
+| 2       | [Reach](Movement#Reach) |
+| 3       | [Close](Movement#Close) |
+| 4       | [Short](Movement#Short) |
+| 5       | [Far](Movement#Far)     |
+## Avoiding Obstacles
+If there are obstacles in the way of a movement, you may need to perform an [Action](Terminology#Action) to avoid it.

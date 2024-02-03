@@ -60,8 +60,8 @@ Will be removed with time.
 
 ## In Melee
 *Your character moves around and connects weapons with combatants.*
-* If a character in melee moves to something further than in [Reach](Movement#Reach), others may perform [Attack of Opportunity](Reacting-To-Attacks#Attack%20of%20Opportunity) against them.
-* Characters in melee suffer a negative to [Ranged Attack](Terminology#Ranged%20Attack) equal to the greatest [Threat](Stats#Threat) among [Opponent](Terminology#Opponent) within [Reach](Movement#Reach) and also in melee.
+* If a character in melee moves to something further than in [Reach](Movement#Reach), others may perform [Attack of Opportunity](Reacting#Attack%20of%20Opportunity) against them.
+* Characters in melee suffer a negative to [Ranged Attack](Terminology#Ranged%20Attack) equal to the greatest [Threat](Attributes#Threat) among [Opponent](Terminology#Opponent) within [Reach](Movement#Reach) and also in melee.
 * Characters in melee effect being [Outnumbered](Attack-Bonuses#Outnumbered).
 
 ### Removing
@@ -85,7 +85,7 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 ## Defeated
 *You have collapsed, either dead or incapacitated, unable to aid your allies further. This might consist of having to put pressure on wounds, being in shock, actually being unconscious, or any number of narrative appropriate scenarios.*
 * Your character can no longer perform [Actions](Terminology#Action).
-* Your character has a [Threat](Stats#Threat) of 0. 
+* Your character has a [Threat](Attributes#Threat) of 0. 
 
 ### Removing
 {: .no_toc }

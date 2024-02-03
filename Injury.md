@@ -6,7 +6,7 @@ nav_order: 2
 has_children: true
 ---
 # Injury
-Humans don’t have hit points. A character's armour takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. [Damage](Terminology#Damage) converts to injuries as follows:
+Humans don’t have hit points. A character's [Armour](Armour) takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. [Damage](Terminology#Damage) converts to injuries as follows:
 
 | Damage | Injury                                |
 | ------ | ------------------------------------- |

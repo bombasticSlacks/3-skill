@@ -7,7 +7,7 @@ grand_parent: How To Play
 ---
 # Communication
 
-Measures how well you communicate. Influences your [Max Influence](Stats#Max%20Influence).
+Measures how well you communicate.
 
 It can be honed to better perform the [Skills](Skills):
 ## Confidence
@@ -39,7 +39,5 @@ The action of showing your intent with body language. This includes:
 
 Any time you are using your body to communicate, you should make a mannerism [Skill](Skills) test.
 
-### Relevant Activities
-* [Mounts](Mounts)
 
 ---

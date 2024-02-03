@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Reacting To Attacks
+title: Reacting
 parent: Combat
 nav_order: 2
 grand_parent: Telling The Story
 ---
 
-# Reacting to Attacks
+# Reacting
 During each full turn of combat, each character gets a single [Reaction](Terminology#Reaction), which they can use when something else happens during combat. 
 * Your reaction refreshes on your turn. 
 * In general, these are used to avoid incoming attacks. 

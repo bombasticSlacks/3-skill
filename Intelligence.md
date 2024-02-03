@@ -7,7 +7,7 @@ grand_parent: How To Play
 ---
 # Intelligence
 
-Measures how intelligent your character is. Influences [Max Power](Stats#Max%20Power).
+Measures how intelligent your character is.
 
 It can be honed to better perform the [Skills](Skills):
 ## Application
@@ -18,8 +18,6 @@ The action of applying what you know and have learned. This includes:
 
 Any time you are applying your knowledge and expertise, you should make an application [Skill](Skills) test.
 
-### Relevant Activities
-* [Being on Fire](Injury#Being%20on%20Fire)
 
 ---
 ## Insight
@@ -31,8 +29,6 @@ The action of learning more about the world around you, making causal connection
 
 Any time you are looking for more insight into a situation, you should make an insight [Skill](Skills) test.
 
-### Relevant Activities
-* [On Watch](Activities#On%20Watch)
 
 ---
 ## Memory

@@ -26,13 +26,13 @@ An abstraction for how much power and harm is behind an attack. When you suffer 
 If a [Character](#Character) successfully [Wounded](Effects#Wounded) with an attack it is considered a wounding attack.
 
 ## Reaction
-A response a [Character](#Character) can perform in combat while it is not their turn. [Characters](#Character) generally get 1 reaction per [Combat Round](#Combat%20Round). A [Character's](#Character) reaction refreshes at the start of their [Combat Turn](#Combat%20Turn). See [Reacting-To-Attacks](Reacting-To-Attacks) for a list of example reactions.
+A response a [Character](#Character) can perform in combat while it is not their turn. [Characters](#Character) generally get 1 reaction per [Combat Round](#Combat%20Round). A [Character's](#Character) reaction refreshes at the start of their [Combat Turn](#Combat%20Turn). See [Reacting](Reacting) for a list of example reactions.
 
 ## Combat Round
 In combat, a combat round is all the actions of every [Character](#Character) in that combat. When everyone has taken a combat turn, the combat round is over and a new combat round starts. If it is important for some reason, a combat round usually encompasses 5 seconds of time, but shouldn't be dwelled on too specifically unless necessary.
 
 ## Combat Turn
-In combat, a turn is a [Character's](#Character) portion of the round. What they are doing is happening in parallel with everyone else, but for simplicity the game takes things in an order determined by [Initiative Value](Combat#Initiative%20Value). On a character's turn, they can usually do one action and potentially move. See [Combat-Turn](Combat-Turn) for more details on what a character can do.
+See [Combat-Turn](Combat-Turn)
 
 ## Opponent
 The opposition of a currently referenced [Character](#Character). The character who will be negatively effected by your actions, or you would be by theirs.
@@ -124,10 +124,6 @@ If something can be loaded as a [Free Action](Terminology#Free%20Action), immedi
 The number and type of things that this item can be [Loaded](#Loading) with. Usually written as Capacity X(Y), which means it holds X ammo, and is loaded with Y item.
 
 > So a weapon described as having Capacity 12([Ammunition](Example-Gear#Ammunition)) would hold 12 generic ammo.
-
-
-## Bind
-The act of allowing you to use a [Magic-Items](Magic-Items). You can only bind a number of [Magic-Items](Magic-Items) equal to your [Affinity](Stats#Max%20Affinity).
 
 ### Scene
 A scene refers to the current moment of action / intrigue playing out. Scenes don't have a defined length or strict rules, but it is a useful way of talking about narrative play.

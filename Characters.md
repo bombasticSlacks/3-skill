@@ -37,4 +37,4 @@ For significant NPCs that will interact in very meaningful ways with the players
 A collection of values that would approximate many characters with suggested values for the NPCs skill tests. This allows you to quickly get consistent NPCs up and running in your games.
 
 ### Full
-Follow the general rules of [Character-Creation](Character-Creation). They have [Stats](Stats), [Gear](Gear), [Skills](Skills) and training either from the standard lists or specialized ones.
+Follow the general rules of [Character-Creation](Character-Creation). They have [Attributes](Attributes), [Gear](Gear), [Skills](Skills) and training either from the standard lists or specialized ones.
