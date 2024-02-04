@@ -44,7 +44,7 @@ You make your attacks harder to predict and therefore harder to avoid. You can g
 ### Heavy Strike
 *Action modifier varies*
 
-Your [Attack](Terminology#Attack) does 1 additional [Damage](Terminology#Damage). The penalty for this is variable, see [Calculating Damage](#Calculating%20Damage).
+Your [Attack](Terminology#Attack) does 1 additional [Damage](Terminology#Damage). Every weapon weilded by a character will have a different heavy strike penalty.
 
 ### Reposition
 *Action modifier (-1)*
@@ -55,22 +55,6 @@ before making a melee attack or manoeuvre, you can move to a different side of y
 *Action modifier (-2)*
 
 Your [Attack](Terminology#Attack) strikes a person's vitals. An [Attack](Terminology#Attack) that rolls [Doubles](Skills#Doubles), is always considered a vitals hit.
-
-
----
-## Calculating Damage
-When you attack with a weapon it will deal an amount of damage, this is calculated as follows:
-
-| Damage Bonus | Damage | Heavy Strike Penalty |
-| ------------ | ------ | -------------------- |
-| 1-5          | 1      | $Damage\ Bonus - 6$    |
-| 6-10         | 2      | $Damage\ Bonus - 11$    |
-| 11-15        | 3      | $Damage\ Bonus - 16$    |
-| 16+          | 4      | -                    | 
-
-Damage bonus usually includes your Strength, along with bonuses from the item you are wielding, this value generally doesn't change. You should also figure out what your [Heavy Strike](#Heavy%20Strike) penalty is.
-
-> So if a character with 3 strength wields a melee weapon with a damage bonus of 5, they have a total damage bonus of 8. This means that their weapon deals 2 damage and their [Heavy Strike](#Heavy%20Strike) penalty is (-3).
 
 ## Taking Damage
 If you fail to mitigate an incoming attack, you will take damage.

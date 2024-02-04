@@ -27,7 +27,20 @@ This weapon adds [Strength](Strength) to [Damage Bonus](Weapons#Damage%20Bonus).
 ### Size Matters
 This weapon adds $size \times 2$ to [Damage Bonus](Weapons#Damage%20Bonus).
 
+### One Handed
+This weapon requires one free hand to wield effectively.
 
+### Two Handed
+This weapon requires two free hands to wield effectively.
+
+### Exotic
+This weapon requires additional training to be used effectively but has additional traits available.
+
+### Basic
+This weapon is made of simple materials, its [Damage Bonus](Weapons#Damage%20Bonus) is reduced by 1.
+
+### Impossibly Large
+This weapon cannot be wielded by an average-sized [Character](Terminology#Character).
 
 ## 1 Cost Traits
 

@@ -13,27 +13,27 @@ Weapons should be a mixture of simple and unique to be found and experienced.
 ## Damage Bonus
 Weapons have a damage bonus, used to calculate how much [Damage](Terminology#Damage) they do. See [Calculating Damage](Attacks#Calculating%20Damage).
 
-## Size
-Weapons, like all items, come in various sizes. However, in the case of weapons, an item's size has more effect than just the required storage space. 
-- A weapon's $size \times 2$ is added to its [Damage Bonus](Weapons#Damage%20Bonus)
-- Weapons of size 1-2 require one hand
-- Weapons of size 3-4 require two hands
-- Weapons of size 5 cannot be traditionally wielded by adventurers.
+### Calculating Damage
+[Damage Bonus](#Damage%20Bonus) can be converted to an actual damage value as follows:
 
-> Examples of weapon sizes are as follows:
-Size 1 - Dagger, hammer, knife
-Size 2 - Arming Sword, Mace, Truncheon
-Size 3 - Long sword, Warhammer, Spear
-Size 4 - Lance, Great Sword
-Size 5 - Giant Weapons
+| Damage Bonus | Damage | Heavy Strike Penalty |
+| ------------ | ------ | -------------------- |
+| 1-5          | 1      | $Damage\ Bonus - 6$    |
+| 6-10         | 2      | $Damage\ Bonus - 11$    |
+| 11-15        | 3      | $Damage\ Bonus - 16$    |
+| 16+          | 4      | -                    | 
 
-> So, for example, a long sword is a size 3 weapon. This means it is two-handed, gets +6 damage bonus.
+Damage bonus usually includes your Strength, along with bonuses from the item you are wielding, this value generally doesn't change. You should also figure out what your [Heavy Strike](#Heavy%20Strike) penalty is.
+
+Damage is usually written as X(-Y) where X is the damage dealt and Y is the [Heavy Strike](Attacks#Heavy%20Strike) penalty.
+
+> So if a character with 3 strength wields a melee weapon with a damage bonus of 5, they have a total damage bonus of 8. This means that their weapon deals 2 damage and their [Heavy Strike](#Heavy%20Strike) penalty is (-3), or 2(-3).
 
 ## Damage Type
 Weapons can usually have any of the physical damage types [Piercing](Injury#Piercing), [Rending](Injury#Rending), [Impact](Injury#Impact). This will affect what injuries it will cause and what armour will defend against it. Fabrics tend to be strong against [Impact](Injury#Impact), plates against [Rending](Injury#Rending), and weaves against [Piercing](Injury#Piercing). 
 
 ## Range
-Weapons, unless specified, can only be used to attack things in [Reach](Movement#Reach). Some traits may give a weapon a specific range however.
+Weapons, unless specified, can only be used to attack things in [Reach](Movement#Reach). Some traits may give a weapon a specific range, however.
 
 ## Threat
 A measure of how dangerous and threatening a weapon is. Used to weight who unintelligent monsters target at random as well as makes it harder to fight with ranged weapons when [In Melee](Effects#In%20Melee).
