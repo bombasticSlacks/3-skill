@@ -27,6 +27,9 @@ Some armour will be more susceptible or less susceptible to certain [Types of Da
 ## Armour Integrity
 Your overall suit of armour will have an armour integrity, which is how well it all comes together to protect you. In other words, your armour suit has a shared amount of health over all locations. Armour Integrity is equal to the values of your [Vitals](Injury#Vitals) armour and [Ancillary](Injury#Ancillary) armour. 
 
+## Armour Traits
+Some armour will have specialized [Armour-Traits](Armour-Traits) that provide additional utility and ability. These should be representative of specialized construction.
+
 ## Style
 Characters shouldn’t be punished for dressing their characters in a specific way that doesn’t describe perfect protection. The most obvious, however dated, example is a chain mail bikini. Though silly and perhaps not something players would be comfortable with, if it is in your game, it counts as fully functional armour with similar weaknesses to any other armour of similar material. Players and, in most cases, NPC characters should not have their narrative armour exploited.  
 

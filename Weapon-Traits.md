@@ -42,6 +42,16 @@ This weapon is made of simple materials, its [Damage Bonus](Weapons#Damage%20Bon
 ### Impossibly Large
 This weapon cannot be wielded by an average-sized [Character](Terminology#Character).
 
+### Capacity(X, Type)
+The number and types of things that this item can be [Loaded](#Loading(X)) with. Usually written as Capacity (X, Type), which means it can be used X times, and is loaded with Y item.
+
+> So a weapon described as having Capacity 12([Ammunition](Example-Gear#Ammunition)) would hold 12 generic ammo.
+
+### Loading(X)
+Some weapons and equipment will require a certain amount of time to be ready for use. This is the loading time. Loading time is specified as (X) where X is the number of rounds, or 0 for [Free Action](#Free%20Action).
+
+If something can be loaded as a [Free Action](Terminology#Free%20Action), immediately using it puts the action at a (-1).
+
 ## 1 Cost Traits
 
 ### Balanced
@@ -51,25 +61,25 @@ This weapon cannot be wielded by an average-sized [Character](Terminology#Charac
 *Your weapon fires balls of lead propelled by incendiary powder.*
 * Loses the [Strength](#Strength) trait.
 * +6 [Damage Bonus](Weapons#Damage%20Bonus). 
-* [Loading](Terminology#Loading)(2).
+* [Loading](#Loading(X))(2).
 * Range of [Far](Movement#Far).
-* [Capacity](Terminology#Capacity) 1([Ammunition](Example-Gear#Ammunition)).
+* [Capacity](#Capacity(X, Type)) 1([Ammunition](Example-Gear#Ammunition)).
 
 ### Bow
 *This weapon fires arrows.* 
 * Loses the [Strength](#Strength) trait.
 * You can add [Strength](Strength) to damage *only* up to a maximum of the size of the weapon. 
-* [Loading](Terminology#Loading)(0).
+* [Loading](#Loading(X))(0).
 * Range of [Short](Movement#Short).
-* [Capacity](Terminology#Capacity) 1([Ammunition](Example-Gear#Ammunition)).
+* [Capacity](#Capacity(X, Type)) 1([Ammunition](Example-Gear#Ammunition)).
 
 ### Crossbow
 *Your weapon fires bolts of metal.*
 * Loses the [Strength](#Strength) trait.
 * Add size to [Damage Bonus](Weapons#Damage%20Bonus) (in addition to [Size Matters](#Size%20Matters)).
-* [Loading](Terminology#Loading)(1).
+* [Loading](#Loading(X))(1).
 * Range of [Short](Movement#Short).
-* [Capacity](Terminology#Capacity) 1([Ammunition](Example-Gear#Ammunition)).
+* [Capacity](#Capacity(X, Type)) 1([Ammunition](Example-Gear#Ammunition)).
 
 ### Deadly Draw
 This weapon is [Penetrating](#Penetrating) for your first attack in any combat.
@@ -81,7 +91,7 @@ This does not appear to be a weapon but has -1 [Damage Bonus](Weapons#Damage%20B
 This weapon deals -2 damage, on [Non-mitigated Attack](Terminology#Non-mitigated%20Attack) it causes the enemy to be [Grappled](Special-Combat-Actions#grapple). You need to maintain hold of the ensnaring weapon to maintain the [Grapple](Special-Combat-Actions#grapple).
 
 ### Fast Reloading
-If your weapon requires [Loading](Terminology#Loading), it takes half the time. [Loading](Terminology#Loading) that normally takes an action is instead a [Free Action](Terminology#Free%20Action).
+If your weapon requires [Loading](#Loading(X)), it takes half the time. [Loading](#Loading(X)) that normally takes an action is instead a [Free Action](Terminology#Free%20Action).
 
 ### Hand and a Half
 If this weapon is otherwise usable in one hand, the weapon counts as 1 size larger while wielded in two hands.
@@ -99,7 +109,7 @@ Whenever you attack with this weapon and don’t strike anything (either miss or
 This weapon has an additional combat profile with the default traits and a different [Types of Damage](Injury#Types%20of%20Damage). When you attack, select one of the two types.       
 
 ### Multiple Shots
-If your weapon has [Capacity](Terminology#Capacity) it has 3 additional.   
+If your weapon has [Capacity](#Capacity(X, Type)) it has 3 additional.   
 
 ### On Line
 * While wielded you suffer a (-1) to [Reactions](Terminology#Reaction). 
@@ -115,8 +125,8 @@ Performing [Melee Attack](Terminology#Melee%20Attack) doesn't put you [In Melee]
 
 ### Sling
 *This weapon aids with throwing things long distances.*
-* [Loading](Terminology#Loading)(0).
-* [Capacity](Terminology#Capacity) 1([Throwables](Comestibles#Throwables)).
+* [Loading](#Loading(X))(0).
+* [Capacity](#Capacity(X, Type)) 1([Throwables](Comestibles#Throwables)).
 * Size 1-2 range of [Close](Movement#Close).
 * Size 3+ range of [Short](Movement#Short).
 * The result of attacks with this weapon are equivalent to what it is loaded with.
@@ -124,6 +134,21 @@ Performing [Melee Attack](Terminology#Melee%20Attack) doesn't put you [In Melee]
 
 ### Throwable
 This weapon is balanced for throwing, you receive no penalties for throwing it.  
+
+### Close Quarters
+*Small enough to handle close encounters.*
+* This weapon can be used [In Melee](Effects#In%20Melee) with no penalty.
+
+### Shotgun
+*Extra projectiles means more damage, or less, depends on how close you want to be.*
+* This only effects weapons with a range greater than [Reach](Movement#Reach). 
+* This weapon deals (+1) damage within [Reach](Movement#Reach)
+* This weapon deals (-1) damage if outside the [Attack Range](Attacks#Attack%20Range).
+
+### Launcher
+*This weapon can assist in firing [Throwables](Comestibles#Throwables) using its inherent mechanical advantage*.
+* Use [Accuracy](Agility#Accuracy) for [Attack](Terminology#Attack).
+* Throwing can be done at a distance equal to this weapons [Range](Weapons#Range).
 
 
 ## 2 Cost Traits
@@ -137,5 +162,11 @@ This weapon has (-1) to [Actions](Terminology#Action) made with it and +3 [Damag
 ### Penetrating
 This weapon ignores [Resistance](Armour#Weakness%20and%20Resistance) of armour.
 
+### Sundering
+* If the [Opponent](Terminology#Opponent) of an attack has any remaining [Armour Integrity](Armour#Armour%20Integrity), this weapon deals (+1) damage.
+
 ### Perfect
 This weapon receives a (+1) to [Actions](Terminology#Action) made with it, and a +1 to [Damage Bonus](Weapons#Damage%20Bonus).
+
+### Area
+This weapon affects everyone within [Reach](Movement#Reach) of the target (everyone gets a reaction).
