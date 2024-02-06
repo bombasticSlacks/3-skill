@@ -72,6 +72,7 @@ If something can be loaded as a [Free Action](Terminology#Free%20Action), immedi
 * [Loading](#Loading(X))(0).
 * Range of [Short](Movement#Short).
 * [Capacity](#Capacity(X, Type)) 1([Ammunition](Example-Gear#Ammunition)).
+* Gains [Salvageable](#Salvageable).
 
 ### Crossbow
 *Your weapon fires bolts of metal.*
@@ -80,6 +81,7 @@ If something can be loaded as a [Free Action](Terminology#Free%20Action), immedi
 * [Loading](#Loading(X))(1).
 * Range of [Short](Movement#Short).
 * [Capacity](#Capacity(X, Type)) 1([Ammunition](Example-Gear#Ammunition)).
+* Gains [Salvageable](#Salvageable).
 
 ### Deadly Draw
 This weapon is [Penetrating](#Penetrating) for your first attack in any combat.
@@ -117,6 +119,9 @@ If your weapon has [Capacity](#Capacity(X, Type)) it has 3 additional.
 
 ### Reach
 Performing [Melee Attack](Terminology#Melee%20Attack) doesn't put you [In Melee](Effects#In%20Melee). You contribute to [Outnumbered](Attack-Bonuses#Outnumbered) for anyone in [Reach](Movement#Reach).
+
+### Salvageable
+[Munitions](Comestibles#Munitions) spent by this weapon, if resulting in a [Mitigated Attack](Terminology#Mitigated%20Attack), the [Munitions](Comestibles#Munitions) are only destroyed if the [Skill Test](Terminology#Skill%20Test) results in [Doubles](Skills#Doubles).
 
 ### Shield
 * This weapon deals 1 [Impact](Injury#Impact) [Damage](Terminology#Damage).

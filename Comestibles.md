@@ -18,9 +18,6 @@ A less sophisticated solution to ranged attacks, sometimes weapons or items are 
 
 As with [Ammunition](#Ammunition), specialized throwables exist either with larger damage bonuses, specialized effects or changed damage type.
 
-## Salvaging
-When you use munitions, and it results in a [Mitigated Attack](Terminology#Mitigated%20Attack), there is a 50% chance that the ammunition is salvageable. This can be calculated by rolling a d6, on a 1-3 the ammo is destroyed, on a 4-6 the ammo is lootable.
-
 ## Alchemy
 #TODOcopy 
 
