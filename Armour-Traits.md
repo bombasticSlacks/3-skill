@@ -7,8 +7,7 @@ nav_order: 2
 ---
 # [Armour](Armour) Traits
 {: .no_toc }
-## Contents
-{: .no_toc }
+
 <details open markdown="block">
   <summary>
     Table of contents
