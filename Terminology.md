@@ -99,15 +99,14 @@ You may when expected to perform one type of skill test, you may instead perform
 An [Action](#Action) that isn't related to combat, and does not happen during combat.
 
 ## Re-roll
-A re-roll is when a character rerolls all dice they just rolled and recalculates the results based on the new numbers.
+A re-roll is when a character re-rolls all dice they just rolled and recalculates the results based on the new numbers.
 
 ## Stack
 Refers to a bonus being able to be taken multiple times to get the effect repeated.
 
 ## Charges
-An abstracted count of the number of times an item can be used. If charges are written as X(Y), then the item has X charges and charges can be refreshed for Y silver.
+See [Charges](Gear#Charges).
 
-> Example: a tool kit has 3(2) charges, means it can be used 3 times and can have its uses refreshed for 2 silver each.
 
 ## Difficulty Value
 The penalty for an [Action](#Action) assigned by the [GM](How-To-Play#GM).
