@@ -23,12 +23,12 @@ A standard skill test, will have a negative assigned, and it will be either pass
 > So a [Confidence](Communication#Confidence) [Fixed Difficulty(-1)](#Fixed%20Difficulty) would be a communication skill test with a -1 to the roll, [Strike](Strength#Strike) [Fixed Difficulty(0)](#Fixed%20Difficulty) would be a strike skill test with no additional penalty.
 
 ### Variable Difficulty
-This is a test where you will receive more information or success based on how well you do. Variable difficulty skill tests care about your [Step Of Success](#Step%20Of%20Success)
+This is a test where you will receive more information or success based on how well you do. Variable difficulty skill tests care about your [Step Of Success](#Step)
 
 > An example is collecting flowers, your character may get additional flowers based on their number of steps. 
 
-### Step Of Success
-When talking about variable difficulties, rules may reference step of success. A step is 1 additional on your dice roll above what was required, 4 steps of success is a “14”. 
+### Step
+When talking about variable difficulties, rules may reference step your steps. A step of success is 1 additional on your dice roll above what was required, 4 steps of success is a “14”. A step of failure is 1 less on your dice roll above what was required. 
 
 ### Opposed Difficulty
 A standard skill test, however since the skill test is directed at a certain thing their expertise/resistance to the effect will influence the difficulty. Generally, this means the skill test will have an additional penalty equal to the target's relevant [Character Skills](#Character%20Skills) ranks, this will not include their attribute, but a high attribute character could provide an additional -1 penalty on the test.
@@ -44,15 +44,15 @@ Sometimes a character will begin working on something early in a session or [Sce
 
 A project is a [Variable Difficulty](#Variable%20Difficulty) skill test:
 * If you fail, your character isn't capable of attempting the project, whether it be you lack the knowledge, items, or the process eludes you. Potentially, in the future, you could receive aid of some kind to allow you to attempt the project again.
-* If you succeed, your character marks their [Step Of Success](#Step%20Of%20Success) against a number of required [Step Of Success](#Step%20Of%20Success) set by the [GM](How-To-Play#GM).
+* If you succeed, your character marks their [Step Of Success](#Step) against a number of required [Step Of Success](#Step) set by the [GM](How-To-Play#GM).
 
-The initial success should provide the player with some information, direction or confirmation to [The Players](How-To-Play#The%20Players) are on the right track. Then as the [Scene](Terminology#Scene) progresses, you can take further action to gain additional steps towards success, these should not directly require a skill test (but obtaining the progress may require other skill tests). Any beneficial project action should give at least 1 [Step Of Success](#Step%20Of%20Success) and may give up to 3. They also potentially should again give the players further information, direction or confirmation towards their final goal.
+The initial success should provide the player with some information, direction or confirmation to [The Players](How-To-Play#The%20Players) are on the right track. Then as the [Scene](Terminology#Scene) progresses, you can take further action to gain additional steps towards success, these should not directly require a skill test (but obtaining the progress may require other skill tests). Any beneficial project action should give at least 1 [Step Of Success](#Step) and may give up to 3. They also potentially should again give the players further information, direction or confirmation towards their final goal.
 
-If the number of [Step Of Success](#Step%20Of%20Success) is met, and [The Players](How-To-Play#The%20Players) and [GM](How-To-Play#GM) both agree that it is time for the project to be completed, there is no additional skill test required, after all the initial work, the project will succeed.
+If the number of [Step Of Success](#Step) is met, and [The Players](How-To-Play#The%20Players) and [GM](How-To-Play#GM) both agree that it is time for the project to be completed, there is no additional skill test required, after all the initial work, the project will succeed.
 
-Even if you roll all of the required [Step Of Success](#Step%20Of%20Success) on the original skill test, **all projects require at least one additional step to be completed**.
+Even if you roll all of the required [Step Of Success](#Step) on the original skill test, **all projects require at least one additional step to be completed**.
 
-> As an example, say a hunter is trying to identify the creature that has been slaughtering farmers' cows. He has [Memory](Intelligence#Memory) and [Knowledgeable Cryptozoologist](Chronicler#Knowledgeable%20Cryptozoologist), so he is capable of knowing of the creature, though he doesn't have many clues to go on yet. After witnessing the injuries on the cows, he makes his [Project](#Project) skill test rolling [Memory](Intelligence#Memory) to see if he knows of the creature and succeeds with 3 steps of success. The hunter has a list of creatures it could be based on the attack but can't narrow it down, the GM assigns a requirement of 4 [Step Of Success](#Step%20Of%20Success) to complete the project. The hunter will need one more clue to receive the details of the creature.
+> As an example, say a hunter is trying to identify the creature that has been slaughtering farmers' cows. He has [Memory](Intelligence#Memory) and [Knowledgeable Cryptozoologist](Chronicler#Knowledgeable%20Cryptozoologist), so he is capable of knowing of the creature, though he doesn't have many clues to go on yet. After witnessing the injuries on the cows, he makes his [Project](#Project) skill test rolling [Memory](Intelligence#Memory) to see if he knows of the creature and succeeds with 3 steps of success. The hunter has a list of creatures it could be based on the attack but can't narrow it down, the GM assigns a requirement of 4 [Step Of Success](#Step) to complete the project. The hunter will need one more clue to receive the details of the creature.
 > He decides to go into town to ask about strange occurrences.
 > After some additional narrative time, the hunter discovers that the creature had avoided a woman wearing a lot of silver jewellery, this gives him his final step of success and the player and GM agree that it is reasonable for the project to then be completed. 
 > As a reward for completion the GM provides the hunter with the information that it is a Werewolf and the abilities and attributes of the creature.
@@ -72,7 +72,7 @@ Any untrained skill test is at an additional -2.
 Rolling double 1's on a skill test is always considered a failure.
 
 ### Critical Success
-Rolling double 6's on a skill test is always considered a success. If you wouldn't otherwise have succeeded, you are considered to have 0 [Step Of Success](#Step%20Of%20Success) on the skill test.
+Rolling double 6's on a skill test is always considered a success. If you wouldn't otherwise have succeeded, you are considered to have 0 [Step Of Success](#Step) on the skill test.
 
 ## Doubles
 If you roll two identical values on a skill test (1,1), (2,2)… (6,6) this is considered doubles. Some [Actions](Terminology#Action) special rules may reference Doubles.

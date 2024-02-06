@@ -8,8 +8,13 @@ nav_order: 0
 {: .no_toc }
 Effects are temporary things that can be applied to a character. They will effect your [Action](Terminology#Action) and the [Action](Terminology#Action) of others.
 
+---
 ## Stunned
 A stunned character cannot perform [Action](Terminology#Action) or move.
+
+### Removing
+{: no_toc }
+* After missing a [Combat-Turn](Combat-Turn) or when narratively appropriate.
 
 ---
 
@@ -114,3 +119,13 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 
 ---
 
+## Disoriented
+*You have difficulty focusing and moving, everything feels like it is under water.*
+* (-2) to all [Actions](Terminology#Action).
+
+### Removing
+{: .no_toc }
+* Goes away on its own at the end of the [Scene](Terminology#Scene).
+* Can perform [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0) as an [Action](Terminology#Action) to remove.
+
+---

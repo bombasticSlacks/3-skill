@@ -71,7 +71,7 @@ Ice, chill, vampiric energy ravage the body.
 Your characters are heroes. Heroes can’t instantly die from an attack. Any attack that would kill a hero outright, instead leaves the character [Defeated](Effects#Defeated).
 
 ## Injury Penalty
-After someone is wounded, whether they pass out or stay conscious, they will suffer long-term effects. Once the combat ends, you will take negatives to any skill tests. Critical injuries give a -3 to all tests, and Severe injuries give a -2 to all tests. This lasts until your characters does [Injury Recovery](Activities#Injury%20Recovery).
+After someone is wounded, whether they pass out or stay conscious, they will suffer long-term effects. Once the combat ends, any characters who suffered [Wounded](Effects#Wounded) gain the [Long Term Injury](Effects#Long%20Term%20Injury) effect.
 
 ## Managing Injuries
 Aside from the trauma of being injured in the field, there are other immediate risks to a person who has been injured, and they will need treatment to stay healthy or remain alive (depending on severity).

@@ -116,3 +116,6 @@ An unarmed attack is a [Melee Attack](#Melee%20Attack) without a weapon, using o
 
 ### Scene
 A scene refers to the current moment of action / intrigue playing out. Scenes don't have a defined length or strict rules, but it is a useful way of talking about narrative play.
+
+### Eye Line
+A character is within eye line of something if an unbroken line could be drawn from the center of their head (or vision center) to the thing you are checking eye line of.
