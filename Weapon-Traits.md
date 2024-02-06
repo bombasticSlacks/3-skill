@@ -155,6 +155,10 @@ This weapon is balanced for throwing, you receive no penalties for throwing it.
 * Use [Accuracy](Agility#Accuracy) for [Attack](Terminology#Attack).
 * Throwing can be done at a distance equal to this weapons [Range](Weapons#Range).
 
+### Spraying
+*This weapon can be rapid fired to cause additional harm.*
+* If this weapon has [Capacity(X, Type)](#Capacity(X,%20Type)) you can expend up to 3 additional [Munitions](Comestibles#Munitions) and for each expended you receive a (+1) to [Attack](Terminology#Attack) and (+1) to [Damage Bonus](Weapons#Damage%20Bonus).
+
 
 ## 2 Cost Traits
 
@@ -168,10 +172,14 @@ This weapon has (-1) to [Actions](Terminology#Action) made with it and +3 [Damag
 This weapon ignores [Resistance](Armour#Weakness%20and%20Resistance) of armour.
 
 ### Sundering
-* If the [Opponent](Terminology#Opponent) of an attack has any remaining [Armour Integrity](Armour#Armour%20Integrity), this weapon deals (+1) damage.
+* If the [Opponent](Terminology#Opponent) of an attack has any remaining [Armour Integrity](Armour#Armour%20Integrity), this weapon deals (+1) [Damage](Terminology#Damage).
 
 ### Perfect
-This weapon receives a (+1) to [Actions](Terminology#Action) made with it, and a +1 to [Damage Bonus](Weapons#Damage%20Bonus).
+* (+1) to [Actions](Terminology#Action) made with this weapon.
+* (+1) to [Damage Bonus](Weapons#Damage%20Bonus).
 
 ### Area
-This weapon affects everyone within [Reach](Movement#Reach) of the target (everyone gets a reaction).
+* This weapon affects everyone within [Reach](Movement#Reach) of the target (everyone gets a reaction).
+
+### Burning
+This weapon on a [Successful Attack](Terminology#Successful%20Attack) causes the opponent to be [On Fire](Effects#On%20Fire).
