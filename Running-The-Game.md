@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Running The Game
-nav_order: 0
+nav_order: 9
 has_children: true
 ---
 # Running The Game
