@@ -33,7 +33,7 @@ nav_order: 2
 
 ## Unprotected
 *You don't have armour on this location at all.*
-* When attacked in this location, your [Armour Integrity](Armour#Armour%20Integrity) is considered to be 0.
+* When attacked in the [Ancillary](Game/Core/Injury#Ancillary) your [Armour Integrity](Armour#Armour%20Integrity) is considered to be 0.
 
 ## Sealed
 *This armour is completely sealed, making you self-sufficient in hazardous environments up to and including space.*

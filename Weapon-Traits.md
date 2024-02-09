@@ -46,6 +46,9 @@ This weapon requires two free hands to wield effectively.
 ### Exotic
 This weapon requires additional training to be used effectively but has additional traits available.
 
+### Advanced
+This weapon requires sophisticated systems to work and can be dissrupted by external tools and processes.
+
 ### Basic
 This weapon is made of simple materials, its [Damage Bonus](Weapons#Damage%20Bonus) is reduced by 1.
 
