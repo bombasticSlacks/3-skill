@@ -10,7 +10,7 @@ Effects are temporary things that can be applied to a character. They will effec
 
 ---
 ## Stunned
-A stunned character cannot perform [Action](Terminology#Action) or move.
+A stunned character cannot perform [Action](Terminology#Action) or [Movement](Game/Core/Movement).
 
 ### Removing
 {: no_toc }
@@ -20,7 +20,7 @@ A stunned character cannot perform [Action](Terminology#Action) or move.
 
 ## Unconscious
 *You are out cold, you cannot respond to external stimuli of any kind.*
-* You cannot perform [Action](Terminology#Action) of any kind.
+* You cannot perform [Action](Terminology#Action) or [Movement](Game/Core/Movement).
 
 ### Removing
 {: no_toc }
@@ -89,7 +89,7 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 
 ## Defeated
 *You have collapsed, either dead or incapacitated, unable to aid your allies further. This might consist of having to put pressure on wounds, being in shock, actually being unconscious, or any number of narrative appropriate scenarios.*
-* Your character can no longer perform [Actions](Terminology#Action).
+* Your character can no longer perform [Actions](Terminology#Action) or [Movement](Game/Core/Movement).
 * Your character has a [Threat](Attributes#Threat) of 0. 
 
 ### Removing
@@ -127,5 +127,25 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 {: .no_toc }
 * Goes away on its own at the end of the [Scene](Terminology#Scene).
 * Can perform [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0) as an [Action](Terminology#Action) to remove.
+
+---
+## Restrained
+*Something is keeping you from acting or moving.*
+* You cannot perform [Action](Terminology#Action) or [Movement](Game/Core/Movement).
+
+### Removing
+{: no_toc }
+* Whatever is restraining you must be removed.
+
+
+---
+## Stuck
+*Something is keeping you from moving.*
+* You cannot do any [Movement](Game/Core/Movement).
+
+### Removing
+{: no_toc }
+* Whatever has made you stuck you must be seperated from.
+
 
 ---

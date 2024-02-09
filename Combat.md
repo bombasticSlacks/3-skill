@@ -7,8 +7,15 @@ has_children: true
 ---
 
 # Combat
-Combat is more structured than standard narrative time, since it is also more high stakes. Combat is broken up into [Combat Rounds](Terminology#Combat%20Round). During a combat round, you:
-* Get a [Combat-Turn](Combat-Turn) where you can perform an [Action](Terminology#Action).
+Combat is more structured than standard narrative time, since it is also more high stakes. Combat is broken up into [Combat Rounds](#Combat%20Round). 
+
+## Combat Round
+In combat, a combat round is all the actions of every [Character](Game/Core/Terminology#Character) in that combat. When everyone has taken a combat turn, the combat round is over and if there are still hostile characters aware of one another, a new combat round starts. If it is important for some reason, a combat round usually encompasses 5 seconds of time, but shouldn’t be dwelled on too specifically unless necessary.
+
+At the start of combat, every active participant should compute an [Initiative Value](#Initiative%20Value) which will determine the order they act.
+
+During each combat round, all [Characters](Game/Core/Terminology#Character):
+* Get a [Combat Turn](Combat-Turn) where you can perform an [Action](Terminology#Action).
 * Get a [Reaction](Terminology#Reaction) used for [Reacting](Reacting).
 
 ## Initiative Value

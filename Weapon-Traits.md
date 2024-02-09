@@ -25,6 +25,18 @@ This weapon adds [Strength](Strength) to [Damage Bonus](Weapons#Damage%20Bonus).
 ### Size Matters
 This weapon adds $size \times 2$ to [Damage Bonus](Weapons#Damage%20Bonus).
 
+### Striking
+This weapon [Attacks](Game/Core/Attacks) using the [Strike](Game/Core/Strength#Strike) skill.
+
+### Targeted
+This weapon [Attacks](Game/Core/Attacks) using the [Accuracy](Game/Core/Agility#Accuracy) skill.
+
+### Mind Over Matter
+This weapon [Attacks](Game/Core/Attacks) using the [Will](Game/Core/Spirit#Will) skill.
+
+### Thrown
+This weapon [Attacks](Game/Core/Attacks) using the [Athletics](Game/Core/Strength#Athletics) skill.
+
 ### One Handed
 This weapon requires one free hand to wield effectively.
 
@@ -49,6 +61,12 @@ The number and types of things that this item can be [Loaded](#Loading(X)) with.
 Some weapons and equipment will require a certain amount of time to be ready for use. This is the loading time. Loading time is specified as (X) where X is the number of rounds, or 0 for [Free Action](#Free%20Action).
 
 If something can be loaded as a [Free Action](Terminology#Free%20Action), immediately using it puts the action at a (-1).
+
+### Airborne
+* This weapon only affects those that need to breathe.
+
+### Handless
+* This weapon doesn't require free hands to be used.
 
 ## 1 Cost Traits
 
@@ -179,5 +197,33 @@ This weapon ignores [Resistance](Armour#Weakness%20and%20Resistance) of armour.
 ### Area
 * This weapon affects everyone within [Reach](Movement#Reach) of the target (everyone gets a reaction).
 
+### Explosion
+* This weapon affects everyone in [Eye Line](Game/Core/Terminology#Eye%20Line) and [Close](Game/Core/Movement#Close) to the target (everyone gets a reaction).
+
+### Massive Explosion
+* This weapon affects everyone in [Eye Line](Game/Core/Terminology#Eye%20Line) and within a [Short](Game/Core/Movement#Short) distance from the target (everyone gets a reaction).
+
 ### Burning
-This weapon on a [Successful Attack](Terminology#Successful%20Attack) causes the opponent to be [On Fire](Effects#On%20Fire).
+* This weapon on a [Successful Attack](Terminology#Successful%20Attack) causes the [Opponent](Game/Core/Terminology#Opponent) to be [On Fire](Effects#On%20Fire).
+
+### Stunning
+* This weapon on a [Successful Attack](Game/Core/Terminology#Successful%20Attack) causes the [Opponent](Game/Core/Terminology#Opponent) to be [Stunned](Game/Core/Effects#Stunned).
+
+### Disorienting
+* This weapon on a [Successful Attack](Game/Core/Terminology#Successful%20Attack) causes the [Opponent](Game/Core/Terminology#Opponent) to be [Disoriented](Game/Core/Effects#Disoriented).
+
+### Powerful Stunning
+* This weapon on a [Successful Attack](Game/Core/Terminology#Successful%20Attack) causes the [Opponent](Game/Core/Terminology#Opponent) to be [Stunned](Game/Core/Effects#Stunned). 
+* This weapon causes any targeted [Opponent](Game/Core/Terminology#Opponent) to be [Disoriented](Game/Core/Effects#Disoriented).
+
+### Lingering
+* This weapons attack results in a lingering effect. For a few minutes narratively, or the remainder of combat anyone remaining in the area at the end of their [Combat-Turn](Game/Core/Combat-Turn) suffers the attacks [Damage](Game/Core/Terminology#Damage) and [Effects](Game/Core/Effects) again. 
+
+### Impaling
+*This weapon embeds in enemies.*
+* After a [Successful Attack](Game/Core/Terminology#Successful%20Attack) your enemy is [Stuck](Game/Core/Effects#Stuck).
+* They must make a [Application](Game/Core/Intelligence#Application) [Fixed Difficulty](Game/Core/Skills#Fixed%20Difficulty)(0) test to remove this effect.
+
+### Pulling
+*This weapon pulls its target closer to you.*
+* After a [Successful Attack](Game/Core/Terminology#Successful%20Attack) until the end of your next [Combat-Turn](Game/Core/Combat-Turn) you may as a [Free Action](Game/Core/Terminology#Free%20Action) move your [Opponent](Game/Core/Terminology#Opponent) within [Reach](Game/Core/Movement#Reach) of you and cause them to go [Prone](Game/Core/Effects#Prone).

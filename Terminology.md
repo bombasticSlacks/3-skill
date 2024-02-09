@@ -26,13 +26,13 @@ An abstraction for how much power and harm is behind an attack. When you suffer 
 If a [Character](#Character) successfully [Wounded](Effects#Wounded) with an attack it is considered a wounding attack.
 
 ## Reaction
-A response a [Character](#Character) can perform in combat while it is not their turn. [Characters](#Character) generally get 1 reaction per [Combat Round](#Combat%20Round). A [Character's](#Character) reaction refreshes at the start of their [Combat Turn](#Combat%20Turn). See [Reacting](Reacting) for a list of example reactions.
+See [Reaction](Game/Core/Reacting#Reaction).
 
 ## Combat Round
-In combat, a combat round is all the actions of every [Character](#Character) in that combat. When everyone has taken a combat turn, the combat round is over and a new combat round starts. If it is important for some reason, a combat round usually encompasses 5 seconds of time, but shouldn't be dwelled on too specifically unless necessary.
+See [Combat Round](Game/Core/Combat#Combat%20Round).
 
 ## Combat Turn
-See [Combat-Turn](Combat-Turn)
+See [Combat Turn](Combat-Turn).
 
 ## Opponent
 The opposition of a currently referenced [Character](#Character). The character who will be negatively effected by your actions, or you would be by theirs.

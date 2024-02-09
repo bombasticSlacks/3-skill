@@ -51,3 +51,7 @@ nav_order: 2
 * Needs to cover both [Ancillary](Injury#Ancillary), and [Vitals](Injury#Vitals) to work.
 * Regains 1 lost [Armour Integrity](Armour#Armour%20Integrity) at the beginning of your [Combat-Turn](Combat-Turn).
 * All [Application](Intelligence#Application) [Skill Test](Terminology#Skill%20Test) targeting you while wearing this suffer a (-4).
+
+## Filtered
+*This armour has built in filtration protecting the air you breathe.*
+* You ignore any effects requiring you to breathe them in.
