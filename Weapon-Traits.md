@@ -71,6 +71,9 @@ If something can be loaded as a [Free Action](Terminology#Free%20Action), immedi
 ### Handless
 * This weapon doesn't require free hands to be used.
 
+### Controlling
+* This weapon allows you to perform any [Special-Combat-Actions](Game/Core/Special-Combat-Actions) that would normally require being within [Reach](Game/Core/Movement#Reach) using it's [Range](Game/Core/Weapons#Range).
+
 ## 1 Cost Traits
 
 ### Balanced
