@@ -55,3 +55,8 @@ nav_order: 2
 ## Filtered
 *This armour has built in filtration protecting the air you breathe.*
 * You ignore any effects requiring you to breathe them in.
+
+## Helping Hand
+*This armour has an additional manipulator, providing you aid with all fine tasks.*
+* You receive a (+1) to [Application](Game/Core/Intelligence#Application).
+* You have an extra hand which can hold objects and interact with the environment.

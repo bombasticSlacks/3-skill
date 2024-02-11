@@ -47,6 +47,16 @@ Attack
 > Attack(3, [Impact](Injury#Impact), 2, [Short](Movement#Short)) is an attack at a +3 to succeed, that deals 2 impact damage at a range of short.
 
 ---
+
+Attack
+{: .label .label-red }
+## Overwatch(X)
+*The character prepares to attack anything coming its direction.*
+
+* The character performs an [Overwatch](Game/Core/Special-Combat-Actions#Overwatch) with their overwatch attack having a bonus of X.
+
+---
+
 Attack
 {: .label .label-red }
 ## Grapple(X, OPPOSED)

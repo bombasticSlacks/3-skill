@@ -233,3 +233,7 @@ This weapon ignores [Resistance](Armour#Weakness%20and%20Resistance) of armour.
 ### Pulling
 *This weapon pulls its target closer to you.*
 * After a [Successful Attack](Game/Core/Terminology#Successful%20Attack) until the end of your next [Combat-Turn](Game/Core/Combat-Turn) you may as a [Free Action](Game/Core/Terminology#Free%20Action) move your [Opponent](Game/Core/Terminology#Opponent) within [Reach](Game/Core/Movement#Reach) of you and cause them to go [Prone](Game/Core/Effects#Prone).
+
+### Precision
+*This weapon is predominately used for accurate lethal attacks.*
+* When performing a [Heavy Strike](Game/Core/Attacks#Heavy%20Strike) this attack does an additional [Damage](Game/Core/Terminology#Damage).

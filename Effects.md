@@ -145,7 +145,28 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 
 ### Removing
 {: no_toc }
-* Whatever has made you stuck you must be seperated from.
+* Whatever has made you stuck, you must be separated from.
 
 
 ---
+
+## Temporarily Blind
+*You can't see.*
+* You cannot do anything relying on your sight.
+* You cannot attack outside of [Reach](Game/Core/Movement#Reach).
+* Attacking is at a (-3).
+
+### Removing
+{: no_toc }
+* Last until the end of the [Scene](Game/Core/Terminology#Scene). 
+
+---
+
+## Temporarily Deaf
+*You can't hear.*
+* You cannot do anything relying on your ears.
+* You count as [Disoriented](Game/Core/Effects#Disoriented).
+
+### Removing
+{: no_toc }
+* Last until the end of the [Scene](Game/Core/Terminology#Scene). 
