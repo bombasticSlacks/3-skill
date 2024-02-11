@@ -85,7 +85,7 @@ Trait
 ---
 Trait
 {: .label .label-purple }
-## Resistance(X)
+## Endurance(X)
 *This character has the will to refuse to die.*
 
 * This character can become [Wounded](Effects#Wounded) as normal. 
@@ -100,3 +100,14 @@ Attack
 
 * Everyone within RANGE of the creature suffers an [Attack](Terminology#Attack) of [Types of Damage](Injury#Types%20of%20Damage) TYPE and [Damage](Terminology#Damage) DAM.
 * The creature is [Defeated](Effects#Defeated) in the process.
+
+---
+
+Trait
+{: .label .label-purple }
+## Immune(X)
+*This character has a specialized immunity.*
+
+* This character is unaffected by X, and cannot take [Damage](Game/Core/Terminology#Damage) from it.
+
+--- 
