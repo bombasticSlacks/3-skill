@@ -22,6 +22,9 @@ These are weapon traits that can't be selected, either being [Default Traits](De
 ### Strength
 This weapon adds [Strength](Strength) to [Damage Bonus](Weapons#Damage%20Bonus).
 
+### Spirit
+This weapon adds [Spirit](Game/Core/Spirit) to [Damage Bonus](Game/Core/Weapons#Damage%20Bonus).
+
 ### Size Matters
 This weapon adds $size \times 2$ to [Damage Bonus](Weapons#Damage%20Bonus).
 
@@ -72,7 +75,14 @@ If something can be loaded as a [Free Action](Terminology#Free%20Action), immedi
 * This weapon doesn't require free hands to be used.
 
 ### Controlling
-* This weapon allows you to perform any [Special-Combat-Actions](Game/Core/Special-Combat-Actions) that would normally require being within [Reach](Game/Core/Movement#Reach) using it's [Range](Game/Core/Weapons#Range).
+* This weapon allows you to perform any [Special-Combat-Actions](Game/Core/Special-Combat-Actions) that would normally require being within [Reach](Game/Core/Movement#Reach) using its [Range](Game/Core/Weapons#Range).
+
+### Magical Attack
+* This weapon performs [Magical-Attacks](Game/Core/Magical-Attacks).
+
+### Devouring
+*This otherworldly weapon feeds off those it destroys.*
+* When this weapon causes [Defeated](Game/Core/Effects#Defeated) or kills an enemy, it refreshes all [Capacity](#Capacity(X,%20Type)) if it has any, otherwise the defeated [Characters](Game/Core/Terminology#Character) life force is stored within the weapon for other uses.
 
 ## 1 Cost Traits
 
