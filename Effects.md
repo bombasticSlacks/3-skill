@@ -103,6 +103,8 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 ### Removing
 {: .no_toc }
 * Can be removed with [Gear](Gear).
+* Removed if you become [Defeated](#Defeated).
+* Removed at the end of [Combat](Game/Core/Combat).
 
 ---
 

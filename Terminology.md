@@ -119,3 +119,6 @@ A scene refers to the current moment of action / intrigue playing out. Scenes do
 
 ### Eye Line
 A character is within eye line of something if an unbroken line could be drawn from the center of their head (or vision center) to the thing you are checking eye line of.
+
+### Compliant
+A [Character](#Character) is compliant in an [Action](#Action) if they are willing to be a part of it or cannot otherwise stop it from happening.

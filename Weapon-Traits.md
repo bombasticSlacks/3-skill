@@ -155,10 +155,14 @@ Performing [Melee Attack](Terminology#Melee%20Attack) doesn't put you [In Melee]
 ### Salvageable
 [Munitions](Comestibles#Munitions) spent by this weapon, if resulting in a [Mitigated Attack](Terminology#Mitigated%20Attack), the [Munitions](Comestibles#Munitions) are only destroyed if the [Skill Test](Terminology#Skill%20Test) results in [Doubles](Skills#Doubles).
 
-### Shield
-* This weapon deals 1 [Impact](Injury#Impact) [Damage](Terminology#Damage).
+### Shield(X)
+* This weapon counts as additional [Armour](Armour) protecting you with X [Armour Integrity](Game/Core/Armour#Armour%20Integrity), that can only be used against [Ranged Attack](Terminology#Ranged%20Attack).
 * This weapon provides a (+2) to [Avoid](Reacting#Avoid) skill tests when wielded.
-* This weapon counts as additional [Armour](Armour) protecting your [Vitals](Injury#Vitals) with [Size](Weapons#Size) [Armour Integrity](Armour#Armour%20Integrity), that can only be used against [Ranged Attack](Terminology#Ranged%20Attack).
+### Shield
+#TODOTemplate
+* This weapon deals 1 [Impact](Injury#Impact) [Damage](Terminology#Damage).
+* Provides [Shield(X)](#Shield(X)) where X is the the weapon size.
+
 
 ### Sling
 *This weapon aids with throwing things long distances.*
@@ -247,3 +251,7 @@ This weapon ignores [Resistance](Armour#Weakness%20and%20Resistance) of armour.
 ### Precision
 *This weapon is predominately used for accurate lethal attacks.*
 * When performing a [Heavy Strike](Game/Core/Attacks#Heavy%20Strike) this attack does an additional [Damage](Game/Core/Terminology#Damage).
+
+### Light Source
+*A glowing source of light for any wielding it.*
+* This weapon illuminates the user and everything [Close](Game/Core/Movement#Close).
