@@ -171,4 +171,16 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 
 ### Removing
 {: no_toc }
-* Last until the end of the [Scene](Game/Core/Terminology#Scene). 
+* Last until the end of the [Scene](Game/Core/Terminology#Scene).
+
+---
+
+## Fearless
+*You cannot become afraid no matter the horrors you see.*
+* You cannot gain [Stress](Game/Stress).
+* You automatically pass all [Identity](Game/Core/Spirit#Identity) [Skill Test](Game/Core/Terminology#Skill%20Test) related to fear and panic.
+### Removing
+{: no_toc }
+* Last until the end of the [Scene](Game/Core/Terminology#Scene).
+
+---

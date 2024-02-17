@@ -115,7 +115,7 @@ The penalty for an [Action](#Action) assigned by the [GM](How-To-Play#GM).
 An unarmed attack is a [Melee Attack](#Melee%20Attack) without a weapon, using only your limbs. It causes [Minimal Injury](Injury#Minimal%20Injury) [Impact](Injury#Impact).
 
 ### Scene
-A scene refers to the current moment of action / intrigue playing out. Scenes don't have a defined length or strict rules, but it is a useful way of talking about narrative play.
+A scene refers to the current moment of action / intrigue playing out. Scenes don't have a defined length or strict rules, but it is a useful way of talking about narrative play. If something is directed to end at the end of the scene and the [GM](Game/Core/How-To-Play#GM) feels that has narratively not been enough time, it is reasonable to extend the effect.
 
 ### Eye Line
 A character is within eye line of something if an unbroken line could be drawn from the center of their head (or vision center) to the thing you are checking eye line of.

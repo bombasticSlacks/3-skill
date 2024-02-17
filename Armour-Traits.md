@@ -60,3 +60,6 @@ nav_order: 2
 *This armour has an additional manipulator, providing you aid with all fine tasks.*
 * You receive a (+1) to [Application](Game/Core/Intelligence#Application).
 * You have an extra hand which can hold objects and interact with the environment.
+
+## Subtle
+* It does not appear to an observer like you are wearing armour.
