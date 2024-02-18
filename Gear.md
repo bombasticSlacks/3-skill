@@ -11,7 +11,7 @@ Generalist equipment characters need to perform activities and skill tests or ot
 ## Handling Gear
 Unless specified, gear should be handled narratively. Reliable gear that isn’t otherwise damaged or displaced can be reused, temporary things like torches usually can’t.
 
-## Gear Traits
+## Traits
 These are some of the traits gear might have used as shorthand for certain effects or uses.
 
 ### Unskilled
@@ -28,6 +28,9 @@ An abstracted count of the number of times an item can be used. If charges are w
 > Example: a tool kit has Charges(3) charges, means it can be used 3 times.
 
 These can be replaced when finding relevant materials, or by purchasing charges.
+
+### Free Action
+Using this gear doesn't require any time to pass.
 
 ### Comestibles
 Covers any type of gear that is destroyed or made useless by using. The act of using a comestible destroys it. There are a few specialized categories of comestible:
