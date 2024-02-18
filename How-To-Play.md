@@ -24,4 +24,10 @@ Difficulty is assigned by the GM and defaults to 0. After determining the modifi
 
 Common modifiers include: rushed (-1), high pressure (-1), non-trivial (-1), complicated task (-2), challenging (-3), hellish task (-5), impossible task (-7). [Skills](Skills) will also provide some examples.
 
-**NOTE**, The rules provided within this section are not supposed to be exhaustive. This is a set of guidelines to give players and game masters an idea of what is possible, and how it should be determined. Generally, you should try to never say “no” to a player's impulse. You should inform them of the difficulty of a task and from there they can make an informed decision on if they want to progress.
+## Things To Remember
+
+### Say Yes
+The rules provided within this section are not supposed to be exhaustive. This is a set of guidelines to give players and game masters an idea of what is possible, and how it should be determined. Generally, you should try to never say “no” to a player's impulse. You should inform them of the difficulty of a task and from there they can make an informed decision on if they want to progress.
+
+### Rule In Player Favour
+If a rule is ambiguous or leads to confusion between [The Players](#The%20Players) and the [GM](#GM), in the moment you should always interpret in the way that is best for the players. When time permits you can discuss how the rule will be handled in the future which may not be as beneficial for the players, with the [GM](#GM) having final say and potentially setting [House Rules](https://tvtropes.org/pmwiki/pmwiki.php/Main/HouseRules).
