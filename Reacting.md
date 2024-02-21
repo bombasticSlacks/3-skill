@@ -7,13 +7,10 @@ grand_parent: Telling The Story
 ---
 
 # Reacting
-During each full turn of combat, each character gets a single [Reaction](#Reaction), which they can use when something else happens during combat. 
-* All of your reactions refresh on your turn. 
-* In general, these are used to avoid incoming attacks. 
-* You cannot spend a [Reaction](#Reaction) on your own [Combat Turn](Terminology#Combat%20Turn) unless otherwise noted.
+During each full turn of combat, each character gets a single [Reaction](#Reaction), which they can use when something else happens during combat. You cannot spend a [Reaction](#Reaction) on your own [Combat Turn](Terminology#Combat%20Turn) unless otherwise noted.
 
 ## Reaction
-A response a [Character](#Character) can perform in combat while it is not their turn. [Characters](#Character) generally get 1 reaction per [Combat Round](#Combat%20Round). A [Character's](#Character) reaction refreshes at the start of their [Combat Turn](#Combat%20Turn). See [Reacting](Reacting) for a list of example reactions.
+A response a [Character](#Character) can perform in combat while it is not their turn. [Characters](#Character) generally get 1 reaction per [Combat Round](#Combat%20Round). A [Character's](#Character) reaction refreshes at the start of the [Combat Round](Game/Core/Combat#Combat%20Round).
 
 ## Types Of Reactions
 The generally available reactions are:

@@ -63,3 +63,6 @@ nav_order: 2
 
 ## Subtle
 * It does not appear to an observer like you are wearing armour.
+
+## Reactive
+* You receive a (+2) to all [Reaction](Game/Core/Reacting#Reaction).

@@ -255,3 +255,19 @@ This weapon ignores [Resistance](Armour#Weakness%20and%20Resistance) of armour.
 ### Light Source
 *A glowing source of light for any wielding it.*
 * This weapon illuminates the user and everything [Close](Game/Core/Movement#Close).
+
+### Eradicating
+*This weapons attacks are so grim it leaves behind no evidence.*
+* Anyone killed by this weapon or its injuries is eradicated, there remains no trace of them.
+
+### Paired
+*This weapon is actually a set of one-handed weapons designed to be used together.*
+* This weapon can be used in only one hand, but you receive (-2) [Damage Bonus](Game/Core/Weapons#Damage%20Bonus) and a (-1) to [Attack](Game/Core/Terminology#Attack).
+
+### Bound
+*This weapon is connected to its user and is always on hand and ready for use.*
+* The owner of this weapon may always draw it as though it were on their person, even if they are destroyed, or otherwise misplaced. They may still only exist in one place at any time, however.
+
+### Silenced
+*This weapon is perfectly quiet making no noise as it attacks.*
+* This weapon makes no noise when used.
