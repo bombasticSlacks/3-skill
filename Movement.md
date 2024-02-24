@@ -57,5 +57,7 @@ This is the distance you can comfortably move based on [Agility](Agility). Some 
 | 3       | [Close](Movement#Close) |
 | 4       | [Short](Movement#Short) |
 | 5       | [Far](Movement#Far)     |
+
+
 ## Avoiding Obstacles
 If there are obstacles in the way of a movement, you may need to perform an [Action](Terminology#Action) to avoid it.
