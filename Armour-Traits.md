@@ -66,3 +66,6 @@ nav_order: 2
 
 ## Reactive
 * You receive a (+2) to all [Reaction](Game/Core/Reacting#Reaction).
+
+## Recycling
+* You do not need to drink water or breathe while wearing this.
