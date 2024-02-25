@@ -17,12 +17,3 @@ nav_order: 2
 {:toc}
 </details>
 
-
-
-
-
-
-
-
-## Recycling
-* You do not need to drink water or breathe while wearing this.
