@@ -41,7 +41,7 @@ A measure of how dangerous and threatening a weapon is. Used to weight who unint
 * A character that is unconscious or otherwise detained should have a threat of 0.
 
 ## [Weapon-Traits](Weapon-Traits)
-Abilities or unique effects a weapon might possess. If you have an idea in mind as a player or game master, try to come up with a unique trait to properly represent a weapon.  Traits can either count as 1 or 2 traits towards a weapon's total, depending on how powerful the trait is. A non-exhaustive list is provided [here](Weapon-Traits). 
+Abilities or unique effects a weapon might possess. If you have an idea in mind as a player or game master, try to come up with a unique trait to properly represent a weapon.  A non-exhaustive list is provided [here](Weapon-Traits). 
 
 ## Quality
 Weapons come in various qualities. Higher quality weapons require specific [Combat Training](Combat-Training) to use. For more details on how quality effects a weapon, you can look at [Designing Weapons](Designing-Weapons#Quality)

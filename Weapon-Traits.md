@@ -17,16 +17,56 @@ nav_order: 2
 {:toc}
 </details>
 
+## Crafting Templates
+These need to be migrated to Aspirant.
+### Size Matters
+This weapon adds $size \times 2$ to [Damage Bonus](Weapons#Damage%20Bonus).
+
+### Exotic
+This weapon requires additional training to be used effectively but has additional traits available.
+
+### Basic
+This weapon is made of simple materials, its [Damage Bonus](Weapons#Damage%20Bonus) is reduced by 1.
+
+### Black Powder
+*Your weapon fires balls of lead propelled by incendiary powder.*
+* Loses the [Strength](#Strength) trait.
+* +6 [Damage Bonus](Weapons#Damage%20Bonus). 
+* [Loading](#Loading(X))(2).
+* Range of [Far](Movement#Far).
+* [Capacity](#Capacity(X, Type)) 1([Ammunition](Example-Gear#Ammunition)).
+
+### Bow
+*This weapon fires arrows.* 
+* Loses the [Strength](#Strength) trait.
+* You can add [Strength](Game/Core/Strength.md) to damage *only* up to a maximum of the size of the weapon. 
+* [Loading](#Loading(X))(0).
+* Range of [Short](Movement#Short).
+* [Capacity](#Capacity(X, Type)) 1([Ammunition](Example-Gear#Ammunition)).
+* Gains [Salvageable](#Salvageable).
+
+### Crossbow
+*Your weapon fires bolts of metal.*
+* Loses the [Strength](#Strength) trait.
+* Add size to [Damage Bonus](Weapons#Damage%20Bonus) (in addition to [Size Matters](#Size%20Matters)).
+* [Loading](#Loading(X))(1).
+* Range of [Short](Movement#Short).
+* [Capacity](#Capacity(X, Type)) 1([Ammunition](Example-Gear#Ammunition)).
+* Gains [Salvageable](#Salvageable).
+
+### Fast Reloading
+If your weapon requires [Loading](#Loading(X)), it takes half the time. [Loading](#Loading(X)) that normally takes an action is instead a [Free Action](Terminology#Free%20Action).
+
+
 ## Special Traits
 These are weapon traits that can't be selected, either being [Default Traits](Designing-Weapons#Default%20Traits), or obtained some other way.
 ### Strength
-This weapon adds [Strength](Strength) to [Damage Bonus](Weapons#Damage%20Bonus).
+This weapon adds [Strength](Game/Core/Strength.md) to [Damage Bonus](Weapons#Damage%20Bonus).
 
 ### Spirit
 This weapon adds [Spirit](Game/Core/Spirit) to [Damage Bonus](Game/Core/Weapons#Damage%20Bonus).
 
-### Size Matters
-This weapon adds $size \times 2$ to [Damage Bonus](Weapons#Damage%20Bonus).
+
 
 ### Striking
 This weapon [Attacks](Game/Core/Attacks) using the [Strike](Game/Core/Strength#Strike) skill.
@@ -46,14 +86,12 @@ This weapon requires one free hand to wield effectively.
 ### Two Handed
 This weapon requires two free hands to wield effectively.
 
-### Exotic
-This weapon requires additional training to be used effectively but has additional traits available.
+
 
 ### Advanced
 This weapon requires sophisticated systems to work and can be dissrupted by external tools and processes.
 
-### Basic
-This weapon is made of simple materials, its [Damage Bonus](Weapons#Damage%20Bonus) is reduced by 1.
+
 
 ### Impossibly Large
 This weapon cannot be wielded by an average-sized [Character](Terminology#Character).
@@ -84,48 +122,23 @@ If something can be loaded as a [Free Action](Terminology#Free%20Action), immedi
 *This otherworldly weapon feeds off those it destroys.*
 * When this weapon causes [Defeated](Game/Core/Effects#Defeated) or kills an enemy, it refreshes all [Capacity](#Capacity(X,%20Type)) if it has any, otherwise the defeated [Characters](Game/Core/Terminology#Character) life force is stored within the weapon for other uses.
 
-## 1 Cost Traits
-
 ### Balanced
 +1 to defensive skill tests using this weapon.
 
-### Black Powder
-*Your weapon fires balls of lead propelled by incendiary powder.*
-* Loses the [Strength](#Strength) trait.
-* +6 [Damage Bonus](Weapons#Damage%20Bonus). 
-* [Loading](#Loading(X))(2).
-* Range of [Far](Movement#Far).
-* [Capacity](#Capacity(X, Type)) 1([Ammunition](Example-Gear#Ammunition)).
 
-### Bow
-*This weapon fires arrows.* 
-* Loses the [Strength](#Strength) trait.
-* You can add [Strength](Strength) to damage *only* up to a maximum of the size of the weapon. 
-* [Loading](#Loading(X))(0).
-* Range of [Short](Movement#Short).
-* [Capacity](#Capacity(X, Type)) 1([Ammunition](Example-Gear#Ammunition)).
-* Gains [Salvageable](#Salvageable).
 
-### Crossbow
-*Your weapon fires bolts of metal.*
-* Loses the [Strength](#Strength) trait.
-* Add size to [Damage Bonus](Weapons#Damage%20Bonus) (in addition to [Size Matters](#Size%20Matters)).
-* [Loading](#Loading(X))(1).
-* Range of [Short](Movement#Short).
-* [Capacity](#Capacity(X, Type)) 1([Ammunition](Example-Gear#Ammunition)).
-* Gains [Salvageable](#Salvageable).
+
 
 ### Deadly Draw
 This weapon is [Penetrating](#Penetrating) for your first attack in any combat.
 
 ### Disguised
-This does not appear to be a weapon but has -1 [Damage Bonus](Weapons#Damage%20Bonus).
+This does not appear to be a weapon.
 
 ### Ensnaring
-This weapon deals -2 damage, on [Non-mitigated Attack](Terminology#Non-mitigated%20Attack) it causes the enemy to be [Grappled](Special-Combat-Actions#grapple). You need to maintain hold of the ensnaring weapon to maintain the [Grapple](Special-Combat-Actions#grapple).
+On [Non-mitigated Attack](Terminology#Non-mitigated%20Attack) it causes the enemy to be [Grappled](Special-Combat-Actions#grapple). You need to maintain hold of the ensnaring weapon to maintain the [Grapple](Special-Combat-Actions#grapple).
 
-### Fast Reloading
-If your weapon requires [Loading](#Loading(X)), it takes half the time. [Loading](#Loading(X)) that normally takes an action is instead a [Free Action](Terminology#Free%20Action).
+
 
 ### Hand and a Half
 If this weapon is otherwise usable in one hand, the weapon counts as 1 size larger while wielded in two hands.
@@ -171,7 +184,7 @@ Performing [Melee Attack](Terminology#Melee%20Attack) doesn't put you [In Melee]
 * Size 1-2 range of [Close](Movement#Close).
 * Size 3+ range of [Short](Movement#Short).
 * The result of attacks with this weapon are equivalent to what it is loaded with.
-* If the loaded [Throwable](Comestibles#Throwables) adds [Strength](Strength) to [Damage Bonus](Weapons#Damage%20Bonus), it has the [Size Matters](#Size%20Matters) trait.
+* If the loaded [Throwable](Comestibles#Throwables) adds [Strength](Game/Core/Strength.md) to [Damage Bonus](Weapons#Damage%20Bonus), it has the [Size Matters](#Size%20Matters) trait.
 
 ### Throwable
 This weapon is balanced for throwing, you receive no penalties for throwing it.  
