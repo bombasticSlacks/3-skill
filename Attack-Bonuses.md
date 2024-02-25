@@ -20,6 +20,4 @@ If you attempt to throw a weapon that doesn’t have the thrown tag, you receive
 ## On Your Back
 When attempting a melee test, if you are prone, you receive a -2.
 ## Distance Penalty
-When you fire a ranged weapon if you are outside the range, you suffer similar negatives to [Movement Action Penalty](Movement#Movement%20Action%20Penalty).
-
-> So if you have a range of 10m and are attacking 35 meters away, you suffer a -3.
+When you use a non-[Striking](Game/Core/Blocks/Striking) weapon, if outside the weapon's [Range](Game/Core/Weapons#Range) you suffer a similar penalty to [Movement Action Penalty](Movement#Movement%20Action%20Penalty).
