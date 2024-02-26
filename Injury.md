@@ -2,7 +2,7 @@
 layout: default
 title: Injury
 parent: Telling The Story
-nav_order: 2
+nav_order: 0
 has_children: true
 ---
 # Injury
@@ -29,7 +29,7 @@ Severe injuries need medical attention quickly. It can involve broken bones, int
 * If you don't receive medical aid, you will die of complications in 30–60 minutes.
 
 ## Critical Injury
-Critical injuries pose an immediate threat to your life. You are left severely bleeding, unconscious, with organ failure, etc. as well you will have completely lost use of the attacked area which will need to be replaced with [Prosthetics](Character-Development#Prosthetics) or reattached/fixed by a [Surgeon](Academic#Surgeon).
+Critical injuries pose an immediate threat to your life. You are left severely bleeding, unconscious, with organ failure, etc. as well you will have completely lost use of the attacked area which will need to be replaced with prosthetics or invasive surgery.
 * Suffer an [Injury-Effects](Injury-Effects).
 * Become [Wounded](Effects#Wounded).
 * Critical [Vitals](#Vitals) injuries kill outright.

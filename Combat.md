@@ -2,25 +2,33 @@
 layout: default
 title: Combat
 parent: Telling The Story
-nav_order: 2
+nav_order: 0
 has_children: true
 ---
 
 # Combat
-Combat is more structured than standard narrative time, since it is also more high stakes. Combat is broken up into [Combat Rounds](#Combat%20Round). 
+Combat is more structured than standard narrative time, since it is also more high stakes. Combat will still naturally flow between the players and the GM performing actions; however, there are some structures on [Action Order](#Action%20Order) during combat to keep things fair.
 
-## Combat Round
-In combat, a combat round is all the actions of every [Character](Game/Core/Terminology#Character) in that combat. When everyone has taken a combat turn, the combat round is over and if there are still hostile characters aware of one another, a new combat round starts. If it is important for some reason, a combat round usually encompasses 5 seconds of time, but shouldn’t be dwelled on too specifically unless necessary.
 
-At the start of combat, every active participant should compute an [Initiative Value](#Initiative%20Value) which will determine the order they act.
+## Action Order
+During combat, though many events happen simultaneously in a game, we need to do them in a sequence. This sequence is concerned with two primary issues, [Who Goes First](#Who%20Goes%20First) and [Who Goes Next](#Who%20Goes%20Next)?
 
-During each combat round, all [Characters](Game/Core/Terminology#Character):
-* Get a [Combat Turn](Combat-Turn) where you can perform an [Action](Terminology#Action).
-* Get a [Reaction](Terminology#Reaction) used for [Reacting](Reacting).
+### Who Goes First
+The first [Character](Game/Core/Terminology#Character) to act in combat is always the first [Character](Game/Core/Terminology#Character) to perform a hostile action. 
 
-## Initiative Value
-A [Reflexes](Agility#Reflexes) [Variable Difficulty](Skills#Variable%20Difficulty) test, where your [Step](Skills#Step) value is compared to everyone else's. Your initiative value determines what order people will perform their [Combat Turn](Terminology#Combat%20Turn) during the [Combat Round](Terminology#Combat%20Round). So even though all characters are acting simultaneously in combat, as an abstraction, people still go in a specific order.
+If someone wants to perform something hostile and someone else is aware and able to stop them, the player does a [Reflexes](Game/Core/Agility#Reflexes) [Opposed Difficulty](Game/Core/Skills#Opposed%20Difficulty)([Reflexes](Game/Core/Agility#Reflexes)) test. If they succeed, they act first, otherwise the target does.
 
-> So if you are fighting someone, you both perform a [Reflexes](Agility#Reflexes) test. You get a 13 meaning 3 [Step Of Success](Skills#Step), they get a 8 meaning 2 steps of failure. That means you act first in the [Combat Round](Terminology#Combat%20Round).
+### Who Goes Next
+After any action in combat, the next character to act should be from the other group of [The Players](Game/Core/How-To-Play#The%20Players) and the [GM](Game/Core/How-To-Play#GM).
 
----
+> So if a GM controlled soldier attacks a player's character, the next character to act should be player controlled.
+
+#### Guidelines
+* If possible, a single [Character](Game/Core/Terminology#Character) cannot take repeat turns for their team.
+* A player who was just the [Opponent](Game/Core/Terminology#Opponent) of an [Action](Game/Core/Terminology#Action) should get the first opportunity to perform an [Action](Game/Core/Terminology#Action) if they have something in mind.
+
+#### Followers
+ If a character has [Follower](Game/Core/Terminology#Follower) they may be selected to act as any of [The Players](Game/Core/How-To-Play#The%20Players).
+
+#### Overwhelming Odds
+If the players or the non-players meaningfully outnumber each other one way or another, then the side with the larger numbers can take two actions in a row before the other team gets to respond to represent the swarm of people.

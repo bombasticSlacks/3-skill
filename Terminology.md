@@ -25,15 +25,6 @@ An abstraction for how much power and harm is behind an attack. When you suffer 
 ## Wounding Attack
 If a [Character](#Character) successfully [Wounded](Effects#Wounded) with an attack it is considered a wounding attack.
 
-## Reaction
-See [Reaction](Game/Core/Reacting#Reaction).
-
-## Combat Round
-See [Combat Round](Game/Core/Combat#Combat%20Round).
-
-## Combat Turn
-See [Combat Turn](Combat-Turn).
-
 ## Opponent
 The opposition of a currently referenced [Character](#Character). The character who will be negatively effected by your actions, or you would be by theirs.
 
@@ -56,7 +47,7 @@ The [Character](#Character) with the highest bonus on a specific skill test.
 A character who is friendly and aiding a [Character](#Character).
 
 ## Free Action
-An action that can be done in parallel with other actions during a [Combat Turn](#Combat%20Turn).
+An action that can be done in parallel with other actions during an [Action](#Action).
 
 ### Shield
 Any [Weapons](Weapons) with the [Shield](Weapon-Traits#Shield) trait.

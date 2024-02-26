@@ -1,27 +1,26 @@
 ---
 layout: default
 title: Reacting
-parent: Combat
+parent: Telling The Story
 nav_order: 2
-grand_parent: Telling The Story
+grand_parent: 
 ---
 
 # Reacting
-During each full turn of combat, each character gets a single [Reaction](#Reaction), which they can use when something else happens during combat. You cannot spend a [Reaction](#Reaction) on your own [Combat Turn](Terminology#Combat%20Turn) unless otherwise noted.
+Sometimes when something happens, you wish you could have done something differently to avoid or responded sooner. This is what [Reactions](Game/Additional-Attributes#Reactions) are for, allowing you to react to things as they happen. Any time you want to react to something that is currently happening, you may spend a [Reaction](Game/Additional-Attributes#Reaction). You cannot react to a reaction.
 
-## Reaction
-A response a [Character](#Character) can perform in combat while it is not their turn. [Characters](#Character) generally get 1 reaction per [Combat Round](#Combat%20Round). A [Character's](#Character) reaction refreshes at the start of the [Combat Round](Game/Core/Combat#Combat%20Round).
+## Narrative Reactions
+Any time you would like to interrupt an ongoing action, you may spend a [Reaction](Game/Additional-Attributes#Reaction) to do so. 
 
-## Types Of Reactions
-The generally available reactions are:
+> If someone had just pulled a lever to lower a drawbridge, you could spend a reaction to attack them before they can do it, hopefully, leaving the bridge up. 
+
+## Combat Reactions
+Combat provides additional ways to react, some obvious ones are below.
 ### Avoid
-If an [Opponent](Terminology#Opponent) performs a [Successful Attack](Terminology#Successful%20Attack), you may perform a [Reflexes](Agility#Reflexes) [Fixed Difficulty](Skills#Fixed%20Difficulty)(-2). If you succeed, you ignore the effects of the attack unless otherwise specified.
+If an [Opponent](Terminology#Opponent) performs a [Successful Attack](Terminology#Successful%20Attack), you may perform a [Reflexes](Agility#Reflexes) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0). If you succeed, you ignore the effects of the attack unless otherwise specified.
 
 ### Move to Cover
 A [Grace](Agility#Grace) skill test where if you succeed then you may move to a piece of cover within [Reach](Movement#Reach) before an enemy ranged attack is calculated. You cannot Move to Cover while [Prone](Effects#Prone).
 
 ### Attack of Opportunity
 If someone moves while [In Melee](Effects#In%20Melee) with you, you may make an [Attack](Terminology#Attack) against them.
-
-### All Out Attack
-You may spend a [Reaction](Terminology#Reaction) on your [Combat Turn](Terminology#Combat%20Turn) to get a (+2) to all [Action](Terminology#Action).

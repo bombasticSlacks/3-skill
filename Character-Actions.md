@@ -79,7 +79,7 @@ Trait
 ## Phobia(FEAR)
 *This character is terrified of something.*
 
-* When exposed to FEAR the creature is [Stunned](Effects#Stunned) for a [Combat Turn](Terminology#Combat%20Turn).
+* When exposed to FEAR the creature is [Stunned](Effects#Stunned).
 * After exposure, they will no longer be effected for the duration of the [Scene](Terminology#Scene)).
 
 ---
