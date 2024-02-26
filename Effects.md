@@ -14,7 +14,7 @@ A stunned character cannot perform [Action](Terminology#Action) or [Movement](Ga
 
 ### Removing
 {: no_toc }
-* After missing a [Combat-Turn](Combat-Turn) or when narratively appropriate.
+* After missing an [Action](Game/Core/Terminology#Action) during combat or when narratively appropriate.
 
 ---
 
@@ -31,13 +31,13 @@ A stunned character cannot perform [Action](Terminology#Action) or [Movement](Ga
 
 ## On Fire
 *Your character or their clothing is currently burning.* 
-If you are caught on fire, you are at immediate risk of severe complications. On each of your turns, unless you are already trying to put yourself out you must make an [Identity](Spirit#Identity) [Fixed Difficulty](Skills#Fixed%20Difficulty) skill test to not panic, which means you become [Stunned](#Stunned) for the [Combat Round](Terminology#Combat%20Round). You receive a (+4) to this test if you are going to try to put yourself out during your turn.
+If you are caught on fire, you are at immediate risk of severe complications. On each of your turns, unless you are already trying to put yourself out you must make an [Identity](Spirit#Identity) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0) skill test, if you fail you may only perform actions to remove this effect.
 
-* After 2 [Combat Round](Terminology#Combat%20Round) of being on fire, you take an immediate [Severe Injury](#Severe%20Injury). 
-* After 4 [Combat Round](Terminology#Combat%20Round) you take a [Critical Injury](Injury#Critical%20Injury). 
-* After 6 [Combat Round](Terminology#Combat%20Round) on fire you take a [Critical Injury](Injury#Critical%20Injury) to the chest on each of your [Combat Turn](Terminology#Combat%20Turn) until either dead or no longer on fire.
+* After 2 [Actions](Game/Core/Terminology#Action) while on fire, you take an immediate [Severe Injury](#Severe%20Injury). 
+* After 4 [Actions](Game/Core/Terminology#Action) while on fire, you take a [Critical Injury](Injury#Critical%20Injury). 
+* After 6 [Actions](Game/Core/Terminology#Action) while on fire, you take a [Critical Injury](Injury#Critical%20Injury) to the [Vitals](Game/Core/Injury#Vitals) and on every subsequent [Action](Game/Core/Terminology#Action) until either dead or no longer on fire.
 
-To put yourself out is an [Application](Intelligence#Application) [Fixed Difficulty](Skills#Fixed%20Difficulty)(-3). If you succeed you are no longer on fire. For each consecutive turn, you have been putting yourself out, you receive a (+1) to the [Action](Terminology#Action).
+To put yourself out is an [Application](Intelligence#Application) [Fixed Difficulty](Skills#Fixed%20Difficulty)(-3). If you succeed, you are no longer on fire. For each consecutive turn, you have been putting yourself out, you receive a (+1) to the [Action](Terminology#Action).
 
 ---
 
@@ -78,7 +78,7 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 ## In Cover
 *You are partially, or totally, obfuscated from your opponent.*
 * A [Character](Terminology#Character) further than [Reach](Movement#Reach) from you suffers (-2) to all [attacks](Terminology#Attack) targeting you.
-* During your [Combat Turn](Terminology#Combat%20Turn) you may suffer a (-4) on all [Action](Terminology#Action) to make it impossible for people outside [Reach](Movement#Reach) to target you with [Attacks](Attacks) until your next [Combat Turn](Terminology#Combat%20Turn).
+* You may suffer a (-4) on all [Action](Terminology#Action) to make it impossible for people outside [Reach](Movement#Reach) to target you with [Attacks](Attacks) until your next [Action](Game/Core/Terminology#Action).
 
 ### Removing
 {: .no_toc }
@@ -99,7 +99,7 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 ---
 ## Wounded
 *Your character has suffered a meaningful injury, there is only so much longer they can keep fighting.*
-* On each combat turn, after you have performed your [Action](Terminology#Action), you make an [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)([Long Term Injury](Effects#Long%20Term%20Injury)). For every severe injury add a (-1) to the test, and for every critical injury add (-2) to the test. If you fail, you become [Defeated](#Defeated).
+* After you perform an [Action](Terminology#Action), you make an [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)([Long Term Injury](Effects#Long%20Term%20Injury)). For every severe injury add a (-1) to the test, and for every critical injury add (-2) to the test. If you fail, you become [Defeated](#Defeated).
 ### Removing
 {: .no_toc }
 * Can be removed with [Gear](Gear).
