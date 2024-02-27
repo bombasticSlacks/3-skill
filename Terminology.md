@@ -100,16 +100,22 @@ See [Charges](Gear#Charges).
 
 
 ## Difficulty Value
-The penalty for an [Action](#Action) assigned by the [GM](How-To-Play#GM).
+The penalty for an [Action](#Action) assigned by the [Game Master](#Game%20Master).
 
 ## Unarmed Attack
 An unarmed attack is a [Melee Attack](#Melee%20Attack) without a weapon, using only your limbs. It causes [Minimal Injury](Injury#Minimal%20Injury) [Impact](Injury#Impact).
 
-### Scene
-A scene refers to the current moment of action / intrigue playing out. Scenes don't have a defined length or strict rules, but it is a useful way of talking about narrative play. If something is directed to end at the end of the scene and the [GM](Game/Core/How-To-Play#GM) feels that has narratively not been enough time, it is reasonable to extend the effect.
+## Scene
+A scene refers to the current moment of action / intrigue playing out. Scenes don't have a defined length or strict rules, but it is a useful way of talking about narrative play. If something is directed to end at the end of the scene and the [Game Master](#Game%20Master) feels that has narratively not been enough time, it is reasonable to extend the effect.
 
-### Eye Line
+## Eye Line
 A character is within eye line of something if an unbroken line could be drawn from the center of their head (or vision center) to the thing you are checking eye line of.
 
-### Compliant
+## Compliant
 A [Character](#Character) is compliant in an [Action](#Action) if they are willing to be a part of it or cannot otherwise stop it from happening.
+
+## Player Character
+The players, characters, heroes, adventurers etc. refers to the character that a player is playing directly. They will have motivations, plans, ideas, abilities, and be directed by the players themselves.
+
+## Game Master
+The GM, or, game master is the person who directs the flow of the game. They set up the initial state of the world, potentially with help from the players, then control every non-player character and entity in it.

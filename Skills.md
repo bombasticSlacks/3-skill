@@ -44,11 +44,11 @@ Sometimes a character will begin working on something early in a session or [Sce
 
 A project is a [Variable Difficulty](#Variable%20Difficulty) skill test:
 * If you fail, your character isn't capable of attempting the project, whether it be you lack the knowledge, items, or the process eludes you. Potentially, in the future, you could receive aid of some kind to allow you to attempt the project again.
-* If you succeed, your character marks their [Step Of Success](#Step) against a number of required [Step Of Success](#Step) set by the [GM](How-To-Play#GM).
+* If you succeed, your character marks their [Step Of Success](#Step) against a number of required [Step Of Success](#Step) set by the [Game Master](Game/Core/Terminology#Game%20Master).
 
-The initial success should provide the player with some information, direction or confirmation to [The Players](How-To-Play#The%20Players) are on the right track. Then as the [Scene](Terminology#Scene) progresses, you can take further action to gain additional steps towards success, these should not directly require a skill test (but obtaining the progress may require other skill tests). Any beneficial project action should give at least 1 [Step Of Success](#Step) and may give up to 3. They also potentially should again give the players further information, direction or confirmation towards their final goal.
+The initial success should provide the player with some information, direction or confirmation they are on the right track. Then as the [Scene](Terminology#Scene) progresses, you can take further action to gain additional steps towards success, these should not directly require a skill test (but obtaining the progress may require other skill tests). Any beneficial project action should give at least 1 [Step Of Success](#Step) and may give up to 3. They also potentially should again give the players further information, direction or confirmation towards their final goal.
 
-If the number of [Step Of Success](#Step) is met, and [The Players](How-To-Play#The%20Players) and [GM](How-To-Play#GM) both agree that it is time for the project to be completed, there is no additional skill test required, after all the initial work, the project will succeed.
+If the number of [Step Of Success](#Step) is met, the [Character](Game/Core/Terminology#Character) may complete the project. There is no additional skill test required, after all the initial work, the project will succeed.
 
 Even if you roll all of the required [Step Of Success](#Step) on the original skill test, **all projects require at least one additional step to be completed**.
 

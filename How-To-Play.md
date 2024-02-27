@@ -5,13 +5,11 @@ has_children: true
 nav_order: 0
 ---
 # How To Play
-## The Players
-The players, characters, heroes, adventurers etc. refers to the group of people that the players playing the game control directly. They will have motivations, plans, ideas, abilities, and be directed by the players themselves.
+This game takes place with people controlled [Player Characters](Game/Core/Terminology#Player%20Character) interacting with a world designed by a [Game Master](Game/Core/Terminology#Game%20Master).
 
-## GM
-The GM, or, game master is the person who directs the flow of the game. They set up the initial state of the world, potentially with help from the players, then control every non-player character and entity in it.
-
-More guidelines for the GM are provided in [Running The Game](Running-The-Game).
+* [How-To-Play](Game/Core/How-To-Play) explains the basics of the rules, you should be mindful of changing these rules as they are fundamental to the game.
+* [Telling-The-Story](Game/Telling-The-Story) explains more advanced concepts like injury, combat, rules in telling the story are more flexible.
+* Guidelines for the [Game Master](Game/Core/Terminology#Game%20Master) are provided in [Running The Game](Running-The-Game).
 
 ## Dice
 ![dice-icons](Content/dice-icons.svg)

@@ -19,7 +19,7 @@ The first [Character](Game/Core/Terminology#Character) to act in combat is alway
 If someone wants to perform something hostile and someone else is aware and able to stop them, the player does a [Reflexes](Game/Core/Agility#Reflexes) [Opposed Difficulty](Game/Core/Skills#Opposed%20Difficulty)([Reflexes](Game/Core/Agility#Reflexes)) test. If they succeed, they act first, otherwise the target does.
 
 ### Who Goes Next
-After any action in combat, the next character to act should be from the other group of [The Players](Game/Core/How-To-Play#The%20Players) and the [GM](Game/Core/How-To-Play#GM).
+After any action in combat, the next character to act should be from the other group of [Player Characters](Game/Core/Terminology#Player%20Character) and the [Game Master](Game/Core/Terminology#Game%20Master).
 
 > So if a GM controlled soldier attacks a player's character, the next character to act should be player controlled.
 
@@ -28,7 +28,7 @@ After any action in combat, the next character to act should be from the other g
 * A player who was just the [Opponent](Game/Core/Terminology#Opponent) of an [Action](Game/Core/Terminology#Action) should get the first opportunity to perform an [Action](Game/Core/Terminology#Action) if they have something in mind.
 
 #### Followers
- If a character has [Follower](Game/Core/Terminology#Follower) they may be selected to act as any of [The Players](Game/Core/How-To-Play#The%20Players).
+ If a character has [Follower](Game/Core/Terminology#Follower) they may be selected to act instead of a [Player Character](Game/Core/Terminology#Player%20Character).
 
 #### Overwhelming Odds
 If the players or the non-players meaningfully outnumber each other one way or another, then the side with the larger numbers can take two actions in a row before the other team gets to respond to represent the swarm of people.

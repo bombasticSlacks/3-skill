@@ -25,7 +25,7 @@ The location is far off, even a very fast person would struggle to get to it qui
 ### Impossible
 The location isn't reachable in a timely manner. You should instead try to move towards it, but more narrative work needs to be done to get to it. 
 
-As a [GM](How-To-Play#GM) try to avoid making situations and locations where things are impossible to reach. Impossible should also include suggestions for more approachable milestones.
+As a [Game Master](Game/Core/Terminology#Game%20Master) try to avoid making situations and locations where things are impossible to reach. Impossible should also include suggestions for more approachable milestones.
 
 ### Approximating Distance
 Distances shouldn't be set in stone, it should be flexible based on your characters' movement and the timescale of the current events. However, the following guidelines are provided.

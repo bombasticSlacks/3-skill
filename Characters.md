@@ -9,7 +9,7 @@ parent: Running The Game
 # Characters
 {: .no_toc }
 
-All characters that aren't played by the [The Players](How-To-Play#The%20Players), still need rules for the players to engage with. Non player characters are generally just a collection of actions, reactions, traits and some default details.
+All characters that aren't a [Player Character](Game/Core/Terminology#Player%20Character), still need rules for the players to engage with. Non player characters are generally just a collection of actions, reactions, traits and some default details.
 Non player characters come in 2 overall archetypes: [Simple NPCs](#Simple%20NPCs) and [Complex NPCs](#Complex%20NPCs).
 
 ## Simple NPCs
