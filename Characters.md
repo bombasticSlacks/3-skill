@@ -15,21 +15,15 @@ Non player characters come in 2 overall archetypes: [Simple NPCs](#Simple%20NPCs
 ## Simple NPCs
 Easy to build, simplification of character design. Instead of using skills, these characters have specific actions and reactions they can perform, as well as a smaller selection of attributes and traits. There are three tiers of simple NPC, mostly designed for direct party challenges: [Fodder](#Fodder), [Elites](#Elites), [Bosses](#Bosses).
 
-A collection of example simple NPCs are provided:
-* [Beast](Monster-Types/Beast).
-* [Elemental](Monster-Types/Elemental).
-* [People](Monster-Types/People).
-* [Undead](Monster-Types/Undead).
-
 ### Fodder
-Weak characters that have no [Armour Integrity](Armour#Armour%20Integrity), few [Action](Terminology#Action) and no [Reaction](Terminology#Reaction). Any damage will defeat them, and they will tend to only do one thing.
+Weak characters that have no [Armour Integrity](Armour#Armour%20Integrity), few [Action](Terminology#Action) and be incapable of [Reacting](Game/Core/Reacting). Any damage will defeat them, and they will tend to only do one thing.
 
 ### Elites
-Characters similarly powerful to the player characters. They should have [Armour Integrity](Armour#Armour%20Integrity), [Reaction](Terminology#Reaction), and multiple [Action](Terminology#Action). If an elite enemy is [Wounded](Effects#Wounded) they are immediately [Defeated](Effects#Defeated).
+Characters similarly powerful to the player characters. They should have [Armour Integrity](Armour#Armour%20Integrity), be capable of [Reacting](Game/Core/Reacting), and have multiple [Action](Terminology#Action). If an elite enemy is [Wounded](Effects#Wounded) they are immediately [Defeated](Effects#Defeated).
 
 ### Bosses
 #TODOCombat
-Characters that could occupy multiple party members. They may have multiple [Reaction](Terminology#Reaction), and multiple [Initiative Value](Combat#Initiative%20Value) giving them additional [Action](Terminology#Action) each turn though they should, if possible, attempt different actions against different characters during each [Combat Round](Terminology#Combat%20Round). They should also have [Resistance(X)](Character-Actions#Resistance(X)) allowing them to survive potentially lethal strikes like a player character. 
+Characters that could occupy multiple party members. They are capable of [Reacting](Game/Core/Reacting), and should be incapable of suffering [Overwhelming Odds](Game/Core/Combat#Overwhelming%20Odds). They should also have [Resistance(X)](Character-Actions#Resistance(X)) allowing them to survive potentially lethal strikes like a player character. 
 
 ## Complex NPCs
 For significant NPCs that will interact in very meaningful ways with the players. Complex NPCs come in two categories: [Archetypes](#Archetypes) and [Full](#Full).
