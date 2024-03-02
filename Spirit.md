@@ -7,7 +7,7 @@ grand_parent: How To Play
 ---
 # Spirit
 
-Measures your spirit, your sense of self and the world around you.
+Measures your spirit, your sense of self and the world around you. It is also used to force your will on others, conjure magic, and interrogate others.
 
 It can be honed to better perform the [Skills](Skills):
 ## Attunement
