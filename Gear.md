@@ -14,6 +14,9 @@ Unless specified, gear should be handled narratively. Reliable gear that isn’t
 ## Traits
 These are some of the traits gear might have used as shorthand for certain effects or uses.
 
+### Skilled
+Gear that will usually require a skill test whill be refered to as Skilled(X) where X is the required skill. Some skilled gear may be used in scenarios where a skill test isn't required.
+
 ### Unskilled
 Gear that doesn't require skill to operate will be marked with "unskilled". It is assumed most gear will otherwise still require you to perform a [Skill Test](Game/Core/Terminology#Skill%20Test) of some kind. Generally, gear facilitates or aids with actions that would otherwise be impossible, it doesn't make them guaranteed. Even gear marked as unskilled may, if used in unorthodox ways, still require a skill test.
 
@@ -31,6 +34,12 @@ These can be replaced when finding relevant materials, or by purchasing charges.
 
 ### Free Action
 Using this gear doesn't require any time to pass.
+
+### Passive
+This gear is constantly active and does not require [Action](Game/Core/Terminology#Action) to use.
+
+### Follower
+This piece of gear is controlled like a [Follower](Game/Core/Terminology#Follower) allowing you to direct them. They will have abilities like a [Character](Game/Core/Terminology#Character).
 
 ### Comestibles
 Covers any type of gear that is destroyed or made useless by using. The act of using a comestible destroys it. There are a few specialized categories of comestible:
