@@ -96,7 +96,7 @@ A re-roll is when a character re-rolls all dice they just rolled and recalculate
 Refers to a bonus being able to be taken multiple times to get the effect repeated.
 
 ## Charges
-See [Charges](Gear#Charges).
+See [Charges](Game/Core/Blocks/Charges).
 
 
 ## Difficulty Value
