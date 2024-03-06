@@ -9,7 +9,7 @@ nav_order: 0
 # Magical Attacks
 {: .no_toc }
 
-Magic or otherworldly attacks are different from combat in that they have no [Combat Modifiers](Game/Core/Attacks#Combat%20Modifiers) by default, and instead they will be included in the attack profile or provided by some form of character development.
+Magic or otherworldly attacks are different from combat in that they potentially have additional combat modifiers that are provided by some form of character development.
 
 These all have an included action modifier, which is the penalty the action suffers when adding that effect.
 
@@ -37,10 +37,6 @@ If this is a [Successful Attack](Core/Terminology#Successful%20Attack) and the o
 *Action modifier (-4)*
 This attack hits everyone [Close](Core/Movement#Close) to your target.
 
-## Lethal
-*Action modifier varies*
-Your [Attack](Core/Terminology#Attack) does 1 additional [Damage](Core/Terminology#Damage). The penalty for this is variable, see [Calculating Damage](#Calculating%20Damage).
-
 ## Painless
 *Action modifier (0)*
 This attack does not cause [Injury](Core/Injury)
@@ -56,9 +52,7 @@ If this is a [Successful Attack](Core/Terminology#Successful%20Attack) the [Oppo
 ## Stunning
 *Action modifier (-1)*
 If this is a [Successful Attack](Core/Terminology#Successful%20Attack) the [Opponent](Core/Terminology#Opponent) performs a [Endurance](Core/Strength#Endurance) [Fixed Difficulty](Core/Skills#Fixed%20Difficulty)(0), if they fail, they become [Stunned](Core/Effects#Stunned). 
-## Surprising
-*Action modifier (-1,-3,-5)*
-This attack has a penalty to [Avoid](Core/Reacting#Avoid) equal to the selected modifier.
+
 ## Unavoidable
 *Action modifier (-5)*
 The [Opponent](Core/Terminology#Opponent) cannot perform [Reactions](Core/Terminology#Reaction) in response to this attack.
