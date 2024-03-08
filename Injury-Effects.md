@@ -25,8 +25,10 @@ Causing the [Opponent](Terminology#Opponent) to suffer a (-1) to [Attacks](Termi
 ## Vitals
 
 ### Lung Puncture
+The [Opponent](Game/Core/Terminology#Opponent) cannot move and act.
 
 ### Guts Spilled
+Causing the [Opponent](Game/Core/Terminology#Opponent) to only be able to use 1 arm.
 
 ### Concuss
 Causing the [Opponent](Terminology#Opponent) to become [Stunned](Effects#Stunned).
