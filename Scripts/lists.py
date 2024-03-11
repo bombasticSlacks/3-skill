@@ -2,15 +2,16 @@
 
 # adds blocks to a provided index
 # arg 1: the file to add to
-# arg 2: the tag to look for
+# arg 2: the tag to look for (can be comma separated list)
+# arg 3: the directory to use (can be comma separated list)
 import os
 import sys
 
-dir = sys.argv[3]
 file = sys.argv[1]
-tag = sys.argv[2]
+tags = sys.argv[2].split(",")
+dir = sys.argv[3]
 
-lookFor = f'{tag})' + "\n{: .label" 
+
 
 # load the original file contents
 with open(file, 'r') as fileBuffer:
@@ -29,7 +30,12 @@ for block in blocks:
             # Wrap our block with some HTML
             contents = f.read()
         # if the block has the tag add it to the other file
-        if (lookFor in contents):
+        found = False
+        for tag in tags:
+            lookFor = f'{tag})' + "\n{: .label"
+            if (lookFor in contents):
+                found = True
+        if found:
             fileContents += f'![{name}]({dir}/{name})\n'
 
 # Replace the file
