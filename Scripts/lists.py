@@ -12,12 +12,11 @@ tags = sys.argv[2].split(",")
 dir = sys.argv[3]
 
 
-
 # load the original file contents
 with open(file, 'r') as fileBuffer:
     fileContents = fileBuffer.read()
 
-# itterate through all blocks but alphabetize
+# iterate through all blocks but alphabetize
 blocks = os.listdir(dir)
 blocks.sort()
 for block in blocks:
