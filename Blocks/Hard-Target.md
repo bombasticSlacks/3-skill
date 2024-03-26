@@ -1,4 +1,4 @@
-Trait
+[Character-Traits](Game/Core/Character-Traits)
 {: .label .label-yellow }
 ## Hard Target
 *This creature is hard to hit with attacks.*

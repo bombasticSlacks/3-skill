@@ -1,4 +1,4 @@
-Action
+[Character-Actions](Game/Core/Character-Actions)
 {: .label .label-red }
 ## Grapple(X, OPPOSED)
 *The monster lunges for a grab, trying to control you.*

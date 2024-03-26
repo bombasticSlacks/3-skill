@@ -99,7 +99,8 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 ---
 ## Wounded
 *Your character has suffered a meaningful injury, there is only so much longer they can keep fighting.*
-* After you perform an [Action](Terminology#Action), you make an [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)([Long Term Injury](Effects#Long%20Term%20Injury)). For every severe injury add a (-1) to the test, and for every critical injury add (-2) to the test. If you fail, you become [Defeated](#Defeated).
+* For [Player Character](Game/Core/Terminology#Player%20Character) after you perform an [Action](Terminology#Action), you make an [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)([Long Term Injury](Effects#Long%20Term%20Injury)). For every severe injury add a (-1) to the test, and for every critical injury add (-2) to the test. If you fail, you become [Defeated](#Defeated).
+* Unless specified wounding another [Character](Game/Core/Terminology#Character) means they are [Defeated](Game/Core/Effects#Defeated).
 ### Removing
 {: .no_toc }
 * Can be removed with [Gear](Gear).

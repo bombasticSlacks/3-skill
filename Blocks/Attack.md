@@ -1,4 +1,4 @@
-Action
+[Character-Actions](Game/Core/Character-Actions)
 {: .label .label-red }
 ## Attack(X, TYPE, DAMAGE)
 *The monster strikes out, harming an enemy.*

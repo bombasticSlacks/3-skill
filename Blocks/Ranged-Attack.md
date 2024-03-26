@@ -1,4 +1,4 @@
-Action
+[Character-Actions](Game/Core/Character-Actions)
 {: .label .label-red }
 ## Ranged Attack(X, TYPE, DAMAGE, Range)
 *The monster attacks at a distance.*

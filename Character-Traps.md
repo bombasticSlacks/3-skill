@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Character Actions
+title: Character Traps
 parent: Characters
 grand_parent: Running The Game
 nav_order: 0
 ---
 
-# Character Actions
+# Character Traps
 This is a list of generic actions that are shared among NPCs.
 
 <details open markdown="block">
