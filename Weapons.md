@@ -35,10 +35,7 @@ Weapons can usually have any of the physical damage types [Piercing](Injury#Pier
 ## Range
 Weapons, unless specified, can only be used to attack things in [Reach](Movement#Reach). Some traits may give a weapon a specific range, however.
 
-## Threat
-A measure of how dangerous and threatening a weapon is. Used to weight who unintelligent monsters target at random as well as makes it harder to fight with ranged weapons when [In Melee](Effects#In%20Melee).
-* A character that is unarmed still has a base threat of 1. 
-* A character that is unconscious or otherwise detained should have a threat of 0.
+
 
 ## [Weapon-Traits](Weapon-Traits)
 Abilities or unique effects a weapon might possess. If you have an idea in mind as a player or game master, try to come up with a unique trait to properly represent a weapon.  A non-exhaustive list is provided [here](Weapon-Traits). 

@@ -32,3 +32,8 @@ After any action in combat, the next character to act should be from the other g
 
 #### Overwhelming Odds
 If the players or the non-players meaningfully outnumber each other one way or another, then the side with the larger numbers can take two actions in a row before the other team gets to respond to represent the swarm of people.
+
+## Threat
+A measure of how dangerous and threatening a person is. Used to weight who unintelligent monsters target at random as well as makes it harder to fight with ranged weapons when [In Melee](Effects#In%20Melee).
+* A character that is unarmed still has a base threat of 1. 
+* A character that is unconscious or otherwise detained should have a threat of 0.
