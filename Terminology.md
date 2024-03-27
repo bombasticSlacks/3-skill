@@ -103,7 +103,7 @@ See [Charges](Game/Core/Blocks/Charges).
 The penalty for an [Action](#Action) assigned by the [Game Master](#Game%20Master).
 
 ## Unarmed Attack
-An unarmed attack is a [Melee Attack](#Melee%20Attack) without a weapon, using only your limbs. It causes [Minimal Injury](Injury#Minimal%20Injury) [Impact](Injury#Impact).
+An unarmed attack is a [Melee Attack](#Melee%20Attack) without a weapon, using only your limbs. It causes 1 [Impact](Game/Core/Injury#Impact) damage.
 
 ## Scene
 A scene refers to the current moment of action / intrigue playing out. Scenes don't have a defined length or strict rules, but it is a useful way of talking about narrative play. If something is directed to end at the end of the scene and the [Game Master](#Game%20Master) feels that has narratively not been enough time, it is reasonable to extend the effect.

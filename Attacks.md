@@ -67,8 +67,8 @@ If you fail to mitigate an incoming attack, you will take damage.
 
 * Adjust incoming damage based on if you have [Weakness and Resistance](Armour#Weakness%20and%20Resistance) to the attack.
 * Deduct incoming damage from your [Armour Integrity](Armour#Armour%20Integrity).
-* Any remaining damage is converted to an [Injury](Injury).
+* Any remaining damage is converted to [Injury](Injury).
 
-> Example, if your character takes 3 damage from a piercing attack while wearing armour weak to piercing with 2 [Armour Integrity](Armour#Armour%20Integrity). Your character's Armour Integrity is reduced to 0, with 2 damage still left unaccounted for you take a [Severe Injury](Injury#Severe%20Injury).
+> Example, if your character takes 3 damage from a piercing attack while wearing armour weak to piercing with 2 [Armour Integrity](Armour#Armour%20Integrity). Your character's Armour Integrity is reduced to 0, with 2 damage still left unaccounted for, you suffer 2 [Injury Damage](Game/Core/Injury#Injury%20Damage).
 
 

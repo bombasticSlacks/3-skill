@@ -31,13 +31,13 @@ A stunned character cannot perform [Action](Terminology#Action) or [Movement](Ga
 
 ## On Fire
 *Your character or their clothing is currently burning.* 
-If you are caught on fire, you are at immediate risk of severe complications. On each of your turns, unless you are already trying to put yourself out you must make an [Identity](Spirit#Identity) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0) skill test, if you fail you may only perform actions to remove this effect.
+* Whenever you act, you suffer 2 [Heat](Game/Core/Injury#Heat) damage.
+* Whenever you would perform an [Action](Game/Core/Terminology#Action) make an [Identity](Spirit#Identity) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0) skill test, if you fail you may only perform actions to remove this effect.
 
-* After 2 [Actions](Game/Core/Terminology#Action) while on fire, you take an immediate [Severe Injury](#Severe%20Injury). 
-* After 4 [Actions](Game/Core/Terminology#Action) while on fire, you take a [Critical Injury](Injury#Critical%20Injury). 
-* After 6 [Actions](Game/Core/Terminology#Action) while on fire, you take a [Critical Injury](Injury#Critical%20Injury) to the [Vitals](Game/Core/Injury#Vitals) and on every subsequent [Action](Game/Core/Terminology#Action) until either dead or no longer on fire.
 
-To put yourself out is an [Application](Intelligence#Application) [Fixed Difficulty](Skills#Fixed%20Difficulty)(-3). If you succeed, you are no longer on fire. For each consecutive turn, you have been putting yourself out, you receive a (+1) to the [Action](Terminology#Action).
+### Removing
+{: .no_toc }
+* To put yourself out is an [Application](Intelligence#Application) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0). If you succeed, you are no longer on fire. 
 
 ---
 
@@ -99,8 +99,8 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 ---
 ## Wounded
 *Your character has suffered a meaningful injury, there is only so much longer they can keep fighting.*
-* For [Player Character](Game/Core/Terminology#Player%20Character) after you perform an [Action](Terminology#Action), you make an [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty)([Long Term Injury](Effects#Long%20Term%20Injury)). For every severe injury add a (-1) to the test, and for every critical injury add (-2) to the test. If you fail, you become [Defeated](#Defeated).
-* Unless specified wounding another [Character](Game/Core/Terminology#Character) means they are [Defeated](Game/Core/Effects#Defeated).
+* After you perform an [Action](Game/Core/Terminology#Action), you become [Defeated](Game/Core/Effects#Defeated). (This can be resisted with [Endurance](Game/Core/Strength#Endurance)).
+
 ### Removing
 {: .no_toc }
 * Can be removed with [Gear](Gear).
@@ -111,9 +111,7 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 
 ## Long Term Injury
 *Your character has suffered a meaningful injury. The discomfort causes them difficulty when performing actions.*
-* If you suffer a [Severe Injury](Injury#Severe%20Injury) or [Critical Injury](Injury#Critical%20Injury) after combat you will take a penalty to all [Action](Terminology#Action).
-* If the worst [Injury](Injury) you suffered was a [Severe Injury](Injury#Severe%20Injury) you suffer a (-2) to all [Action](Terminology#Action).
-* If the worst [Injury](Injury) you suffered was a [Critical Injury](Injury#Critical%20Injury) you suffer a (-3) to all [Action](Terminology#Action).
+* If you are wounded, after combat you will take a penalty to all [Action](Terminology#Action) equal to the highest amount of [Injury](Game/Core/Injury).
 
 ### Removing
 {: .no_toc }

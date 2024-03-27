@@ -6,45 +6,21 @@ nav_order: 0
 has_children: true
 ---
 # Injury
-Humans don’t have hit points. A character's [Armour](Armour) takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. [Damage](Terminology#Damage) converts to injuries as follows:
+Humans don’t have hit points. A character's [Armour](Armour) takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. 
 
-| Damage | Injury                                |
-| ------ | ------------------------------------- |
-| 1      | [Minimal Injury](#Minimal%20Injury)   |
-| 2      | [Severe Injury](#Severe%20Injury)     |
-| 3      | [Critical Injury](#Critical%20Injury) |
-| 4+     | [Lethal Injury](#Lethal%20Injury)     |
+## Injury Damage
+Any damage not mitigated by armour is considered Injury Damage and causes direct effects and harm to the [Character](Game/Core/Terminology#Character).
 
-> Example a character suffers an attack that deals 2 damage, while not wearing armour, they suffer a [Severe Injury](#Severe%20Injury). If they then suffer an attack that deals 3 damage, they suffer an additional [Critical Injury](#Critical%20Injury).
+When you suffer injury, the attacker can assign a number of [Injury-Effects](Game/Core/Injury-Effects) to you based on the damage dealt.
 
-All injuries will potentially cause an [Injury-Effects](Injury-Effects).
-## Minimal Injury
-An attack that doesn't cause serious wounds, but still causes disruption.
-* Must perform [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty) (0) or suffer an [Injury-Effects](Injury-Effects).
-
-## Severe Injury
-Severe injuries need medical attention quickly. It can involve broken bones, internal bleeding, and severe lacerations. After taking a severe injury, there is only so long you can fight before you pass out. 
-* Must perform [Endurance](Strength#Endurance) [Fixed Difficulty](Skills#Fixed%20Difficulty) (0) or suffer an [Injury-Effects](Injury-Effects).
-* Become [Wounded](Effects#Wounded).
-* If you don't receive medical aid, you will die of complications in 30–60 minutes.
-
-## Critical Injury
-Critical injuries pose an immediate threat to your life. You are left severely bleeding, unconscious, with organ failure, etc. as well you will have completely lost use of the attacked area which will need to be replaced with prosthetics or invasive surgery.
-* Suffer an [Injury-Effects](Injury-Effects).
-* Become [Wounded](Effects#Wounded).
-* Critical [Vitals](#Vitals) injuries kill outright.
-* If you don't receive medical aid, you will die of complications in 3-5 minutes.
-
-## Lethal Injury
-A lethal injury always means death to a normal-sized creature and represents a complete failure of their necessary systems for survival. 
-* Death
+> Example a character suffers an attack that deals 3 damage while having 1 [Armour Integrity](Game/Core/Armour#Armour%20Integrity). There armour is reduced to 0 integrity and they suffer 2 injury damage. This is enough to cause them to become [Wounded](Game/Core/Effects#Wounded) and suffer [Injury-Effects](Game/Core/Injury-Effects).
 
 ## Hit Locations
-Generally when considering where something strikes you, it is assumed that an [Attack](Terminology#Attack) or other harm will hit you in somewhere that will not kill you. Important vitals locations are often close to the body, and hard to strike without intent. The two location types are:
+Generally when considering where something strikes you, it is assumed that an [Attack](Terminology#Attack) or other harm will hit you in somewhere that will not kill you. Important vitals locations are often close to the body, and challenging to strike without intent. The two location types are:
 ### Ancillary
-Ancillary are any standard [Attack](Terminology#Attack). An ancillary attack can still be very dangerous, but should not have the potential to outright kill.
+Ancillary are any standard [Attack](Terminology#Attack). An ancillary attack can still be very dangerous, but is much less likely to kill.
 ### Vitals
-Vitals are an [Attack](Terminology#Attack) that is targeted, usually with [Vitals Shot](Attacks#Vitals%20Hit). The meaningful distinction is that a [Critical Injury](#Critical%20Injury) to the vitals, will kill you outright.
+Vitals are an [Attack](Terminology#Attack) that is targeted, usually with [Vitals Shot](Attacks#Vitals%20Hit). The meaningful distinction is that any injury suffered in the vitals will deal 1 additional damage.
 
 ## Types of Damage
 Generally, there are two large categories of damage – Physical and Otherworldly, each of these then further has three categories of damage.
@@ -67,13 +43,10 @@ Heat, power, holy energy ravage the body.
 ### Cold
 Ice, chill, vampiric energy ravage the body.
 
-## Heroes
-Your characters are heroes. Heroes can’t instantly die from an attack. Any attack that would kill a hero outright, instead leaves the character [Defeated](Effects#Defeated).
-
 ## Injury Penalty
-After someone is wounded, whether they pass out or stay conscious, they will suffer long-term effects. Once the combat ends, any characters who suffered [Wounded](Effects#Wounded) gain the [Long Term Injury](Effects#Long%20Term%20Injury) effect.
+After someone is wounded, whether they pass out or stay conscious, they will suffer long-term effects. Once the combat ends, any characters who suffered [Wounded](Effects#Wounded) gains the [Long Term Injury](Effects#Long%20Term%20Injury) effect.
 
 ## Managing Injuries
 Aside from the trauma of being injured in the field, there are other immediate risks to a person who has been injured, and they will need treatment to stay healthy or remain alive (depending on severity).
 
-When determining difficulty of [Application](Intelligence#Application) skill tests and negatives for any injuries, you just count the injury that would give you the largest negative/penalty. Multiple injuries don’t provide cumulative negatives.
+When determining difficulty of [Application](Intelligence#Application) skill tests and negatives for any injuries, apply a penalty equal to your [Long Term Injury](Game/Core/Effects#Long%20Term%20Injury) penalty.
