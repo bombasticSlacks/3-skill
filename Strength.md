@@ -27,8 +27,9 @@ The action of enduring hardships, remaining steadfast in the face of adversity. 
 * staying conscious from injuries.
 * Maintaining an action while under strain.
 * Dealing with immediate injury effects.
+* Resisting negative physical effects.
 
-Any time you are striking something, you should make an endurance [Skill](Skills) test.
+Any time you are trying to endure something, you should make an endurance [Skill](Skills) test.
 
 ---
 ## Strike
