@@ -32,7 +32,8 @@ for block in blocks:
         found = False
         for tag in tags:
             lookFor = f'{tag})' + "\n{: .label"
-            if (lookFor in contents):
+            orLookFor = f'{tag}'+"\n{: .label"
+            if (lookFor in contents or orLookFor in contents):
                 found = True
         if found:
             fileContents += f'![{name}]({dir}/{name})\n'
