@@ -4,4 +4,4 @@
 
 ### Spiritual
 *This weapon channels your inner power.*
-* This weapon adds [Spirit](Game/Core/Spirit) to [Damage Bonus](Game/Core/Weapons#Damage%20Bonus).
+* This weapon adds [Spirit](Game/Core/Spirit) to [Extra Damage](Game/Core/Attacks#Extra%20Damage) modifier.

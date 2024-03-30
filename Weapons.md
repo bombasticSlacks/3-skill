@@ -6,28 +6,13 @@ nav_order: 2
 has_children: true
 ---
 # Weapons
-Weapons can normally be separated into 3 categories: Basic, artisan and exotic. Anyone can use a basic or artisan weapon without difficulty. Exotic weapons would require [additional training](Rogue#Exotic%20Expert) or attacks will be at a -3.
+Weapons are tools of harm. Weapons should be a mixture of simple and unique to be found and experienced.
 
-Weapons should be a mixture of simple and unique to be found and experienced.
+## Damage
+Weapons cause a certain amount of harm. This is an abstraction of how capable it is of killing or damaging another thing.
 
-## Damage Bonus
-Weapons have a damage bonus, used to calculate how much [Damage](Terminology#Damage) they do. See [Calculating Damage](Attacks#Calculating%20Damage).
-
-### Calculating Damage
-[Damage Bonus](#Damage%20Bonus) can be converted to an actual damage value as follows:
-
-| Damage Bonus | Damage | Heavy Strike Penalty |
-| ------------ | ------ | -------------------- |
-| 1-5          | 1      | $Damage\ Bonus - 6$    |
-| 6-10         | 2      | $Damage\ Bonus - 11$    |
-| 11-15        | 3      | $Damage\ Bonus - 16$    |
-| 16+          | 4      | -                    | 
-
-Damage bonus usually includes your Strength, along with bonuses from the item you are wielding, this value generally doesn't change. You should also figure out what your [Heavy Strike](#Heavy%20Strike) penalty is.
-
-Damage is usually written as X(-Y) where X is the damage dealt and Y is the [Heavy Strike](Attacks#Heavy%20Strike) penalty.
-
-> So if a character with 3 strength wields a melee weapon with a damage bonus of 5, they have a total damage bonus of 8. This means that their weapon deals 2 damage and their [Heavy Strike](#Heavy%20Strike) penalty is (-3), or 2(-3).
+## Extra Damage Modifier
+Almost all weapons are capable of, with skill, dealing additional damage to other [Characters](Game/Core/Terminology#Character). This is the penalty the weapon has to cause [Extra Damage](Game/Core/Attacks#Extra%20Damage).
 
 ## Damage Type
 Weapons can usually have any of the physical damage types [Piercing](Injury#Piercing), [Rending](Injury#Rending), [Impact](Injury#Impact). This will affect what injuries it will cause and what armour will defend against it. Fabrics tend to be strong against [Impact](Injury#Impact), plates against [Rending](Injury#Rending), and weaves against [Piercing](Injury#Piercing). 
