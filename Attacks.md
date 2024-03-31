@@ -41,10 +41,6 @@ These are modifiers you can apply to attacks and manoeuvres which will put you a
 
 Your [Attack](Terminology#Attack) does additional [Damage](Terminology#Damage). Every weapon wielded by a character will have a different extra damage penalty.
 
-If a weapon has an Extra Damage modifier of 0 or more, it instead does an additional damage and it's Extra Damage penalty is reduced by 5.
-
-> So if a weapon deals 2 damage and after modifiers has an extra damage modifier of (+1), you can rewrite this as 3 damage and an extra damage modifier of (-4).
-
 ### Vitals Hit
 *Action modifier (-2)*
 
