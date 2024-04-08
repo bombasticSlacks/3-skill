@@ -96,9 +96,9 @@ The list of skills should cover any activity a character would be expected to do
 * [Understanding](Intelligence#Understanding)
 
 ### [Spirit](Spirit) Skills
-* [Attunement](Spirit#Attunement)
-* [Identity](Spirit#Identity)
-* [Will](Spirit#Will)
+* [Ascendancy](Spirit#Ascendancy)
+* [Volition](Spirit#Volition)
+* [Ascendancy](Spirit#Ascendancy)
 
 ### [Communication](Communication) Skills
 * [Confidence](Communication#Confidence)

@@ -4,4 +4,4 @@
 
 ### Mind Over Matter
 *This weapon strikes using your force of will.*
-* This weapon [Attacks](Game/Core/Attacks) using the [Will](Game/Core/Spirit#Will) skill.
+* This weapon [Attacks](Game/Core/Attacks) using the [Ascendancy](Game/Core/Spirit#Ascendancy) skill.
