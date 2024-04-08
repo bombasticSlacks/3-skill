@@ -20,7 +20,7 @@ Generally when considering where something strikes you, it is assumed that an [A
 ### Ancillary
 Ancillary are any standard [Attack](Terminology#Attack). An ancillary attack can still be very dangerous, but is much less likely to kill.
 ### Vitals
-Vitals are an [Attack](Terminology#Attack) that is targeted, usually with [Vitals Shot](Attacks#Vitals%20Hit). The meaningful distinction is that any injury suffered in the vitals will deal 1 additional damage.
+Vitals are an [Attack](Terminology#Attack) that is targeted, usually with [Vitals Shot](Attacks#Vitals%20Hit). The meaningful distinction is that any attack that causes [Injury Damage](#Injury%20Damage) causes 2 additional.
 
 ## Types of Damage
 Generally, there are two large categories of damage – Physical and Otherworldly, each of these then further has three categories of damage.

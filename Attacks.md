@@ -36,11 +36,6 @@ If an [Attack](Terminology#Attack) is a [Critical Success](Skills#Critical%20Suc
 ## Combat Modifiers
 These are modifiers you can apply to attacks and manoeuvres which will put you at a negative to the skill test but will make the attack or manoeuvre do additional things. Several other powerful modifiers can be learned by taking specific combat training. 
 
-### Difficult Hit
-*Action modifier (-1, -3, -5)*
-
-You make your attacks harder to predict and therefore harder to avoid. You can give yourself a -1, -3 or -5 to your skill test to give your opponent a similar negative to any reactions.
-
 ### Heavy Strike
 *Action modifier varies*
 
