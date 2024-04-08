@@ -35,7 +35,7 @@ A standard skill test, however since the skill test is directed at a certain thi
 
 Only [Bosses](Running-The-Game#Bosses) can make non-combat opposed difficulty skill tests targeting the players. For every other type of enemy the players should act on them, making opposed difficulty skill tests targeting them. 
 
-> An example would be trying to sneak past someone, this would be a [Coordination](Agility#Coordination) [Opposed Difficulty(Insight)](#Opposed%20Difficulty) which means it is a grace skill test with a negative equal to their ranks in [Insight](Intelligence#Insight). 
+> An example would be trying to sneak past someone, this would be a [Coordination](Agility#Coordination) [Opposed Difficulty(Insight)](#Opposed%20Difficulty) which means it is a grace skill test with a negative equal to their ranks in [Understanding](Intelligence#Understanding). 
 
 ### Project
 Sometimes a character will begin working on something early in a session or [Scene](Terminology#Scene) that may not reasonably resolve until the end of the scene or further into the session. This could be because the character lacks all the information, tools, or materials they need to complete the current action, but before trying to pursue the idea want to make sure it is possible. Short-term situations like this should be considered "projects". If something does not have a large bearing on the story and could easily be resolved immediately with a single skill test, it would better be considered a [Variable Difficulty](#Variable%20Difficulty) skill test.
@@ -52,7 +52,7 @@ If the number of [Step Of Success](#Step) is met, the [Character](Game/Core/Term
 
 Even if you roll all of the required [Step Of Success](#Step) on the original skill test, **all projects require at least one additional step to be completed**.
 
-> As an example, say a hunter is trying to identify the creature that has been slaughtering farmers' cows. He has [Memory](Intelligence#Memory) and knowledge of monsters, though he doesn't have many clues to go on yet. After witnessing the injuries on the cows, he makes his [Project](#Project) skill test rolling [Memory](Intelligence#Memory) to see if he knows of the creature and succeeds with 3 steps of success. The hunter has a list of creatures it could be based on the attack but can't narrow it down, the GM assigns a requirement of 4 [Step Of Success](#Step) to complete the project. The hunter will need one more clue to receive the details of the creature.
+> As an example, say a hunter is trying to identify the creature that has been slaughtering farmers' cows. He has [Understanding](Intelligence#Understanding) and knowledge of monsters, though he doesn't have many clues to go on yet. After witnessing the injuries on the cows, he makes his [Project](#Project) skill test rolling [Understanding](Intelligence#Understanding) to see if he knows of the creature and succeeds with 3 steps of success. The hunter has a list of creatures it could be based on the attack but can't narrow it down, the GM assigns a requirement of 4 [Step Of Success](#Step) to complete the project. The hunter will need one more clue to receive the details of the creature.
 > He decides to go into town to ask about strange occurrences.
 > After some additional narrative time, the hunter discovers that the creature had avoided a woman wearing a lot of silver jewellery, this gives him his final step of success and the player and GM agree that it is reasonable for the project to then be completed. 
 > As a reward for completion the GM provides the hunter with the information that it is a Werewolf and the abilities and attributes of the creature.
@@ -66,7 +66,7 @@ When multiple characters are all attempting to perform the same task together, i
 ### Untrained
 Any untrained skill test is at an additional -2.
 
-> Examples would be trying to spot enemies with [Insight](Intelligence#Insight), or jumping across a ledge with [Physique](Strength#Physique). 
+> Examples would be trying to spot enemies with [Understanding](Intelligence#Understanding), or jumping across a ledge with [Physique](Strength#Physique). 
 
 ### Critical Failure
 Rolling double 1's on a skill test is always considered a failure.
@@ -92,8 +92,8 @@ The list of skills should cover any activity a character would be expected to do
 
 ### [Intelligence](Intelligence) Skills
 * [Application](Intelligence#Application)
-* [Insight](Intelligence#Insight)
-* [Memory](Intelligence#Memory)
+* [Understanding](Intelligence#Understanding)
+* [Understanding](Intelligence#Understanding)
 
 ### [Spirit](Spirit) Skills
 * [Attunement](Spirit#Attunement)
