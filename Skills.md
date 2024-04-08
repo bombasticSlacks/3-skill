@@ -81,24 +81,20 @@ If you roll two identical values on a skill test (1,1), (2,2)… (6,6) this is c
 The list of skills should cover any activity a character would be expected to do related to their primary attributes.
 
 ### [Strength](Strength) Skills
-* [Physique](Strength#Physique)
 * [Endurance](Strength#Endurance)
 * [Physique](Strength#Physique)
 
 ### [Agility](Agility) Skills
-* [Coordination](Agility#Coordination)
 * [Coordination](Agility#Coordination)
 * [Reflexes](Agility#Reflexes)
 
 ### [Intelligence](Intelligence) Skills
 * [Application](Intelligence#Application)
 * [Understanding](Intelligence#Understanding)
-* [Understanding](Intelligence#Understanding)
 
 ### [Spirit](Spirit) Skills
 * [Ascendancy](Spirit#Ascendancy)
 * [Volition](Spirit#Volition)
-* [Ascendancy](Spirit#Ascendancy)
 
 ### [Communication](Communication) Skills
 * [Confidence](Communication#Confidence)
