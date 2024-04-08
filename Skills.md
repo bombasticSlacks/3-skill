@@ -35,7 +35,7 @@ A standard skill test, however since the skill test is directed at a certain thi
 
 Only [Bosses](Running-The-Game#Bosses) can make non-combat opposed difficulty skill tests targeting the players. For every other type of enemy the players should act on them, making opposed difficulty skill tests targeting them. 
 
-> An example would be trying to sneak past someone, this would be a [Grace](Agility#Grace) [Opposed Difficulty(Insight)](#Opposed%20Difficulty) which means it is a grace skill test with a negative equal to their ranks in [Insight](Intelligence#Insight). 
+> An example would be trying to sneak past someone, this would be a [Coordination](Agility#Coordination) [Opposed Difficulty(Insight)](#Opposed%20Difficulty) which means it is a grace skill test with a negative equal to their ranks in [Insight](Intelligence#Insight). 
 
 ### Project
 Sometimes a character will begin working on something early in a session or [Scene](Terminology#Scene) that may not reasonably resolve until the end of the scene or further into the session. This could be because the character lacks all the information, tools, or materials they need to complete the current action, but before trying to pursue the idea want to make sure it is possible. Short-term situations like this should be considered "projects". If something does not have a large bearing on the story and could easily be resolved immediately with a single skill test, it would better be considered a [Variable Difficulty](#Variable%20Difficulty) skill test.
@@ -86,8 +86,8 @@ The list of skills should cover any activity a character would be expected to do
 * [Physique](Strength#Physique)
 
 ### [Agility](Agility) Skills
-* [Accuracy](Agility#Accuracy)
-* [Grace](Agility#Grace)
+* [Coordination](Agility#Coordination)
+* [Coordination](Agility#Coordination)
 * [Reflexes](Agility#Reflexes)
 
 ### [Intelligence](Intelligence) Skills
@@ -103,4 +103,3 @@ The list of skills should cover any activity a character would be expected to do
 ### [Communication](Communication) Skills
 * [Confidence](Communication#Confidence)
 * [Connection](Communication#Connection)
-* [Mannerism](Communication#Mannerism)

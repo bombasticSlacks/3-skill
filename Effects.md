@@ -48,7 +48,7 @@ A stunned character cannot perform [Action](Terminology#Action) or [Movement](Ga
 
 ### Removing
 {: .no_toc }
-perform a [Grace](Agility#Grace) [Fixed Difficulty(0)](Skills#Fixed%20Difficulty):
+perform a [Coordination](Agility#Coordination) [Fixed Difficulty(0)](Skills#Fixed%20Difficulty):
 * If you succeed, you may stand as a [Free Action](Terminology#Free%20Action).
 * If you fail, you will need to spend your [Action](Terminology#Action) to remove prone.
 

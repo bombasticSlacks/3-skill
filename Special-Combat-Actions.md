@@ -9,7 +9,7 @@ grand_parent: Telling The Story
 In combat there are several situations that come up often enough they should have predefined rules. This doesn't mean this list is exhaustive, but should give an idea of the sort of things you can do in combat apart from harming someone directly.
 
 ## Defensive Fighting
-You may as a free action make a [Grace](Agility#Grace) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0) if successful, no one can perform [Attack of Opportunity](Game/Core/Reacting#Attack%20of%20Opportunity) against you during this turn. If you fail, anyone [In Melee](Game/Core/Effects#In%20Melee) may immediately perform an [Attack of Opportunity](Game/Core/Reacting#Attack%20of%20Opportunity).
+You may as a free action make a [Coordination](Agility#Coordination) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0) if successful, no one can perform [Attack of Opportunity](Game/Core/Reacting#Attack%20of%20Opportunity) against you during this turn. If you fail, anyone [In Melee](Game/Core/Effects#In%20Melee) may immediately perform an [Attack of Opportunity](Game/Core/Reacting#Attack%20of%20Opportunity).
 
 ## Cautious Step
 As an [Action](Game/Core/Terminology#Action) may move without suffering [Attack of Opportunity](Game/Core/Reacting#Attack%20of%20Opportunity), but can do nothing else.
@@ -21,7 +21,7 @@ With at least one free hand or a melee weapon, you can attempt to disarm a [Char
 Make an attack against someone within [Reach](Game/Core/Movement#Reach) with the intent of getting control of your opponent. If this is a [Non-mitigated Attack](Terminology#Non-mitigated%20Attack), your opponent is in a grapple. 
 As an [Action](Game/Core/Terminology#Action), they may:
 * Attempt an [Physique](Strength#Physique) [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to become the grappler, instead of the grappled. This test is opposed by the grapplers [Physique](Strength#Physique)
-* Attempt a [Grace](Agility#Grace) [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to stop being grappled. This test is opposed by the grapplers [Physique](Strength#Physique).
+* Attempt a [Coordination](Agility#Coordination) [Opposed Difficulty](Skills#Opposed%20Difficulty) skill test to stop being grappled. This test is opposed by the grapplers [Physique](Strength#Physique).
 
 As an [Action](Game/Core/Terminology#Action), you may:
 * [Physique](Game/Core/Strength#Physique) [Fixed Difficulty](Game/Core/Skills#Fixed%20Difficulty)(0) to cause 2 [Impact](Game/Core/Injury#Impact) damage.
