@@ -20,7 +20,7 @@ Skill tests come in a few various types.
 ### Fixed Difficulty
 A standard skill test, will have a negative assigned, and it will be either pass or fail. These are written as SKILL Fixed Difficulty(+/- VALUE). If no value is mentioned in brackets, the skill test is assumed to have no bonus or negative to the roll.
 
-> So a [Confidence](Communication#Confidence) [Fixed Difficulty(-1)](#Fixed%20Difficulty) would be a communication skill test with a -1 to the roll, [Strike](Strength#Strike) [Fixed Difficulty(0)](#Fixed%20Difficulty) would be a strike skill test with no additional penalty.
+> So a [Confidence](Communication#Confidence) [Fixed Difficulty(-1)](#Fixed%20Difficulty) would be a communication skill test with a -1 to the roll, [Physique](Strength#Physique) [Fixed Difficulty(0)](#Fixed%20Difficulty) would be a strike skill test with no additional penalty.
 
 ### Variable Difficulty
 This is a test where you will receive more information or success based on how well you do. Variable difficulty skill tests care about your [Step Of Success](#Step)
@@ -66,7 +66,7 @@ When multiple characters are all attempting to perform the same task together, i
 ### Untrained
 Any untrained skill test is at an additional -2.
 
-> Examples would be trying to spot enemies with [Insight](Intelligence#Insight), or jumping across a ledge with [Athletics](Strength#Athletics). 
+> Examples would be trying to spot enemies with [Insight](Intelligence#Insight), or jumping across a ledge with [Physique](Strength#Physique). 
 
 ### Critical Failure
 Rolling double 1's on a skill test is always considered a failure.
@@ -81,9 +81,9 @@ If you roll two identical values on a skill test (1,1), (2,2)… (6,6) this is c
 The list of skills should cover any activity a character would be expected to do related to their primary attributes.
 
 ### [Strength](Strength) Skills
-* [Athletics](Strength#Athletics)
+* [Physique](Strength#Physique)
 * [Endurance](Strength#Endurance)
-* [Strike](Strength#Strike)
+* [Physique](Strength#Physique)
 
 ### [Agility](Agility) Skills
 * [Accuracy](Agility#Accuracy)

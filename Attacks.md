@@ -8,9 +8,9 @@ grand_parent: Telling The Story
 
 # Attacking
 Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be:
-* Thrown attacks using [Athletics](Strength#Athletics)
+* Thrown attacks using [Physique](Strength#Physique)
 * Ranged attacks using [Accuracy](Agility#Accuracy)
-* Melee attacks using [Strike](Strength#Strike) 
+* Melee attacks using [Physique](Strength#Physique) 
 * Magic attacks using [Will](Spirit#Will)
 
 ## Attack Range

@@ -43,7 +43,7 @@ A stunned character cannot perform [Action](Terminology#Action) or [Movement](Ga
 
 ## Prone
 *You have been knocked to the ground.* 
-* You suffer a -2 to all [Strike](Strength#Strike) skill tests.
+* You suffer a -2 to all [Physique](Strength#Physique) skill tests.
 * Cannot perform [Reaction](Terminology#Reaction).
 
 ### Removing
