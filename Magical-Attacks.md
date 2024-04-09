@@ -42,6 +42,7 @@ This attack hits everyone [Close](Core/Movement#Close) to your target.
 This attack does not cause [Injury](Core/Injury)
 
 ## Magic Attack
+#TODO
 *Mandatory*
 This attacks adds $2 \times$ [Spirit](Core/Spirit) to [Damage Bonus](Core/Weapons#Damage%20Bonus) instead of [Strength](Core/Strength) and has a [Range](Core/Weapons#Range) of [Close](Core/Movement#Close).
 

@@ -4,4 +4,4 @@
 
 ### Precision
 *This weapon is predominately used for accurate lethal attacks.*
-* When performing a [Heavy Strike](Game/Core/Attacks#Heavy%20Strike) this attack does an additional [Damage](Game/Core/Terminology#Damage).
+* When doing [Extra Damage](Game/Core/Attacks#Extra%20Damage) this attack does 3 additional [Damage](Game/Core/Terminology#Damage) instead of 1.

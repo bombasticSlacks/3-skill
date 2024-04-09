@@ -36,24 +36,15 @@ If an [Attack](Terminology#Attack) is a [Critical Success](Skills#Critical%20Suc
 ## Combat Modifiers
 These are modifiers you can apply to attacks and manoeuvres which will put you at a negative to the skill test but will make the attack or manoeuvre do additional things. Several other powerful modifiers can be learned by taking specific combat training. 
 
-### Heavy Strike
+### Extra Damage
 *Action modifier varies*
 
-Your [Attack](Terminology#Attack) does 1 additional [Damage](Terminology#Damage). Every weapon wielded by a character will have a different heavy strike penalty.
-
-### Reposition
-*Action modifier (-1)*
-
-before making a melee attack or manoeuvre, you can move to a different side of your opponent.
+Your [Attack](Terminology#Attack) does additional [Damage](Terminology#Damage). Every weapon wielded by a character will have a different extra damage penalty.
 
 ### Vitals Hit
 *Action modifier (-2)*
 
 Your [Attack](Terminology#Attack) strikes a person's vitals. An [Attack](Terminology#Attack) that rolls [Doubles](Skills#Doubles), is always considered a [Vitals](Injury#Vitals) hit.
-
-## Area Attacks
-If a character uses an attack that effects all [Character](Terminology#Character) in an area, the attack [Skill Test](Terminology#Skill%20Test) happens as normal however if the character fails their [Skill Test](Terminology#Skill%20Test) instead of it being a [Mitigated Attack](Terminology#Mitigated%20Attack) instead each opponent gets a bonus to [Reacting](Reacting) equal to your [Steps Of Failure](Skills#Step). A [Critical Failure](Skills#Critical%20Failure) still counts immediately as a [Mitigated Attack](Terminology#Mitigated%20Attack).
-
 
 
 ## Taking Damage

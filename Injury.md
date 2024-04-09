@@ -13,7 +13,7 @@ Any damage not mitigated by armour is considered Injury Damage and causes direct
 
 When you suffer injury, the attacker can assign a number of [Injury-Effects](Game/Core/Injury-Effects) to you based on the damage dealt.
 
-> Example a character suffers an attack that deals 3 damage while having 1 [Armour Integrity](Game/Core/Armour#Armour%20Integrity). There armour is reduced to 0 integrity and they suffer 2 injury damage. This is enough to cause them to become [Wounded](Game/Core/Effects#Wounded) and suffer [Injury-Effects](Game/Core/Injury-Effects).
+> Example a character suffers an attack that deals 3 damage while having 1 [Armour Integrity](Game/Core/Armour#Armour%20Integrity). There armour is reduced to 0 integrity and they suffer 2 injury damage. This is enough to cause them to suffer an [Injury-Effects](Game/Core/Injury-Effects).
 
 ## Hit Locations
 Generally when considering where something strikes you, it is assumed that an [Attack](Terminology#Attack) or other harm will hit you in somewhere that will not kill you. Important vitals locations are often close to the body, and challenging to strike without intent. The two location types are:
