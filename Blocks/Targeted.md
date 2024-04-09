@@ -4,4 +4,4 @@
 
 ### Targeted
 *This weapons attacks are targeted, requiring accuracy.*
-* This weapon [Attacks](Game/Core/Attacks) using the [Accuracy](Game/Core/Agility#Accuracy) skill.
+* This weapon [Attacks](Game/Core/Attacks) using the [Coordination](Game/Core/Agility#Coordination) skill.

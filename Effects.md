@@ -32,7 +32,7 @@ A stunned character cannot perform [Action](Terminology#Action) or [Movement](Ga
 ## On Fire
 *Your character or their clothing is currently burning.* 
 * Whenever you act, you suffer 2 [Heat](Game/Core/Injury#Heat) damage.
-* Whenever you would perform an [Action](Game/Core/Terminology#Action) make an [Identity](Spirit#Identity) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0) skill test, if you fail you may only perform actions to remove this effect.
+* Whenever you would perform an [Action](Game/Core/Terminology#Action) make an [Volition](Spirit#Volition) [Fixed Difficulty](Skills#Fixed%20Difficulty)(0) skill test, if you fail you may only perform actions to remove this effect.
 
 
 ### Removing
@@ -43,12 +43,12 @@ A stunned character cannot perform [Action](Terminology#Action) or [Movement](Ga
 
 ## Prone
 *You have been knocked to the ground.* 
-* You suffer a -2 to all [Strike](Strength#Strike) skill tests.
+* You suffer a -2 to all [Physique](Strength#Physique) skill tests.
 * Cannot perform [Reaction](Terminology#Reaction).
 
 ### Removing
 {: .no_toc }
-perform a [Grace](Agility#Grace) [Fixed Difficulty(0)](Skills#Fixed%20Difficulty):
+perform a [Coordination](Agility#Coordination) [Fixed Difficulty(0)](Skills#Fixed%20Difficulty):
 * If you succeed, you may stand as a [Free Action](Terminology#Free%20Action).
 * If you fail, you will need to spend your [Action](Terminology#Action) to remove prone.
 
@@ -177,7 +177,7 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 ## Fearless
 *You cannot become afraid no matter the horrors you see.*
 * You cannot gain [Stress](Game/Stress).
-* You automatically pass all [Identity](Game/Core/Spirit#Identity) [Skill Test](Game/Core/Terminology#Skill%20Test) related to fear and panic.
+* You automatically pass all [Volition](Game/Core/Spirit#Volition) [Skill Test](Game/Core/Terminology#Skill%20Test) related to fear and panic.
 ### Removing
 {: no_toc }
 * Last until the end of the [Scene](Game/Core/Terminology#Scene).

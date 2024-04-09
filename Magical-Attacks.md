@@ -23,7 +23,7 @@ If this is a [Successful Attack](Core/Terminology#Successful%20Attack) the [Oppo
 
 ## Concussive
 *Action modifier (-1)*
-After a [Successful Attack](Core/Terminology#Successful%20Attack) the [Opponent](Core/Terminology#Opponent) performs a [Grace](Core/Agility#Grace) [Fixed Difficulty(0)](Core/Skills#Fixed%20Difficulty), if they fail, they become [Prone](Core/Effects#Prone).
+After a [Successful Attack](Core/Terminology#Successful%20Attack) the [Opponent](Core/Terminology#Opponent) performs a [Coordination](Core/Agility#Coordination) [Fixed Difficulty(0)](Core/Skills#Fixed%20Difficulty), if they fail, they become [Prone](Core/Effects#Prone).
 
 ## Cone
 *Action modifier (-3)*
