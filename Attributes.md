@@ -21,3 +21,5 @@ Your character has 5 primary attributes that dictate what they can do:
 * [Strength](Strength)
 
 Attributes reflect your characters inherent talent and power, these are further improved by honing your [Skills](Skills).
+
+## Secondary Attributes
