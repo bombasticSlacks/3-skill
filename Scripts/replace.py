@@ -6,6 +6,9 @@ import subprocess
 import sys
 
 dir = sys.argv[1]
+sprites = sys.argv[2]
+
+allSprites = os.listdir(sprites)
 
 for block in os.listdir(dir):
     # Skip .bak files
@@ -16,8 +19,16 @@ for block in os.listdir(dir):
 
         with open(address, 'r') as f:
             # Wrap our block with some HTML
-            contents = '<div markdown="1" class="block">\n\n'
+            contents = '<div class="block">\n\n'
+            # Add image if there is one
+            if name + ".png" in allSprites:
+                contents += '<div>\n\n'
+                contents += "<img class='imgstack' src='/Content/Sprites/Base.png'>"
+                contents += "<img class='imgstack' src='/Content/Sprites/" + name + ".png'>"
+                contents += '\n\n<\div>'
+            contents += '<div markdown="1">\n\n'
             contents += f.read()
+            contents += '\n\n</div>'
             contents += '\n\n</div>'
 
         # find the relevant files
