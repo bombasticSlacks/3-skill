@@ -22,9 +22,9 @@ for block in os.listdir(dir):
             contents = '<div class="block">\n\n'
             # Add image if there is one
             if name + ".png" in allSprites:
-                contents += '<div>\n\n'
-                contents += "<img class='imgstack' src='/Content/Sprites/Base.png'>"
-                contents += "<img class='imgstack' src='/Content/Sprites/" + name + ".png'>"
+                contents += '<div class="sprite">\n\n'
+                contents += "<img class='imgstack' src='/Content/Sprites/Base.png' />"
+                contents += "<img class='imgstack' src='/Content/Sprites/" + name + ".png' />"
                 contents += '\n\n<\div>'
             contents += '<div markdown="1">\n\n'
             contents += f.read()
