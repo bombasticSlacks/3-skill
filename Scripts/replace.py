@@ -6,7 +6,7 @@ import subprocess
 import sys
 
 dir = sys.argv[1]
-sprites = sys.argv[2]
+sprites = "Game/Content/Sprites"
 
 allSprites = os.listdir(sprites)
 
