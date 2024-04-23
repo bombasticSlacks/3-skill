@@ -26,7 +26,7 @@ for block in os.listdir(dir):
                 contents += "<img class='imgstack' src='/Content/Sprites/Base.png' />"
                 contents += "<img class='imgstack' src='/Content/Sprites/" + name + ".png' />"
                 contents += '\n\n</div>'
-            contents += '<div markdown="1">\n\n'
+            contents += '<div class="blockdetails" markdown="1">\n\n'
             contents += f.read()
             contents += '\n\n</div>'
             contents += '\n\n</div>'
