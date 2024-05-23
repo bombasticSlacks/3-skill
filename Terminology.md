@@ -50,10 +50,9 @@ A character who is friendly and aiding a [Character](#Character).
 An action that can be done in parallel with other actions during an [Action](#Action).
 
 ### Shield
-Any [Weapons](Weapons) with the [Shield](Weapon-Traits#Shield) trait.
+Any [Weapons](Weapons) with the [Shield](Game/Core/Blocks/Shield) trait.
 
 ## Follower
-#TODOFollowers
 A character who is an [Ally](#Ally) but also is willing to be directly commanded.
 
 ## Mounted
