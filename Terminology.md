@@ -49,7 +49,7 @@ A character who is friendly and aiding a [Character](#Character).
 ## Free Action
 An action that can be done in parallel with other actions during an [Action](#Action).
 
-### Shield
+## Shield
 Any [Weapons](Weapons) with the [Shield](Game/Core/Blocks/Shield) trait.
 
 ## Follower
