@@ -183,3 +183,20 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 * Last until the end of the [Scene](Game/Core/Terminology#Scene).
 
 ---
+
+## Exerted
+*You have been pushed to the limit and will need a minute to regain full strength.*
+* You cannot perform any [Action](Game/Core/Terminology#Action) that would cause you to become exerted.
+### Removing
+{: no_toc }
+* Removed at the end of your next [Action](Game/Core/Terminology#Action).
+
+---
+
+## Brittle
+*Materials protecting you have stopped behaving as they are supposed to.*
+* Your [Resistance](Game/Core/Armour#Weakness%20and%20Resistance) no longer reduces incoming damage.
+### Removing
+{: no_toc }
+* Removed at the end of the scene.
+* Removed with repairs or other intervention.
