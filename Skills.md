@@ -30,15 +30,12 @@ This is a test where you will receive more information or success based on how w
 ### Step
 When talking about variable difficulties, rules may reference step your steps. A step of success is 1 additional on your dice roll above what was required, 4 steps of success is a “14”. A step of failure is 1 less on your dice roll above what was required. 
 
-### Opposed Difficulty
-A standard skill test, however since the skill test is directed at a certain thing their expertise/resistance to the effect will influence the difficulty. Generally, this means the skill test will have an additional penalty equal to the target's relevant [Character Skills](#Character%20Skills) ranks, this will not include their attribute, but a high attribute character could provide an additional -1 penalty on the test.
-
 ### Project
-Sometimes a character will fail an [Action](Game/Core/Terminology#Action) in a [Scene](Terminology#Scene) but really want to succeed or move forward with the goal. In this case the [Player Character](Game/Core/Terminology#Player%20Character) may opt to make the [Action](Game/Core/Terminology#Action) into a Project by spending a [Power](Game/Core/Blocks/Power). In this case the [Game Master](Game/Core/Terminology.md#Game%20Master) and [Player Character](Game/Core/Terminology.md#Player%20Character) should work together to determine why the player failed in the first place, this could be because the character lacks all the information, tools, or materials they need to complete the current action.
+Sometimes a character will fail an [Action](Game/Core/Terminology#Action) in a [Scene](Terminology#Scene) but really want to succeed or move forward with the goal. In this case the [Player Character](Game/Core/Terminology#Player%20Character) may opt to make the [Action](Game/Core/Terminology#Action) into a Project by spending a [Power](Game/Core/Blocks/Power). In this case the [Game Master](Game/Core/Terminology#Game%20Master) and [Player Character](Game/Core/Terminology#Player%20Character) should work together to determine why the player failed in the first place, this could be because the character lacks all the information, tools, or materials they need to complete the current action.
 
 > Examples of projects would be, sweet-talking a guard captain into letting you have their troops, powering a device to destroy a magic barrier, coordinating the plan of attack for a massive battle, identifying a creature you are hunting. Treating a king who has come down with a mystery illness.
 
-The [Game Master](Game/Core/Terminology.md#Game%20Master) then decides on the difficulty of the project, whether it requires 1, 2, or 3 resolutions to complete. Then in the course of the game the players may use materials, tools, and additional storytelling to complete resolutions. 
+The [Game Master](Game/Core/Terminology#Game%20Master) then decides on the difficulty of the project, whether it requires 1, 2, or 3 resolutions to complete. Then in the course of the game the players may use materials, tools, and additional storytelling to complete resolutions. 
 
 If the number of resolutions is met, the [Character](Game/Core/Terminology#Character) may complete the project. There is no additional skill test required, after all the initial work, the project will succeed.
 
@@ -46,11 +43,19 @@ If the number of resolutions is met, the [Character](Game/Core/Terminology#Chara
 > After some additional narrative time, the hunter discovers that the creature had avoided a woman wearing a lot of silver jewellery, the GM considers this to be a resolution and lets the player complete the project. 
 > As a reward for completion the GM provides the hunter with the information that it is a Werewolf and the abilities and attributes of the creature.
 
-### Aid and Hindrance
-When multiple characters are all attempting to perform the same task together, instead of each performing a skill task separately, the [Most Skilled](Terminology#Most%20Skilled) of the group performs the skill test and receives a +1 for each person who is [Trained](Terminology#Trained) and aiding them. Similarly, they receive a -1 for each person who isn’t [Trained](Terminology#Trained) and is part of the activity. 
+### Aid
+When multiple characters are all attempting to perform the same task together, instead of each performing a skill task separately, the [Most Skilled](Terminology#Most%20Skilled) of the group performs the skill test. If another person has the same bonus the [Most Skilled](Game/Core/Terminology#Most%20Skilled) receives a +1 bonus. This can be applied to people with lesser bonuses as well.
 
-> So, if two trained doctors attempt first aid, the better makes a skill test with an additional +1. 
-> If 5 characters are attempting to sneak past a guard and 2 are trained and 3 are not, then the skill test is at an additional -2 (+1, -3).
+> So, if two characters with a (+5) bonus on an action are working together one rolls with a (+6) bonus.
+
+> Similarly, if three character are all working together on an action, one has a (+5) and the other two have a (+4) the two (+4)'s combine to a (+5) and then the two (+5)'s combine to a (+6). 
+
+> If two characters are working together on a task and one has a (+5) bonus and the other has a (+4) bonus, the overal bonus for the test remains a (+5). 
+
+### Hindrance
+In a situation where a group of characters is obligated to perform an [Action](Game/Core/Terminology#Action) but some are [Untrained](#Untrained) the [Most Skilled](Game/Core/Terminology#Most%20Skilled) recieves a (-1) to their bonus per untrained person. This is applied after [Aid](#Aid) is calculated.
+
+> Examples of hindrance would be if your party was running from a giant boulder, people untrained would slow you down. Similarly if you were attempting to spot danger in the woods while traveling, untrained characters would be distracting or noisy keeping those trained from focusing as well. A situation that wouldn't cause hindrance would be if a character was building a tool, even if party members aren't trained, they also aren't obligated to help.
 
 ### Untrained
 Any untrained skill test is at an additional -2.
