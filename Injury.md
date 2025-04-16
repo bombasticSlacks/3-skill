@@ -6,7 +6,7 @@ nav_order: 0
 has_children: true
 ---
 # Injury
-Humans don’t have hit points. A character's [Armour](Armour) takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. 
+Humans don’t have hit points. A character's [Armour](Armour) takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. It is assumed that while your armour has integrity you are getting bruised and cut in combat but all injuries are superficial long term. 
 
 ## Injury Damage
 Any damage not mitigated by armour is considered Injury Damage and causes direct effects and harm to the [Character](Game/Core/Terminology#Character).
@@ -42,11 +42,3 @@ Poison, acid, and rot ravage the body, destroying life itself.
 Heat, power, holy energy ravage the body.
 ### Cold
 Ice, chill, vampiric energy ravage the body.
-
-## Injury Penalty
-After someone is wounded, whether they pass out or stay conscious, they will suffer long-term effects. Once the combat ends, any characters who suffered [Wounded](Effects#Wounded) gains the [Long Term Injury](Effects#Long%20Term%20Injury) effect.
-
-## Managing Injuries
-Aside from the trauma of being injured in the field, there are other immediate risks to a person who has been injured, and they will need treatment to stay healthy or remain alive (depending on severity).
-
-When determining difficulty of [Application](Intelligence#Application) skill tests and negatives for any injuries, apply a penalty equal to your [Long Term Injury](Game/Core/Effects#Long%20Term%20Injury) penalty.
