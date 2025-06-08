@@ -3,4 +3,4 @@
 {: .label .label-purple }
 
 ### Deadly Draw
-* This weapon is [Penetrating](Game/Core/Blocks/Penetrating) for your first attack in any combat.
+* The first [Action](Game/Core/Terminology#Action) you take with this weapon in any combat is automatically successful with no skill test.
