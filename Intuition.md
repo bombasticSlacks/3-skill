@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Spirit
+title: Intuition
 parent: Attributes
 nav_order: 2
 grand_parent: How To Play
 ---
-# Spirit
+# Intuition
 
 Measures your spirit, your sense of self and the world around you. It is also used to force your will on others, conjure magic, and interrogate others.
 
@@ -24,14 +24,12 @@ Any time you are trying to connect to the world around you or bend reality to yo
 
 ---
 
-## Volition
-The act of maintaining your sense of self, no matter what happens to you. This includes:
-* Not being afraid.
-* Resisting attacks on your mind.
-* Not being influenced by chemicals, or magic.
-* Resisting torture.
-* Performing interrogation / torture.
+## Awareness
+The act of observing the world around you. This includes:
+* Identifying interesting things in the environment.
+* Sensing a persons motives.
+* Seeing traps.
 
-Any time you are trying to maintain who you are, or impose that on someone else, you should make a volition [Skill](Skills) test.
+Any time you are trying to understand more about what you percieve, you should make an awareness [Skill](Skills) test.
 
 ---

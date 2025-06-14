@@ -11,7 +11,7 @@ Usually, in combat, you will be trying to harm your opponents with the goal of k
 * Thrown attacks using [Physique](Strength#Physique)
 * Ranged attacks using [Coordination](Agility#Coordination)
 * Melee attacks using [Physique](Strength#Physique) 
-* Magic attacks using [Ascendancy](Spirit#Ascendancy)
+* Magic attacks using [Ascendancy](Game/Core/Intuition#Ascendancy)
 
 ## Attack Range
 When you attack something, your range is how far you can engage them from. 

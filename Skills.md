@@ -39,7 +39,7 @@ The [Game Master](Game/Core/Terminology#Game%20Master) then decides on the diffi
 
 If the number of resolutions is met, the [Character](Game/Core/Terminology#Character) may complete the project. There is no additional skill test required, after all the initial work, the project will succeed.
 
-> As an example, say a hunter is trying to identify the creature that has been slaughtering farmers' cows. He has [Understanding](Intelligence#Understanding) and knowledge of monsters, though he doesn't have many clues to go on yet. After witnessing the injuries on the cows, he makes a skill test to see if he knows of the creature and fails. He really wants to know about the creature and so turns this into a project. The GM determines this is a 1 resolution project. To work on resolving this he needs more info he decides to go into town to ask about strange occurrences.
+> As an example, say a hunter is trying to identify the creature that has been slaughtering farmers' cows. He has [Memory](Intelligence#Memory) and knowledge of monsters, though he doesn't have many clues to go on yet. After witnessing the injuries on the cows, he makes a skill test to see if he knows of the creature and fails. He really wants to know about the creature and so turns this into a project. The GM determines this is a 1 resolution project. To work on resolving this he needs more info he decides to go into town to ask about strange occurrences.
 > After some additional narrative time, the hunter discovers that the creature had avoided a woman wearing a lot of silver jewellery, the GM considers this to be a resolution and lets the player complete the project. 
 > As a reward for completion the GM provides the hunter with the information that it is a Werewolf and the abilities and attributes of the creature.
 
@@ -60,7 +60,7 @@ In a situation where a group of characters is obligated to perform an [Action](G
 ### Untrained
 Any untrained skill test is at an additional -2.
 
-> Examples would be trying to spot enemies with [Understanding](Intelligence#Understanding), or jumping across a ledge with [Physique](Strength#Physique). 
+> Examples would be trying to spot enemies with [Understanding](Intelligence#Memory), or jumping across a ledge with [Physique](Strength#Physique). 
 
 ### Critical Failure
 Rolling double 1's on a skill test is always considered a failure.
@@ -84,11 +84,11 @@ The list of skills should cover any activity a character would be expected to do
 
 ### [Intelligence](Intelligence) Skills
 * [Application](Intelligence#Application)
-* [Understanding](Intelligence#Understanding)
+* [Memory](Intelligence#Memory)
 
-### [Spirit](Spirit) Skills
-* [Ascendancy](Spirit#Ascendancy)
-* [Volition](Spirit#Volition)
+### [Intuition](Game/Core/Intuition) Skills
+* [Ascendancy](Game/Core/Intuition#Ascendancy)
+* [Awareness](Game/Core/Intuition#Awareness)
 
 ### [Communication](Communication) Skills
 * [Confidence](Communication#Confidence)

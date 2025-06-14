@@ -23,14 +23,10 @@ Any time you are applying your knowledge and expertise, you should make an appli
 
 
 ---
-## Understanding
+## Memory
 The action of learning and remembering things about the world around you, making causal connections, getting additional details. This includes:
-* Determining if someone is telling the truth.
-* Figuring out how a trap or danger works.
-* Getting additional details about an environment.
-* Seeing something you otherwise would have difficulty seeing.
 * Recalling advanced knowledge from a trained discipline.
 * Knowing something that you could realistically know.
 * Memorizing something complex under pressure.
 
-Any time you are looking for more insight into a situation, you should make an understanding [Skill](Skills) test.
+Any time you are looking to call on your knowledge, you should make a memory [Skill](Skills) test.
