@@ -18,9 +18,9 @@ Skills range in value from 0-3
 
 Skill tests come in a few various types.
 ### Fixed Difficulty
-A standard skill test, will have a negative assigned, and it will be either pass or fail. These are written as SKILL Fixed Difficulty(+/- VALUE). If no value is mentioned in brackets, the skill test is assumed to have no bonus or negative to the roll.
+A standard skill test, will have a negative assigned, and it will be either pass or fail. These are written as SKILL(+/- VALUE). If no value is mentioned in brackets, the skill test is assumed to have no bonus or negative to the roll.
 
-> So a [Confidence](Communication#Confidence) [Fixed Difficulty(-1)](#Fixed%20Difficulty) would be a communication skill test with a -1 to the roll, [Physique](Strength#Physique) [Fixed Difficulty(0)](#Fixed%20Difficulty) would be a strike skill test with no additional penalty.
+> So a [Confidence](Communication#Confidence)(-1) would be a confidence skill test with a -1 to the roll. [Physique](Game/Core/Strength#Physique) would be a skill test with no penalty or bonus. 
 
 ### Variable Difficulty
 This is a test where you will receive more information or success based on how well you do. Variable difficulty skill tests care about your [Step Of Success](#Step)
@@ -30,43 +30,37 @@ This is a test where you will receive more information or success based on how w
 ### Step
 When talking about variable difficulties, rules may reference step your steps. A step of success is 1 additional on your dice roll above what was required, 4 steps of success is a “14”. A step of failure is 1 less on your dice roll above what was required. 
 
-### Opposed Difficulty
-A standard skill test, however since the skill test is directed at a certain thing their expertise/resistance to the effect will influence the difficulty. Generally, this means the skill test will have an additional penalty equal to the target's relevant [Character Skills](#Character%20Skills) ranks, this will not include their attribute, but a high attribute character could provide an additional -1 penalty on the test.
-
-Only [Bosses](Running-The-Game#Bosses) can make non-combat opposed difficulty skill tests targeting the players. For every other type of enemy the players should act on them, making opposed difficulty skill tests targeting them. 
-
-> An example would be trying to sneak past someone, this would be a [Coordination](Agility#Coordination) [Opposed Difficulty(Insight)](#Opposed%20Difficulty) which means it is a grace skill test with a negative equal to their ranks in [Understanding](Intelligence#Understanding). 
-
 ### Project
-Sometimes a character will begin working on something early in a session or [Scene](Terminology#Scene) that may not reasonably resolve until the end of the scene or further into the session. This could be because the character lacks all the information, tools, or materials they need to complete the current action, but before trying to pursue the idea want to make sure it is possible. Short-term situations like this should be considered "projects". If something does not have a large bearing on the story and could easily be resolved immediately with a single skill test, it would better be considered a [Variable Difficulty](#Variable%20Difficulty) skill test.
+Sometimes a character will fail an [Action](Game/Core/Terminology#Action) in a [Scene](Terminology#Scene) but really want to succeed or move forward with the goal. In this case the [Player Character](Game/Core/Terminology#Player%20Character) may opt to make the [Action](Game/Core/Terminology#Action) into a Project by spending a [Power](Game/Core/Blocks/Power). In this case the [Game Master](Game/Core/Terminology#Game%20Master) and [Player Character](Game/Core/Terminology#Player%20Character) should work together to determine why the player failed in the first place, this could be because the character lacks all the information, tools, or materials they need to complete the current action.
 
 > Examples of projects would be, sweet-talking a guard captain into letting you have their troops, powering a device to destroy a magic barrier, coordinating the plan of attack for a massive battle, identifying a creature you are hunting. Treating a king who has come down with a mystery illness.
 
-A project is a [Variable Difficulty](#Variable%20Difficulty) skill test:
-* If you fail, your character isn't capable of attempting the project, whether it be you lack the knowledge, items, or the process eludes you. Potentially, in the future, you could receive aid of some kind to allow you to attempt the project again.
-* If you succeed, your character marks their [Step Of Success](#Step) against a number of required [Step Of Success](#Step) set by the [Game Master](Game/Core/Terminology#Game%20Master).
+The [Game Master](Game/Core/Terminology#Game%20Master) then decides on the difficulty of the project, whether it requires 1, 2, or 3 resolutions to complete. Then in the course of the game the players may use materials, tools, and additional storytelling to complete resolutions. 
 
-The initial success should provide the player with some information, direction or confirmation they are on the right track. Then as the [Scene](Terminology#Scene) progresses, you can take further action to gain additional steps towards success, these should not directly require a skill test (but obtaining the progress may require other skill tests). Any beneficial project action should give at least 1 [Step Of Success](#Step) and may give up to 3. They also potentially should again give the players further information, direction or confirmation towards their final goal.
+If the number of resolutions is met, the [Character](Game/Core/Terminology#Character) may complete the project. There is no additional skill test required, after all the initial work, the project will succeed.
 
-If the number of [Step Of Success](#Step) is met, the [Character](Game/Core/Terminology#Character) may complete the project. There is no additional skill test required, after all the initial work, the project will succeed.
-
-Even if you roll all of the required [Step Of Success](#Step) on the original skill test, **all projects require at least one additional step to be completed**.
-
-> As an example, say a hunter is trying to identify the creature that has been slaughtering farmers' cows. He has [Understanding](Intelligence#Understanding) and knowledge of monsters, though he doesn't have many clues to go on yet. After witnessing the injuries on the cows, he makes his [Project](#Project) skill test rolling [Understanding](Intelligence#Understanding) to see if he knows of the creature and succeeds with 3 steps of success. The hunter has a list of creatures it could be based on the attack but can't narrow it down, the GM assigns a requirement of 4 [Step Of Success](#Step) to complete the project. The hunter will need one more clue to receive the details of the creature.
-> He decides to go into town to ask about strange occurrences.
-> After some additional narrative time, the hunter discovers that the creature had avoided a woman wearing a lot of silver jewellery, this gives him his final step of success and the player and GM agree that it is reasonable for the project to then be completed. 
+> As an example, say a hunter is trying to identify the creature that has been slaughtering farmers' cows. He has [Memory](Intelligence#Memory) and knowledge of monsters, though he doesn't have many clues to go on yet. After witnessing the injuries on the cows, he makes a skill test to see if he knows of the creature and fails. He really wants to know about the creature and so turns this into a project. The GM determines this is a 1 resolution project. To work on resolving this he needs more info he decides to go into town to ask about strange occurrences.
+> After some additional narrative time, the hunter discovers that the creature had avoided a woman wearing a lot of silver jewellery, the GM considers this to be a resolution and lets the player complete the project. 
 > As a reward for completion the GM provides the hunter with the information that it is a Werewolf and the abilities and attributes of the creature.
 
-### Aid and Hindrance
-When multiple characters are all attempting to perform the same task together, instead of each performing a skill task separately, the [Most Skilled](Terminology#Most%20Skilled) of the group performs the skill test and receives a +1 for each person who is [Trained](Terminology#Trained) and aiding them. Similarly, they receive a -1 for each person who isn’t [Trained](Terminology#Trained) and is part of the activity. 
+### Aid
+When multiple characters are all attempting to perform the same task together, instead of each performing a skill task separately, the [Most Skilled](Terminology#Most%20Skilled) of the group performs the skill test. If another person has the same bonus the [Most Skilled](Game/Core/Terminology#Most%20Skilled) receives a +1 bonus. This can be applied to people with lesser bonuses as well.
 
-> So, if two trained doctors attempt first aid, the better makes a skill test with an additional +1. 
-> If 5 characters are attempting to sneak past a guard and 2 are trained and 3 are not, then the skill test is at an additional -2 (+1, -3).
+> So, if two characters with a (+5) bonus on an action are working together one rolls with a (+6) bonus.
+
+> Similarly, if three character are all working together on an action, one has a (+5) and the other two have a (+4) the two (+4)'s combine to a (+5) and then the two (+5)'s combine to a (+6). 
+
+> If two characters are working together on a task and one has a (+5) bonus and the other has a (+4) bonus, the overal bonus for the test remains a (+5). 
+
+### Hindrance
+In a situation where a group of characters is obligated to perform an [Action](Game/Core/Terminology#Action) but some are [Untrained](#Untrained) the [Most Skilled](Game/Core/Terminology#Most%20Skilled) receives a (-1) to their bonus per untrained person. This is applied after [Aid](#Aid) is calculated.
+
+> Examples of hindrance would be if your party was running from a giant boulder, people untrained would slow you down. Similarly if you were attempting to spot danger in the woods while traveling, untrained characters would be distracting or noisy keeping those trained from focusing as well. A situation that wouldn't cause hindrance would be if a character was building a tool, even if party members aren't trained, they also aren't obligated to help.
 
 ### Untrained
 Any untrained skill test is at an additional -2.
 
-> Examples would be trying to spot enemies with [Understanding](Intelligence#Understanding), or jumping across a ledge with [Physique](Strength#Physique). 
+> Examples would be trying to spot enemies with [Understanding](Intelligence#Memory), or jumping across a ledge with [Physique](Strength#Physique). 
 
 ### Critical Failure
 Rolling double 1's on a skill test is always considered a failure.
@@ -74,8 +68,14 @@ Rolling double 1's on a skill test is always considered a failure.
 ### Critical Success
 Rolling double 6's on a skill test is always considered a success. If you wouldn't otherwise have succeeded, you are considered to have 0 [Step Of Success](#Step) on the skill test.
 
-## Doubles
+### Doubles
 If you roll two identical values on a skill test (1,1), (2,2)… (6,6) this is considered doubles. Some [Actions](Terminology#Action) special rules may reference Doubles.
+
+### Lucky
+A lucky skill test rolls 3 six sided dice and the roller may select the 2 to use.
+
+### Unlucky
+An unlucky skill test rolls 3 six sided dice and the [Opponent](Game/Core/Terminology.md#Opponent) selects the 2 to use. 
 
 ## Character Skills
 The list of skills should cover any activity a character would be expected to do related to their primary attributes.
@@ -90,11 +90,11 @@ The list of skills should cover any activity a character would be expected to do
 
 ### [Intelligence](Intelligence) Skills
 * [Application](Intelligence#Application)
-* [Understanding](Intelligence#Understanding)
+* [Memory](Intelligence#Memory)
 
-### [Spirit](Spirit) Skills
-* [Ascendancy](Spirit#Ascendancy)
-* [Volition](Spirit#Volition)
+### [Intuition](Game/Core/Intuition) Skills
+* [Ascendancy](Game/Core/Intuition#Ascendancy)
+* [Awareness](Game/Core/Intuition#Awareness)
 
 ### [Communication](Communication) Skills
 * [Confidence](Communication#Confidence)

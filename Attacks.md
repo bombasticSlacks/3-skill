@@ -3,7 +3,7 @@ layout: default
 title: Attacks
 parent: Combat
 nav_order: 2
-grand_parent: Telling The Story
+grand_parent: How To Play
 ---
 
 # Attacking
@@ -11,7 +11,7 @@ Usually, in combat, you will be trying to harm your opponents with the goal of k
 * Thrown attacks using [Physique](Strength#Physique)
 * Ranged attacks using [Coordination](Agility#Coordination)
 * Melee attacks using [Physique](Strength#Physique) 
-* Magic attacks using [Ascendancy](Spirit#Ascendancy)
+* Magic attacks using [Ascendancy](Game/Core/Intuition#Ascendancy)
 
 ## Attack Range
 When you attack something, your range is how far you can engage them from. 
@@ -39,12 +39,16 @@ These are modifiers you can apply to attacks and manoeuvres which will put you a
 ### Extra Damage
 *Action modifier varies*
 
-Your [Attack](Terminology#Attack) does additional [Damage](Terminology#Damage). Every weapon wielded by a character will have a different extra damage penalty.
+Your [Attack](Terminology#Attack) does additional [Damage](Terminology#Damage). Every weapon wielded by a character will have a different [Extra Damage Modifier](Game/Core/Weapons#Extra%20Damage%20Modifier).
 
-### Vitals Hit
-*Action modifier (-2)*
-
-Your [Attack](Terminology#Attack) strikes a person's vitals. An [Attack](Terminology#Attack) that rolls [Doubles](Skills#Doubles), is always considered a [Vitals](Injury#Vitals) hit.
+### Called Attack
+*Action modifier (-2) but may vary*
+Your [Attack](Terminology#Attack) strikes a specific point of interest on an enemy. 
+* An [Attack](Terminology#Attack) that rolls [Doubles](Skills#Doubles), is always considered a called attack.
+* Called attacks consider [Critical Weakness](Game/Core/Armour#Critical%20Weakness).
+* Called attacks cause 2 additional [Injury Damage](Game/Core/Injury#Injury%20Damage), if they cause any.
+* Any other narrative effects based on the details of the attack. 
+* A called attack **cannot** be used to circumvent [Armour Integrity](Game/Core/Armour#Armour%20Integrity).
 
 
 ## Taking Damage
@@ -55,6 +59,6 @@ If you fail to mitigate an incoming attack, you will take damage.
 * Deduct incoming damage from your [Armour Integrity](Armour#Armour%20Integrity).
 * Any remaining damage is converted to [Injury](Injury).
 
-> Example, if your character takes 3 damage from a piercing attack while wearing armour weak to piercing with 2 [Armour Integrity](Armour#Armour%20Integrity). Your character's Armour Integrity is reduced to 0, with 2 damage still left unaccounted for, you suffer 2 [Injury Damage](Game/Core/Injury#Injury%20Damage).
+> Example, if your character takes 3 damage from a piercing attack while wearing armour weak to piercing with 2 [Armour Integrity](Armour#Armour%20Integrity). Your character's Armour Integrity is reduced to 0, with 3 damage still left unaccounted for, you suffer 3 [Injury Damage](Game/Core/Injury#Injury%20Damage).
 
 

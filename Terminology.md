@@ -118,3 +118,6 @@ The players, characters, heroes, adventurers etc. refers to the character that a
 
 ## Game Master
 The GM, or, game master is the person who directs the flow of the game. They set up the initial state of the world, potentially with help from the players, then control every non-player character and entity in it.
+
+## Defeat
+Defeat occurs when a character is incapacitated or killed. 

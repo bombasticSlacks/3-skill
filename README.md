@@ -1,5 +1,5 @@
 # 3-Skill
-## A lightweight rules system putting story telling and player choices first.
+## A Lightweight Rules System Putting Story Telling and Player Choices First
 3-Skill is the core system used for a number of pen and paper games including:
 * https://github.com/bombasticSlacks/Aspirant
 

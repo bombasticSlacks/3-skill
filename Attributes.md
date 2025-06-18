@@ -17,7 +17,7 @@ Your character has 5 primary attributes that dictate what they can do:
 * [Agility](Agility)
 * [Communication](Communication)
 * [Intelligence](Intelligence)
-* [Spirit](Spirit)
+* [Intuition](Game/Core/Intuition)
 * [Strength](Strength)
 
 Attributes reflect your characters inherent talent and power, these are further improved by honing your [Skills](Skills).

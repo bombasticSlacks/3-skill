@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reacting
-parent: Telling The Story
+parent: How To Play
 nav_order: 2
 grand_parent:
 ---
@@ -27,7 +27,3 @@ If an [Opponent](Terminology#Opponent) performs a [Successful Attack](Terminolog
 ### Move to Cover
 
 A [Coordination](Agility#Coordination) skill test where if you succeed then you may move to a piece of cover within [Reach](Movement#Reach) before an enemy ranged attack is calculated. You cannot Move to Cover while [Prone](Effects#Prone).
-
-### Attack of Opportunity
-
-If someone moves while [In Melee](Effects#In%20Melee) with you, you may make an [Attack](Terminology#Attack) against them.

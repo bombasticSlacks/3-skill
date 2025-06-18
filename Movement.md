@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Movement
-parent: Telling The Story
+parent: How To Play
 nav_order: 0
 ---
 # Movement

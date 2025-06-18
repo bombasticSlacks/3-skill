@@ -3,7 +3,7 @@ layout: default
 title: Special Combat Actions
 parent: Combat
 nav_order: 2
-grand_parent: Telling The Story
+grand_parent: How To Play
 ---
 # Special Combat Actions
 In combat there are several situations that come up often enough they should have predefined rules. This doesn't mean this list is exhaustive, but should give an idea of the sort of things you can do in combat apart from harming someone directly.
