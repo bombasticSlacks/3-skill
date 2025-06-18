@@ -2,7 +2,7 @@
 layout: default
 title: Reacting
 parent: How To Play
-nav_order: 2
+nav_order: 0
 grand_parent:
 ---
 
