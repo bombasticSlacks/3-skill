@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Combat
-parent: Telling The Story
+parent: How To Play
 nav_order: 0
 has_children: true
 ---

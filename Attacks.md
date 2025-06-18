@@ -3,7 +3,7 @@ layout: default
 title: Attacks
 parent: Combat
 nav_order: 2
-grand_parent: Telling The Story
+grand_parent: How To Play
 ---
 
 # Attacking

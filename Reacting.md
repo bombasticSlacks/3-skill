@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reacting
-parent: Telling The Story
+parent: How To Play
 nav_order: 2
 grand_parent:
 ---

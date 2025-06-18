@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Injury
-parent: Telling The Story
+parent: How To Play
 nav_order: 0
-has_children: true
+has_children: false
 ---
 # Injury
 Humans don’t have hit points. A character's [Armour](Armour) takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. It is assumed that while your armour has integrity you are getting bruised and cut in combat but all injuries are superficial long term. 
