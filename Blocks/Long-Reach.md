@@ -4,4 +4,4 @@
 
 ### Long Reach
 *This weapon is long enough that you can fight people without them being close to you.*
-* Performing [Melee Attack](Terminology#Melee%20Attack) doesn't put you [In Melee](Effects#In%20Melee). You contribute to [Outnumbered](Attack-Bonuses#Outnumbered) for anyone in [Reach](Movement#Reach).
+* When you are [In Melee](Game/Core/Effects#In%20Melee) with an [Ally](Game/Core/Terminology#Ally) you cannot be targeted with attacks from enemies also [In Melee](Game/Core/Effects#In%20Melee), and you can leave melee without getting attacked.
