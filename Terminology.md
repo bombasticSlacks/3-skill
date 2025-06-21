@@ -121,3 +121,6 @@ The GM, or, game master is the person who directs the flow of the game. They set
 
 ## Defeat
 Defeat occurs when a character is incapacitated or killed. 
+
+## Resist
+Most negative effects can be resisted by heroes and powerful NPCs. This is usually a [Endurance](Game/Core/Strength#Endurance) skill test.

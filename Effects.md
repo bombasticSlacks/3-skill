@@ -99,7 +99,7 @@ There must be no other combatants in melee within [Reach](Movement#Reach).
 ---
 ## Wounded
 *Your character has suffered a meaningful injury, there is only so much longer they can keep fighting.*
-* After you perform an [Action](Game/Core/Terminology#Action), you become [Defeated](Game/Core/Effects#Defeated). (This can be resisted with [Endurance](Game/Core/Strength#Endurance)).
+* After you perform an [Action](Game/Core/Terminology#Action), you become [Defeated](Game/Core/Effects#Defeated). (can be [Resist](Game/Core/Terminology#Resist)).
 
 ### Removing
 {: .no_toc }
