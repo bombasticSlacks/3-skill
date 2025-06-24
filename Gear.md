@@ -3,7 +3,7 @@ layout: default
 title: Gear
 parent: Equipment
 nav_order: 2
-has_children: true
+has_children: false
 ---
 # Gear
 Generalist equipment characters need to perform activities and skill tests or otherwise help their characters. 
