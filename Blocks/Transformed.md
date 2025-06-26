@@ -2,6 +2,9 @@
 [Effects](Game/Core/Effects)
 {: .label .label-purple }
 
+[State](Game/Core/Effects#State)
+{: .label .label-green }
+
 ## Transformed
 *You have become something else, if temporarily.*
 * You have the [NPC Attributes](Game/Core/Characters#NPC%20Attributes) of another [Character](Game/Core/Terminology#Character).

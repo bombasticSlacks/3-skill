@@ -2,6 +2,9 @@
 [Effects](Game/Core/Effects)
 {: .label .label-purple }
 
+[Status](Game/Core/Effects#Status)
+{: .label .label-green }
+
 ## Fearless
 *You cannot become afraid no matter the horrors you see.*
 * You cannot gain [Stress](Game/Stress).

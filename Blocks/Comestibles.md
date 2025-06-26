@@ -15,5 +15,5 @@ A less sophisticated solution to ranged attacks, sometimes weapons or items are 
 
 As with [Ammunition](#Ammunition), specialized throwables exist either with larger damage bonuses, specialized effects or changed damage type.
 
-#### Drugs and Elixirs
+#### Ingested and 
 #TODOcopy 

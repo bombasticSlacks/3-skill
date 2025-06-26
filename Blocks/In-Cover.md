@@ -2,6 +2,9 @@
 [Effects](Game/Core/Effects)
 {: .label .label-purple }
 
+[State](Game/Core/Effects#State)
+{: .label .label-green }
+
 ## In Cover
 *You are partially, or totally, obfuscated from your opponent.*
 * A [Character](Terminology#Character) further than [Reach](Movement#Reach) from you suffers (-2) to all [attacks](Terminology#Attack) targeting you.

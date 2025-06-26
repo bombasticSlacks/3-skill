@@ -2,6 +2,9 @@
 [Effects](Game/Core/Effects)
 {: .label .label-purple }
 
+[Status](Game/Core/Effects#Status)
+{: .label .label-green }
+
 ## Defeated
 *You have collapsed, either dead or incapacitated, unable to aid your allies further. This might consist of having to put pressure on wounds, being in shock, actually being unconscious, or any number of narrative appropriate scenarios.*
 * Your character can no longer perform [Actions](Terminology#Action) or [Movement](Game/Core/Movement).

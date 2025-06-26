@@ -2,6 +2,9 @@
 [Effects](Game/Core/Effects)
 {: .label .label-purple }
 
+[Status](Game/Core/Effects#Status)
+{: .label .label-green }
+
 ## Disoriented
 *You have difficulty focusing and moving, everything feels like it is under water.*
 * (-2) to all [Actions](Terminology#Action).

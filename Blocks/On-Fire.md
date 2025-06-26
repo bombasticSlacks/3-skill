@@ -2,6 +2,9 @@
 [Effects](Game/Core/Effects)
 {: .label .label-purple }
 
+[Status](Game/Core/Effects#Status)
+{: .label .label-green }
+
 ## On Fire
 *Your character or their clothing is currently burning.* 
 * Whenever you act, you suffer 2 [Heat](Game/Core/Injury#Heat) damage, if this causes [Injury Damage](Game/Core/Injury#Injury%20Damage), you take an additional 2 [Heat](Game/Core/Injury#Heat) damage the next time this occurs.

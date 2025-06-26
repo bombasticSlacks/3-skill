@@ -2,6 +2,9 @@
 [Effects](Game/Core/Effects)
 {: .label .label-purple }
 
+[Status](Game/Core/Effects#Status)
+{: .label .label-green }
+
 ## Slowed
 A slowed character can only move up to [Close](Movement#Close) on their next turn.
 

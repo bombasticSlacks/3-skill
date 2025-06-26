@@ -2,6 +2,9 @@
 [Effects](Game/Core/Effects)
 {: .label .label-purple }
 
+[Status](Game/Core/Effects#Status)
+{: .label .label-green }
+
 ## Stunned
 A stunned character cannot perform [Action](Terminology#Action) or [Movement](Game/Core/Movement).
 

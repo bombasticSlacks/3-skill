@@ -2,6 +2,9 @@
 [Effects](Game/Core/Effects)
 {: .label .label-purple }
 
+[State](Game/Core/Effects#State)
+{: .label .label-green }
+
 ## Prone
 *You have been knocked to the ground.* 
 * You suffer a -2 to all [Physique](Strength#Physique) skill tests.
