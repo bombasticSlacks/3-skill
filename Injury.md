@@ -18,7 +18,7 @@ When you suffer injury, the attacker can decide on something that occurs based o
 | ------------- | --------------------------------------------------------------------------------------------------- |
 | > 0           | A limb, sense, or ability becomes temporarily non-functional.                                       |
 | > 4           | A limb, sense, or ability becomes temporarily non-functional, [Wounded](Game/Core/Effects#Wounded). |
-| > 6           | A limb or sense is destroyed, and becomes non-functional.                                           |
+| > 6           | A limb or sense is destroyed, and becomes non-functional, [Wounded](Game/Core/Effects#Wounded).     |
 | > 8           | Death.                                                                                              |
 | > 10          | Death with nothing remaining of the character.                                                      |
 
