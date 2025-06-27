@@ -56,7 +56,7 @@ Any [Weapons](Weapons) with the [Shield](Game/Core/Blocks/Shield) trait.
 A character who is an [Ally](#Ally) but also is willing to be directly commanded.
 
 ## Mounted
-A [Character](#Character) is mounted if they are currently riding on another tamed creature which they are in control of. This usually means a horse, but could be another creature.
+A [Character](#Character) is mounted if they are currently riding on another creature which they are in control of. This usually means a horse, but could be another creature with [Mount](Game/Core/Blocks/Mount).
 
 ## Combat Action
 Any skill test related to combat.
