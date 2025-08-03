@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Comestibles
+title: Consumables
 parent: Equipment
 nav_order: 2
 has_children: true
 ---
-# Comestibles
-Covers any type of gear that is destroyed or made useless by using. The act of using a comestible destroys it. There are a few specialized categories of comestible:
+# Consumable
+Covers any type of gear that is destroyed or made useless by using. The act of using a consumable destroys it. There are a few specialized categories of consumable:
 #### Munitions
 Weapons with a [Capacity](Weapon-Traits#Capacity(X,%20Type)) will require munitions of some kind. The simplest forms of munitions just function as a cost to use these weapons.
 
@@ -28,4 +28,4 @@ Food 3 tiers (basic, artisan, exotic) - basic gain a stress, if you eat artisan 
 
 Munitions are costed per type. So arrows are basic, bolts are artisan, lead balls are exotic. You can add modifiers by crafting a higher tier of the thing. So flaming arrows are artisan. piercing bolts are exotic. Modified bullets would need to be masterworked. Exotic munitions require special training like weapons. 
 
-Potions and such are based on their effect. Need to make a list...
+Potions and such are based on their effect. Need to make a list…
