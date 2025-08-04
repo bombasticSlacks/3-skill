@@ -18,7 +18,7 @@ Skills range in value from 0-3
 
 Skill tests come in a few various types.
 ### Fixed Difficulty
-A standard skill test, will have a negative assigned, and it will be either pass or fail. These are written as SKILL(+/- VALUE). If no value is mentioned in brackets, the skill test is assumed to have no bonus or negative to the roll.
+A standard skill test, will have a negative assigned, and it will be either pass or fail. These are written as SKILL(+/- VALUE). If no value is mentioned in brackets, the skill test difficulty is assigned by the [Game Master](Game/Core/Terminology.md#Game%20Master) based on the circumstances. 
 
 > So a [Confidence](Communication#Confidence)(-1) would be a confidence skill test with a -1 to the roll. [Physique](Game/Core/Strength#Physique) would be a skill test with no penalty or bonus. 
 
