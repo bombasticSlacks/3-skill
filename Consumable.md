@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Consumables
+title: Consumable
 parent: Equipment
 nav_order: 2
 has_children: true
