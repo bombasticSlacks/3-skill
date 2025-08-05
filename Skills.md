@@ -18,7 +18,7 @@ Skills range in value from 0-3
 
 Skill tests come in a few various types.
 ### Fixed Difficulty
-A standard skill test, will have a negative assigned, and it will be either pass or fail. These are written as SKILL(+/- VALUE). If no value is mentioned in brackets, the skill test difficulty is assigned by the [Game Master](Game/Core/Terminology.md#Game%20Master) based on the circumstances. 
+A standard skill test, will have a negative assigned, and it will be either pass or fail. These are written as SKILL(+/- VALUE). If no value is mentioned in brackets, the skill test difficulty is assigned by the [Game Master](Game/Core/Terminology#Game%20Master) based on the circumstances. 
 
 > So a [Confidence](Communication#Confidence)(-1) would be a confidence skill test with a -1 to the roll. [Physique](Game/Core/Strength#Physique) would be a skill test with no penalty or bonus. 
 
@@ -75,7 +75,7 @@ If you roll two identical values on a skill test (1,1), (2,2)… (6,6) this is c
 A lucky skill test rolls 3 six sided dice and the roller may select the 2 to use.
 
 ### Unlucky
-An unlucky skill test rolls 3 six sided dice and the [Opponent](Game/Core/Terminology.md#Opponent) selects the 2 to use. 
+An unlucky skill test rolls 3 six sided dice and the [Opponent](Game/Core/Terminology#Opponent) selects the 2 to use. 
 
 ## Character Skills
 The list of skills should cover any activity a character would be expected to do related to their primary attributes.
@@ -92,9 +92,9 @@ The list of skills should cover any activity a character would be expected to do
 * [Application](Intelligence#Application)
 * [Memory](Intelligence#Memory)
 
-### [Intuition](Game/Core/Intuition) Skills
-* [Ascendancy](Game/Core/Intuition#Ascendancy)
-* [Awareness](Game/Core/Intuition#Awareness)
+### [Instinct](Game/Core/Instinct) Skills
+* [Ascendancy](Game/Core/Instinct#Ascendancy)
+* [Awareness](Game/Core/Instinct#Awareness)
 
 ### [Communication](Communication) Skills
 * [Confidence](Communication#Confidence)

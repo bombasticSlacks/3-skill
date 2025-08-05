@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Intuition
+title: Instinct
 parent: Attributes
 nav_order: 2
 grand_parent: How To Play
 ---
-# Intuition
+# Instinct
 
 Measures your spirit, your sense of self and the world around you. It is also used to force your will on others, conjure magic, and interrogate others.
 
