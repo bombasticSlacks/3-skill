@@ -9,7 +9,7 @@ grand_parent: How To Play
 
 Measures your spirit, your sense of self and the world around you. It is also used to force your will on others, conjure magic, and interrogate others.
 
-It can be honed to better perform the [Skills](Skills):
+It can be honed to better perform the [[Skills]]:
 
 ## Ascendancy
 The act of transcending your human limitations and connecting to something outside yourself. This includes:
@@ -20,7 +20,7 @@ The act of transcending your human limitations and connecting to something outsi
 * Using magic items.
 
 
-Any time you are trying to connect to the world around you or bend reality to your will, you should make an ascendancy [Skill](Skills) test.
+Any time you are trying to connect to the world around you or bend reality to your will, you should make an ascendancy [[Skills|Skill]] test.
 
 ---
 
@@ -30,6 +30,6 @@ The act of observing the world around you. This includes:
 * Sensing a persons motives.
 * Seeing traps.
 
-Any time you are trying to understand more about what you percieve, you should make an awareness [Skill](Skills) test.
+Any time you are trying to understand more about what you percieve, you should make an awareness [[Skills|Skill]] test.
 
 ---

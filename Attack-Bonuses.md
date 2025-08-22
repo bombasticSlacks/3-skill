@@ -10,9 +10,9 @@ These are common bonuses and negatives you can receive on your attacks which wil
 ## Shooting Position
 If when shooting you are in a comfortable position you get a +1 to the skill test.
 ## Outnumbered
-If your opponent is outnumbered [In Melee](Effects#In%20Melee), you receive a +1 to melee attacks and manoeuvres against them.
+If your opponent is outnumbered [[Effects#In Melee]], you receive a +1 to melee attacks and manoeuvres against them.
 ## Severely Outnumbered
-If your opponents are outnumbered [In Melee](Effects#In%20Melee) by more than 2 to 1 you receive a +2 to melee attacks and manoeuvres against them. (ex: 3 to 1, 5 to 2 etc.).
+If your opponents are outnumbered [[Effects#In Melee]] by more than 2 to 1 you receive a +2 to melee attacks and manoeuvres against them. (ex: 3 to 1, 5 to 2 etc.).
 ## Unaware
 When making an attack or manoeuvre, if your opponent is unaware of your presence, you get a +4 to the skill test.
 ## Unweighted for Throwing
@@ -20,4 +20,4 @@ If you attempt to throw a weapon that doesn’t have the thrown tag, you receive
 ## On Your Back
 When attempting a melee test, if you are prone, you receive a -2.
 ## Distance Penalty
-When you use a non-[Striking](Game/Core/Blocks/Striking) weapon, if outside the weapon's [Range](Game/Core/Weapons#Range) you suffer a similar penalty to [Movement Action Penalty](Movement#Movement%20Action%20Penalty).
+When you use a non-[[Striking]] weapon, if outside the weapon's [[Weapons#Range]] you suffer a similar penalty to [[Movement#Movement Action Penalty]].

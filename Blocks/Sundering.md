@@ -1,6 +1,6 @@
 
-[Weapon Trait](Game/Core/Weapon-Traits)
+[[Weapon-Traits|Weapon Trait]]
 {: .label .label-purple }
 
 ### Sundering
-* If the [Opponent](Terminology#Opponent) of an attack has any remaining [Armour Integrity](Armour#Armour%20Integrity), this weapon deals (+1) [Damage](Terminology#Damage).
+* If the [[Terminology#Opponent]] of an attack has any remaining [[Armour#Armour Integrity]], this weapon deals (+1) [[Terminology#Damage]].

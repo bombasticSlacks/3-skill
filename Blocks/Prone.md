@@ -1,17 +1,17 @@
 
-[Effects](Game/Core/Effects)
+[[Effects]]
 {: .label .label-purple }
 
-[State](Game/Core/Effects#State)
+[[Effects#State]]
 {: .label .label-green }
 
 ## Prone
 *You have been knocked to the ground.* 
-* You suffer a -2 to all [Physique](Strength#Physique) skill tests.
-* Cannot perform [Reaction](Terminology#Reaction).
+* You suffer a -2 to all [[Strength#Physique]] skill tests.
+* Cannot perform [[Terminology#Reaction]].
 
 ### Removing
 {: .no_toc }
-perform a [Coordination](Agility#Coordination) [Fixed Difficulty(0)](Skills#Fixed%20Difficulty):
-* If you succeed, you may stand as a [Free Action](Terminology#Free%20Action).
-* If you fail, you will need to spend your [Action](Terminology#Action) to remove prone.
+perform a [[Agility#Coordination]] [[Skills#Fixed Difficulty]]:
+* If you succeed, you may stand as a [[Terminology#Free Action]].
+* If you fail, you will need to spend your [[Terminology#Action]] to remove prone.

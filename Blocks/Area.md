@@ -1,6 +1,6 @@
 
-[Weapon Trait](Game/Core/Weapon-Traits)
+[[Weapon-Traits|Weapon Trait]]
 {: .label .label-purple }
 
 ### Area
-* This weapon affects everyone within [Reach](Movement#Reach) of the target (everyone gets a reaction).
+* This weapon affects everyone within [[Movement#Reach]] of the target (everyone gets a reaction).

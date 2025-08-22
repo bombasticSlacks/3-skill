@@ -6,7 +6,7 @@ nav_order: 0
 ---
 # Effects
 {: .no_toc }
-Effects are temporary things that can be applied to a character. They will effect your [Action](Terminology#Action) and the [Action](Terminology#Action) of others.
+Effects are temporary things that can be applied to a character. They will effect your [[Terminology#Action]] and the [[Terminology#Action]] of others.
 
 ## Types of Effects
 

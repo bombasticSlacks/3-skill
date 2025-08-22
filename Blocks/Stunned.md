@@ -1,13 +1,13 @@
 
-[Effects](Game/Core/Effects)
+[[Effects]]
 {: .label .label-purple }
 
-[Status](Game/Core/Effects#Status)
+[[Effects#Status]]
 {: .label .label-green }
 
 ## Stunned
-A stunned character cannot perform [Action](Terminology#Action) or [Movement](Game/Core/Movement).
+A stunned character cannot perform [[Terminology#Action]] or [[Movement]].
 
 ### Removing
 {: no_toc }
-* After skipping an [Action](Game/Core/Terminology#Action) during combat or when narratively appropriate.
+* After skipping an [[Terminology#Action]] during combat or when narratively appropriate.

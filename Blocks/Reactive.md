@@ -1,6 +1,6 @@
 
-[Armour Trait](Game/Core/Armour-Traits)
+[[Armour-Traits|Armour Trait]]
 {: .label .label-purple }
 
 ## Reactive
-* You receive a (+2) to all [Skill Test](Game/Core/Terminology#Skill%20Test) related to [Reacting](Game/Core/Reacting).
+* You receive a (+2) to all [[Terminology#Skill Test]] related to [[Reacting]].

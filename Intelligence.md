@@ -9,7 +9,7 @@ grand_parent: How To Play
 
 Measures how intelligent your character is.
 
-It can be honed to better perform the [Skills](Skills):
+It can be honed to better perform the [[Skills]]:
 ## Application
 The action of applying what you know and have learned. This includes:
 * Medicine and first aid.
@@ -19,7 +19,7 @@ The action of applying what you know and have learned. This includes:
 * Picking locks.
 * Modifying objects.
 
-Any time you are applying your knowledge and expertise, you should make an application [Skill](Skills) test.
+Any time you are applying your knowledge and expertise, you should make an application [[Skills|Skill]] test.
 
 
 ---
@@ -29,4 +29,4 @@ The action of learning and remembering things about the world around you, making
 * Knowing something that you could realistically know.
 * Memorizing something complex under pressure.
 
-Any time you are looking to call on your knowledge, you should make a memory [Skill](Skills) test.
+Any time you are looking to call on your knowledge, you should make a memory [[Skills|Skill]] test.

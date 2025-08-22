@@ -1,5 +1,5 @@
 
-[gear-trait](Game/Core/Gear#Traits)
+[[Gear#Traits]]
 {: .label .label-purple }
 
 ### Charges

@@ -1,7 +1,7 @@
 
-[Weapon Trait](Game/Core/Weapon-Traits)
+[[Weapon-Traits|Weapon Trait]]
 {: .label .label-purple }
 
 ### Foolproof
 *This weapon works without any user intervention.*
-* Performing an [Attack](Game/Core/Terminology#Attack) with this weapon requires no [Skill Test](Game/Core/Terminology#Skill%20Test).
+* Performing an [[Terminology#Attack]] with this weapon requires no [[Terminology#Skill Test]].

@@ -1,7 +1,7 @@
 
-[Weapon Trait](Game/Core/Weapon-Traits)
+[[Weapon-Traits|Weapon Trait]]
 {: .label .label-purple }
 
 ### Injuring
 *This weapon is extra effective at harming others.*
-* If this weapon causes [Injury Damage](Game/Core/Injury#Injury%20Damage) it causes 1 additional.
+* If this weapon causes [[Injury#Injury Damage]] it causes 1 additional.

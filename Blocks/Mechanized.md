@@ -1,8 +1,8 @@
 
-[Armour Trait](Game/Core/Armour-Traits)
+[[Armour-Traits|Armour Trait]]
 {: .label .label-purple }
 
 ## Mechanized
 *Your armour augments your movements.*
-* Count as having 4 [Strength](Strength).
-* If the wearer already has 4 [Strength](Strength), consider their [Strength](Strength) as 5.
+* Count as having 4 [[Strength]].
+* If the wearer already has 4 [[Strength]], consider their [[Strength]] as 5.

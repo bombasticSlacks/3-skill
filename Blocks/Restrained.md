@@ -1,13 +1,13 @@
 
-[Effects](Game/Core/Effects)
+[[Effects]]
 {: .label .label-purple }
 
-[State](Game/Core/Effects#State)
+[[Effects#State]]
 {: .label .label-green }
 
 ## Restrained
 *Something is keeping you from acting or moving.*
-* You cannot perform [Action](Terminology#Action) or [Movement](Game/Core/Movement).
+* You cannot perform [[Terminology#Action]] or [[Movement]].
 
 ### Removing
 {: no_toc }

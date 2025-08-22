@@ -9,7 +9,7 @@ grand_parent: How To Play
 
 Measures how strong your character is.
 
-It can be honed to better perform the [Skills](Skills):
+It can be honed to better perform the [[Skills]]:
 
 ---
 ## Endurance
@@ -19,7 +19,7 @@ The action of enduring hardships, remaining steadfast in the face of adversity. 
 * Dealing with immediate injury effects.
 * Resisting negative physical effects.
 
-Any time you are trying to endure something, you should make an endurance [Skill](Skills) test.
+Any time you are trying to endure something, you should make an endurance [[Skills|Skill]] test.
 
 ---
 ## Physique
@@ -35,7 +35,7 @@ The action of striking other things, inflicting immediate force on them. This in
 * Throwing.
 * Wrestling.
 
-Any time you are applying the strength of your body to something, you should make a physique [Skill](Skills) test.
+Any time you are applying the strength of your body to something, you should make a physique [[Skills|Skill]] test.
 
 ---
 

@@ -1,7 +1,7 @@
 
-[Armour Trait](Game/Core/Armour-Traits)
+[[Armour-Traits|Armour Trait]]
 {: .label .label-purple }
 
 ## Empowering
 *This armour imbues the character with additional mystical energy.*
-* +1 [Damage](Game/Core/Terminology#Damage) with [Attack](Game/Core/Terminology#Attack) with the [Otherworldly](Game/Core/Blocks/Otherworldly) [Weapon-Traits](Game/Core/Weapon-Traits).
+* +1 [[Terminology#Damage]] with [[Terminology#Attack]] with the [[Otherworldly]] [[Weapon-Traits]].

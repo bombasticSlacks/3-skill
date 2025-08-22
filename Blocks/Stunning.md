@@ -1,6 +1,6 @@
 
-[Weapon Trait](Game/Core/Weapon-Traits)
+[[Weapon-Traits|Weapon Trait]]
 {: .label .label-purple }
 
 ### Stunning
-* This weapon on a [Successful Attack](Game/Core/Terminology#Successful%20Attack) causes the [Opponent](Game/Core/Terminology#Opponent) to be [Stunned](Game/Core/Effects#Stunned).
+* This weapon on a [[Terminology#Successful Attack]] causes the [[Terminology#Opponent]] to be [[Effects#Stunned]].

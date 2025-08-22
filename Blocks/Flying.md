@@ -1,4 +1,4 @@
-[Character-Traits](Game/Core/Character-Traits)
+[[Character-Traits]]
 {: .label .label-yellow }
 ## Flying
 *This creature flies.*

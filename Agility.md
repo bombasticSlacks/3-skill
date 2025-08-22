@@ -9,7 +9,7 @@ grand_parent: How To Play
 
 Measures how agile your character is.
 
-It can be honed to better perform the [Skills](Skills):
+It can be honed to better perform the [[Skills]]:
 ## Coordination
 The act of being comfortable and accurate in how you interact with the world around you. This includes:
 * Shooting ranged weapons.
@@ -20,7 +20,7 @@ The act of being comfortable and accurate in how you interact with the world aro
 * Acrobatics.
 * Balancing.
 
-Any time you are doing something that would require coordination or precision, you should make an coordination [Skill](Skills) test.
+Any time you are doing something that would require coordination or precision, you should make an coordination [[Skills|Skill]] test.
 
 ---
 
@@ -30,6 +30,6 @@ The act of reacting without thought. This includes:
 * Blocking.
 * Catching something at the last minute.
 
-Any time you are doing something that requires a split second response, you should make a reflexes [Skill](Skills) test.
+Any time you are doing something that requires a split second response, you should make a reflexes [[Skills|Skill]] test.
 
 ---

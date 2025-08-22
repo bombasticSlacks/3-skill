@@ -1,7 +1,7 @@
 
-[Weapon Trait](Game/Core/Weapon-Traits)
+[[Weapon-Traits|Weapon Trait]]
 {: .label .label-purple }
 
 ### Thrown
 *This weapon is thrown requiring fitness.*
-* This weapon [Attacks](Game/Core/Attacks) using the [Physique](Game/Core/Strength#Physique) skill.
+* This weapon [[Attacks]] using the [[Strength#Physique]] skill.

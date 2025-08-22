@@ -1,14 +1,14 @@
 
-[Effects](Game/Core/Effects)
+[[Effects]]
 {: .label .label-purple }
 
-[Status](Game/Core/Effects#Status)
+[[Effects#Status]]
 {: .label .label-green }
 
 ## Fearless
 *You cannot become afraid no matter the horrors you see.*
-* You cannot gain [Stress](Game/Stress).
-* You automatically pass all [Endurance](Game/Core/Strength#Endurance) [Skill Test](Game/Core/Terminology#Skill%20Test) related to fear and panic.
+* You cannot gain [[Game/Stress|Stress]].
+* You automatically pass all [[Strength#Endurance]] [[Terminology#Skill Test]] related to fear and panic.
 ### Removing
 {: no_toc }
-* Last until the end of the [Scene](Game/Core/Terminology#Scene).
+* Last until the end of the [[Terminology#Scene]].

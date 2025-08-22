@@ -1,6 +1,6 @@
 
-[Weapon Trait](Game/Core/Weapon-Traits)
+[[Weapon-Traits|Weapon Trait]]
 {: .label .label-purple }
 
 ### Deadly Draw
-* The first [Action](Game/Core/Terminology#Action) you take with this weapon in any combat is automatically successful with no skill test.
+* The first [[Terminology#Action]] you take with this weapon in any combat is automatically successful with no skill test.

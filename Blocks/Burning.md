@@ -1,6 +1,6 @@
 
-[Weapon Trait](Game/Core/Weapon-Traits)
+[[Weapon-Traits|Weapon Trait]]
 {: .label .label-purple }
 
 ### Burning
-* This weapon on a [Successful Attack](Terminology#Successful%20Attack) causes the [Opponent](Game/Core/Terminology#Opponent) to be [On Fire](Effects#On%20Fire).
+* This weapon on a [[Terminology#Successful Attack]] causes the [[Terminology#Opponent]] to be [[Effects#On Fire]].

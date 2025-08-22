@@ -14,12 +14,12 @@ Attributes range in value from 1-5 and measure your capability to do almost anyt
 - 5 is inhuman
 
 Your character has 5 primary attributes that dictate what they can do:
-* [Agility](Agility)
-* [Communication](Communication)
-* [Intelligence](Intelligence)
-* [Instinct](Game/Core/Instinct)
-* [Strength](Strength)
+* [[Agility]]
+* [[Communication]]
+* [[Intelligence]]
+* [[Instinct]]
+* [[Strength]]
 
-Attributes reflect your characters inherent talent and power, these are further improved by honing your [Skills](Skills).
+Attributes reflect your characters inherent talent and power, these are further improved by honing your [[Skills]].
 
 ## Secondary Attributes

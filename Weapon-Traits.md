@@ -5,7 +5,7 @@ parent: Weapons
 grand_parent: Equipment
 nav_order: 2
 ---
-# [Weapon](Weapons) Traits
+# [[Weapons|Weapon]] Traits
 {: .no_toc }
 
 <details open markdown="block">
@@ -20,7 +20,7 @@ nav_order: 2
 ## Crafting Templates
 These need to be migrated to Aspirant.
 ### Size Matters
-This weapon adds $size \times 2$ to [Damage Bonus](Weapons#Damage%20Bonus).
+This weapon adds $size \times 2$ to [[Weapons#Damage Bonus]].
 
 
 

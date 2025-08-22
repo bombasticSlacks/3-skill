@@ -1,15 +1,15 @@
 
-[Effects](Game/Core/Effects)
+[[Effects]]
 {: .label .label-purple }
 
-[Status](Game/Core/Effects#Status)
+[[Effects#Status]]
 {: .label .label-green }
 
 ## Unconscious
 *You are out cold, you cannot respond to external stimuli of any kind.*
-* You cannot perform [Action](Terminology#Action) or [Movement](Game/Core/Movement).
+* You cannot perform [[Terminology#Action]] or [[Movement]].
 
 ### Removing
 {: no_toc }
 * Someone must spend time waking you.
-* Potentially at the end of the [Scene](Terminology#Scene).
+* Potentially at the end of the [[Terminology#Scene]].

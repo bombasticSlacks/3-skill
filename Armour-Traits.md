@@ -5,7 +5,7 @@ parent: Armour
 grand_parent: Equipment
 nav_order: 2
 ---
-# [Armour](Armour) Traits
+# [[Armour]] Traits
 {: .no_toc }
 
 <details open markdown="block">

@@ -1,15 +1,15 @@
 
-[Effects](Game/Core/Effects)
+[[Effects]]
 {: .label .label-purple }
 
-[Status](Game/Core/Effects#Status)
+[[Effects#Status]]
 {: .label .label-green }
 
 ## Deafened
 *You can't hear.*
 * You cannot do anything relying on your ears.
-* You count as [Disoriented](Game/Core/Effects#Disoriented).
+* You count as [[Effects#Disoriented]].
 
 ### Removing
 {: no_toc }
-* Last until the end of the [Scene](Game/Core/Terminology#Scene).
+* Last until the end of the [[Terminology#Scene]].

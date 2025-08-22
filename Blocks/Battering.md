@@ -1,6 +1,6 @@
 
-[Weapon Trait](Game/Core/Weapon-Traits)
+[[Weapon-Traits|Weapon Trait]]
 {: .label .label-purple }
 
 ### Battering
-* On causing [Damage](Game/Core/Terminology#Damage) this weapon causes the [Opponent](Game/Core/Terminology#Opponent) to become [Prone](Game/Core/Effects#Prone).
+* On causing [[Terminology#Damage]] this weapon causes the [[Terminology#Opponent]] to become [[Effects#Prone]].

@@ -1,7 +1,7 @@
 
-[Weapon Trait](Game/Core/Weapon-Traits)
+[[Weapon-Traits|Weapon Trait]]
 {: .label .label-purple }
 
 ### Targeted
 *This weapons attacks are targeted, requiring accuracy.*
-* This weapon [Attacks](Game/Core/Attacks) using the [Coordination](Game/Core/Agility#Coordination) skill.
+* This weapon [[Attacks]] using the [[Agility#Coordination]] skill.

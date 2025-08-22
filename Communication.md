@@ -9,7 +9,7 @@ grand_parent: How To Play
 
 Measures how well you communicate.
 
-It can be honed to better perform the [Skills](Skills):
+It can be honed to better perform the [[Skills]]:
 ## Confidence
 The action of showing confidence, making others believe it. This includes:
 * Acting as a role.
@@ -18,7 +18,7 @@ The action of showing confidence, making others believe it. This includes:
 * Inspiring a person or group.
 * Directing something to act.
 
-Any time you are communicating and trying to show your confidence, you should make a confidence [Skill](Skills) test.
+Any time you are communicating and trying to show your confidence, you should make a confidence [[Skills|Skill]] test.
 
 ---
 
@@ -29,6 +29,6 @@ The act of connecting with other people and creatures, and making them do what y
 * Seeing if someone trusts you enough to share useful information.
 * Calming an animal.
 
-Any time you are communicating and need to see if you've connected with the other entity, you should make a connection [Skill](Skills) test.
+Any time you are communicating and need to see if you've connected with the other entity, you should make a connection [[Skills|Skill]] test.
 
 ---

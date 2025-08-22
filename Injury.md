@@ -6,10 +6,10 @@ nav_order: 0
 has_children: false
 ---
 # Injury
-Humans don’t have hit points. A character's [Armour](Armour) takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. It is assumed that while your armour has integrity you are getting bruised and cut in combat but all injuries are superficial long term. 
+Humans don’t have hit points. A character's [[Armour]] takes the role of their safety net to injury, once it is gone when attacked and harmed you suffer injuries. It is assumed that while your armour has integrity you are getting bruised and cut in combat but all injuries are superficial long term. 
 
 ## Injury Damage
-Any damage not mitigated by armour is considered Injury Damage and causes direct effects and harm to the [Character](Game/Core/Terminology#Character).
+Any damage not mitigated by armour is considered Injury Damage and causes direct effects and harm to the [[Terminology#Character]].
 
 When you suffer injury, the attacker can decide on something that occurs based on the amount of injury damage:
 
@@ -17,13 +17,13 @@ When you suffer injury, the attacker can decide on something that occurs based o
 | Injury Damage | Outcome                                                                                             |
 | ------------- | --------------------------------------------------------------------------------------------------- |
 | > 0           | A limb, sense, or ability becomes temporarily non-functional.                                       |
-| > 4           | A limb, sense, or ability becomes temporarily non-functional, [Wounded](Game/Core/Effects#Wounded). |
-| > 6           | A limb or sense is destroyed, and becomes non-functional, [Wounded](Game/Core/Effects#Wounded).     |
+| > 4           | A limb, sense, or ability becomes temporarily non-functional, [[Effects#Wounded]]. |
+| > 6           | A limb or sense is destroyed, and becomes non-functional, [[Effects#Wounded]].     |
 | > 8           | Death.                                                                                              |
 | > 10          | Death with nothing remaining of the character.                                                      |
 
 
-> Example a character suffers an attack that deals 3 damage while having 1 [Armour Integrity](Game/Core/Armour#Armour%20Integrity). There armour is reduced to 0 integrity and they suffer 2 injury damage. This is enough to cause them to suffer an [Injury-Effects](Game/Core/Injury-Effects).
+> Example a character suffers an attack that deals 3 damage while having 1 [[Armour#Armour Integrity]]. There armour is reduced to 0 integrity and they suffer 2 injury damage. This is enough to cause them to suffer an [[Game/Core/Injury-Effects|Injury-Effects]].
 
 ## Types of Damage
 Generally, there are two large categories of damage – Physical and Otherworldly, each of these then further has three categories of damage.

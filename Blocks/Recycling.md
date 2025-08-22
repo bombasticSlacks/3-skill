@@ -1,5 +1,5 @@
 
-[Armour Trait](Game/Core/Armour-Traits)
+[[Armour-Traits|Armour Trait]]
 {: .label .label-purple }
 
 ## Recycling

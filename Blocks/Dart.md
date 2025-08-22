@@ -1,6 +1,6 @@
-[Character-Traps](Game/Core/Character-Traps)
+[[Character-Traps]]
 {: .label .label-yellow }
 ## Dart
 *This creature moves with impossible speed.*
 
-* When you are [Attacked](Game/Core/Terminology#Attack) outside of [Reach](Game/Core/Movement#Reach), you may move somewhere [Close](Game/Core/Movement#Close) by. If you do the [Attack](Game/Core/Terminology#Attack) is at a (-2).
+* When you are [[Terminology#Attack]] outside of [[Movement#Reach]], you may move somewhere [[Movement#Close]] by. If you do the [[Terminology#Attack]] is at a (-2).

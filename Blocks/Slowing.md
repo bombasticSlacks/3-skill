@@ -1,6 +1,6 @@
 
-[Weapon Trait](Game/Core/Weapon-Traits)
+[[Weapon-Traits|Weapon Trait]]
 {: .label .label-purple }
 
 ### Slowing
-* This weapon on a [Successful Attack](Terminology#Successful%20Attack) causes the [Opponent](Game/Core/Terminology#Opponent) to be [Slowed](Game/Core/Effects#Slowed).
+* This weapon on a [[Terminology#Successful Attack]] causes the [[Terminology#Opponent]] to be [[Effects#Slowed]].
