@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# makes anchor links all lowercase
+# makes wikilinks into markdown links
 import fileinput
 import re
 
