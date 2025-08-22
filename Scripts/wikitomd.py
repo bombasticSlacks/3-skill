@@ -41,6 +41,7 @@ def linkParse(file: str, anchor = "", title = "" ) -> str:
             title = file
     
     if anchor:
+        anchor = anchor.replace(" ", "-")
         anchor = f"#{anchor}"
 
     # Convert file to URL
