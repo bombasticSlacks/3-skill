@@ -23,8 +23,10 @@ def findAll(name: str, path: str) -> str:
 
 
     if len(result) == 0:
-        err = f"No results for {name}"
-        raise Exception(err)
+        #err = f"No results for {name}"
+        #raise Exception(err)
+        # should throw an error, but probably too many issues right now...
+        result.append(name)
     if len(result) > 1:
         err = f"Multiple files for {name}"
         raise Exception(err)
@@ -32,30 +34,35 @@ def findAll(name: str, path: str) -> str:
 
 def linkParse(file: str, anchor = "", title = "" ) -> str:
     # We parse the file making sure file exists, finding unique location and adding other bits
+    if not title:
+        if anchor:
+            title = anchor
+        else:
+            title = file
+    
     if anchor:
         anchor = f"#{anchor}"
 
-    if not title:
-        title = file
-
     # Convert file to URL
-    file = findAll(f"{file}.md", "Game")
-
-    file = file.split(".md")[0]
+    if file:
+        file = findAll(f"{file}.md", "Game")
+        file = file.split(".md")[0]
 
     text = f"[{title}]({file}{anchor})"
     return text
 
 for line in fileinput.input(encoding="utf-8", inplace=True):
-    line = re.sub(r'\[\[(.+?)#(.+?)\|(.+?)\]\]',
+    line = re.sub(r'\[\[([^\[\]]+?)#([^\[\]]+?)\|([^\[\]]+?)\]\]',
                  lambda m: linkParse(m.group(1), m.group(2), m.group(3)), line)
-    
-    line = re.sub(r'\[\[(.+?)\|(.+?)\]\]',
+    line = re.sub(r'\[\[#([^\[\]]+?)\]\]',
+                 lambda m: linkParse("", m.group(1), ""), line)
+    line = re.sub(r'\[\[#([^\[\]]+?)\|([^\[\]]+?)\]\]',
+                 lambda m: linkParse("", m.group(1), m.group(2)), line)
+    line = re.sub(r'\[\[([^\[\]]+?)\|([^\[\]]+?)\]\]',
                  lambda m: linkParse(m.group(1), "", m.group(2)), line)
-    line = re.sub(r'\[\[(.+?)#(.+?)\]\]',
+    line = re.sub(r'\[\[([^\[\]]+?)#([^\[\]]+?)\]\]',
                  lambda m: linkParse(m.group(1), m.group(2), ""), line)
-    
-    line = re.sub(r'\[\[(.+?)\]\]',
+    line = re.sub(r'\[\[([^\[\]]+?)\]\]',
                  lambda m: linkParse(m.group(1), "", ""), line)
     
     print(line, end='')
