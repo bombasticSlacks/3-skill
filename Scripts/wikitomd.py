@@ -45,8 +45,14 @@ def linkParse(file: str, anchor = "", title = "" ) -> str:
 
     # Convert file to URL
     if file:
-        file = findAll(f"{file}.md", "Game")
-        file = file.split(".md")[0]
+        temp = file
+        #already has a file extension
+        if file.find(".") == -1:
+            temp = f"{temp}.md"
+        file = findAll(temp, "Game")
+        
+        if file.find(".md") != -1:
+            file = file.split(".md")[0]
 
     text = f"[{title}]({file}{anchor})"
     return text
