@@ -50,7 +50,7 @@ def linkParse(file: str, anchor = "", title = "" ) -> str:
         if file.find(".") == -1:
             temp = f"{temp}.md"
         file = findAll(temp, "Game")
-        
+
         if file.find(".md") != -1:
             file = file.split(".md")[0]
 
@@ -60,10 +60,10 @@ def linkParse(file: str, anchor = "", title = "" ) -> str:
 for line in fileinput.input(encoding="utf-8", inplace=True):
     line = re.sub(r'\[\[([^\[\]]+?)#([^\[\]]+?)\|([^\[\]]+?)\]\]',
                  lambda m: linkParse(m.group(1), m.group(2), m.group(3)), line)
-    line = re.sub(r'\[\[#([^\[\]]+?)\]\]',
-                 lambda m: linkParse("", m.group(1), ""), line)
     line = re.sub(r'\[\[#([^\[\]]+?)\|([^\[\]]+?)\]\]',
                  lambda m: linkParse("", m.group(1), m.group(2)), line)
+    line = re.sub(r'\[\[#([^\[\]]+?)\]\]',
+                 lambda m: linkParse("", m.group(1), ""), line)
     line = re.sub(r'\[\[([^\[\]]+?)\|([^\[\]]+?)\]\]',
                  lambda m: linkParse(m.group(1), "", m.group(2)), line)
     line = re.sub(r'\[\[([^\[\]]+?)#([^\[\]]+?)\]\]',
