@@ -7,7 +7,7 @@
 
 ## Fearless
 *You cannot become afraid no matter the horrors you see.*
-* You cannot gain [[Game/Stress|Stress]].
+* You cannot gain [[Stress]].
 * You automatically pass all [[Strength#Endurance]] [[Terminology#Skill Test]] related to fear and panic.
 ### Removing
 {: no_toc }
