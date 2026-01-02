@@ -11,7 +11,7 @@ Specifics of measurement, distance and the idea of "movement speed", are simplif
 Generally, when you are getting ready to do an action and plan to move towards something, there are 5 distances it can be from you:
 
 ### Reach
-The location is within reach.
+The location is within reach. Your immediate area.
 
 ### Close
 The location is nearby, basically anyone could make it there without too much trouble.
@@ -32,11 +32,11 @@ Distances shouldn't be set in stone, it should be flexible based on your charact
 
 | Name       | Approximate Distance |
 | ---------- | -------------------- |
-| [[#Reach|Reach]]      | $< 3m$               |
-| [[#Close|Close]]      | $\approx 10m$        |
-| [[#Short|Short]]      | $\approx 20m$        |
-| [[#Far|Far]]        | $\approx 40m$        |
-| [[#Impossible|Impossible]] | $> 50m$              |
+| [[#Reach]]      | $< 3m$               |
+| [[#Close]]      | $\approx 10m$        |
+| [[#Short]]      | $\approx 20m$        |
+| [[#Far]]        | $\approx 40m$        |
+| [[#Impossible]] | $> 50m$              |
 
 ## Movement Action Penalty
 When you are expected to travel to a location and immediately perform an action, like when in [[Combat]], or otherwise pressured, any action you take may be at a penalty.
