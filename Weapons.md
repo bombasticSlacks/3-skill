@@ -26,5 +26,5 @@ Weapons, unless specified, can only be used to attack things in [[Movement#Reach
 Abilities or unique effects a weapon might possess. If you have an idea in mind as a player or game master, try to come up with a unique trait to properly represent a weapon.  A non-exhaustive list is provided [[Weapon-Traits|here]]. 
 
 ## Quality
-Weapons come in various qualities. Higher quality weapons require specific [[Combat-Training|Combat Training]] to use. For more details on how quality effects a weapon, you can look at [[Designing-Weapons#Quality]]
+Weapons come in various qualities. [[Designing-Weapons#Exotic]] weapons require specific training to use. For more details on how quality effects a weapon, you can look at [[Designing-Weapons#Quality]]
 

@@ -7,4 +7,4 @@
 
 ## Exotic Application
 *The construction of this item is inscrutable and requires an experts touch.*
-* Using this requires successful [[Intelligence#Application]].
+* Using this requires successful [[Application]].

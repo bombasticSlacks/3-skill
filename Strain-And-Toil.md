@@ -10,7 +10,7 @@ Everyone has a limit to how much they can take before they can't push themselves
 
 ## Gaining Stress
 Depending on the scope of the character something may or may not be stressful. A hardboiled investigator might be used to seeing the dead, whereas a baker may not be. Stress can be assigned:
-* When a character fails an [[Strength#Endurance]] test related to something mind effecting.
+* When a character fails an [[Endurance]] test related to something mind effecting.
 * A character finds themselves in the face of something terrifying.
 * When a characters mind or body are ravaged by hunger, cold, exhaustion.
 * When a character fails a [[Terminology#Skill Test]] they may suffer [[Stress]] but move forward. As an example, maybe the character fails an athletics skill test to jump over a cliff, instead of having them fall to their death, they could be assigned a [[Stress]] and be left precariously dangling. 

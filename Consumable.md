@@ -17,7 +17,7 @@ The person who will receive the [[#Result]] of a [[Consumable]].
 When you use a consumable it will cause an effect on your character, this is the result of using it.
 
 ## Resisting
-Any target of a consumable may try to resist its effects. This is [[Strength#Endurance]]. 
+Any target of a consumable may try to resist its effects. This is [[Endurance]]. 
 
 ## Types
 ### Alchemy

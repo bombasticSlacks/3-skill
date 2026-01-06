@@ -4,4 +4,4 @@
 
 ### Otherworldly
 *This weapon strikes using your force of will.*
-* This weapon [[Attacks]] using the [[Instinct#Ascendancy]] skill.
+* This weapon [[Attacks]] using the [[Spirit]] skill.

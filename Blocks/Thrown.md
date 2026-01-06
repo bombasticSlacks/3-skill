@@ -4,4 +4,4 @@
 
 ### Thrown
 *This weapon is thrown requiring fitness.*
-* This weapon [[Attacks]] using the [[Strength#Physique]] skill.
+* This weapon [[Attacks]] using the [[Physique]] skill.

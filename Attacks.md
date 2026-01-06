@@ -8,10 +8,10 @@ grand_parent: How To Play
 
 # Attacking
 Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be:
-* Thrown attacks using [[Strength#Physique]]
-* Ranged attacks using [[Agility#Coordination]]
-* Melee attacks using [[Strength#Physique]] 
-* Magic attacks using [[Instinct#Ascendancy]]
+* Thrown attacks using [[Physique]]
+* Ranged attacks using [[Coordination]]
+* Melee attacks using [[Physique]] 
+* Magic attacks using [[Spirit]]
 
 ## Attack Range
 When you attack something, your range is how far you can engage them from. 

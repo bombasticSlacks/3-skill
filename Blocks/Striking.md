@@ -4,4 +4,4 @@
 
 ### Striking
 *You strike people with this weapon.*
-* This weapon [[Attacks]] using the [[Strength#Physique]] skill.
+* This weapon [[Attacks]] using the [[Physique]] skill.

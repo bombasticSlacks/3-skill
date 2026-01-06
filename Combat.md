@@ -16,7 +16,7 @@ During combat, though many events happen simultaneously in a game, we need to do
 ### Who Goes First
 The first [[Terminology#Character]] to act in combat is always the first [[Terminology#Character]] to perform a hostile action. 
 
-If someone wants to perform something hostile and someone else is aware and able to stop them, the player does a [[Agility#Reflexes]] [[Skills#Fixed Difficulty]] test. If they succeed, they act first, otherwise the target does.
+If someone wants to perform something hostile and someone else is aware and able to stop them, the player does a [[Reflexes]] [[Skills#Fixed Difficulty]] test. If they succeed, they act first, otherwise the target does.
 
 ### Who Goes Next
 After any action in combat, the next character to act should be from the other group of [[Terminology#Player Character]] and the [[Terminology#Game Master]].

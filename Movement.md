@@ -41,23 +41,11 @@ Distances shouldn't be set in stone, it should be flexible based on your charact
 ## Movement Action Penalty
 When you are expected to travel to a location and immediately perform an action, like when in [[Combat]], or otherwise pressured, any action you take may be at a penalty.
 
-Your movement action penalty is equal to the number of additional distance increments you need to travel beyond your [[#Movement Distance|Movement Distance]].
+Your movement action penalty is equal to the number distance increments you need to travel.
 
-> So if you had 2 [[Agility]] your [[#Movement Distance|Movement Distance]] is [[#Reach|Reach]], if you were to move [[#Close|Close]] you would suffer a (-1) to an action, [[#Far|Far]] would be a (-3).
+> So if you were to move [[#Close|Close]] you would suffer a (-1) to an action, [[#Far|Far]] would be a (-3).
 
 There is no movement action penalty for [[#Impossible|Impossible]] because it isn't possible to arrive there. The character must spend some time in transit before making it, any action penalty would be based on their intermediate destination.
-
-## Movement Distance
-This is the distance you can comfortably move based on [[Agility]]. Some equipment or abilities may effect this value.
-
-| Agility | Distance                |
-| ------- | ----------------------- |
-| 1       | -                       |
-| 2       | [[Movement#Reach]] |
-| 3       | [[Movement#Close]] |
-| 4       | [[Movement#Short]] |
-| 5       | [[Movement#Far]]     |
-
 
 ## Avoiding Obstacles
 If there are obstacles in the way of a movement, you may need to perform an [[Terminology#Action]] to avoid it.

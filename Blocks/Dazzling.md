@@ -4,5 +4,5 @@
 
 ## Dazzling
 *This armour is awe-inspiring and impressively constructed.*
-* (+1) to [[Communication#Connection]].
-* (+1) to [[Communication#Confidence]].
+* (+1) to [[Connection]].
+* (+1) to [[Confidence]].

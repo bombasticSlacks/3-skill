@@ -5,5 +5,5 @@
 ### Launcher
 *This weapon can assist in firing [[Game/Core/Blocks/Comestibles|Comestibles]] using its inherent mechanical advantage*.
 * Any thrown item can be shot from this.
-* Use [[Agility#Coordination]] for [[Terminology#Attack]].
+* Use [[Coordination]] for [[Terminology#Attack]].
  * [[Weapons#Range]] is equal to this weapons [[Weapons#Range]].
