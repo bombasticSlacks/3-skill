@@ -18,10 +18,12 @@ How far the enemy can move, one of [[Movement#Distance Increments]].
 How much harm an enemy can take before suffering injury or being defeated. Works like [[Armour#Armour Integrity]].
 ### Action Bonus
 The dice value this character adds to [[Terminology#Action]]. GM may apply bonuses or negatives to this value as relevant.
-### Hit Modifier
-The penalty or bonus that [[Terminology#Attack]] against this character suffer. Usually (+3) to (-3)
+### Melee Modifier
+The penalty or bonus that [[Terminology#Attack]] against this character suffer within reach. Usually (+3) to (-3).
+### Range Modifier
+The penalty or bonus that [[Terminology#Attack]] against this character suffer outside of reach. Usually (+3) to (-3).
 ### Avoid Modifier
-The penalty or bonus that [[Reacting]] against this character suffer. Usually (+1) to (-5)
+The penalty or bonus that [[Combat#Defending]] against this character suffer. Usually (+1) to (-5).
 ### Weakness
 Identical to [[Armour#Weakness and Resistance]] on armour, including [[Armour#Critical Weakness]].
 ### Resistance
@@ -29,14 +31,14 @@ Identical to [[Armour#Weakness and Resistance]] on armour.
 ### Actions
 Clear actions the creature can do, should specify:
 * Targets (Otherwise assume to be 1 [[Terminology#Character]])
-* Mention any costs like [[Effects#Exerted]], or damaging self
+* Mention any costs like [[Exerted]], or damaging self
 * [[Terminology#Damage]] (with [[Injury#Types of Damage]]), [[Effects]], and other outcomes.
 * Range (otherwise assume [[Movement#Reach]]).
 * A description of what happens.
 
 > 6 rending as you swing cleavers.
 > 4 impact within close as you summon an undead and throw it.
-> Everyone within earshot, suffer [[Effects#Temporarily Deaf]] as you scream.
+> Everyone within earshot, suffer [[Deafened]] as you scream.
 
 ### Traits
 Notable things this character additionally has, examples can be found in [[Character-Traits]].

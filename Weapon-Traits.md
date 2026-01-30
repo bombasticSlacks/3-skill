@@ -17,12 +17,5 @@ nav_order: 2
 {:toc}
 </details>
 
-## Crafting Templates
-These need to be migrated to Aspirant.
-### Size Matters
-This weapon adds $size \times 2$ to [[Weapons#Damage Bonus]].
-
-
-
 ## Traits
 

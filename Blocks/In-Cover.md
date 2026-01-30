@@ -12,5 +12,5 @@
 
 ### Removing
 {: .no_toc }
-* You cannot be in cover if you are [[#In Melee|In Melee]].
+* You cannot be in cover if you are [[In-Melee]].
 * If you move away from whatever is providing you with cover.

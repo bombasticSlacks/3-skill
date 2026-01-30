@@ -7,7 +7,7 @@ grand_parent: How To Play
 ---
 
 # Attacking
-Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will typically be:
+Usually, in combat, you will be trying to harm your opponents with the goal of killing or disabling them. Attacks will use the skill specified in their traits:
 * Thrown attacks using [[Physique]]
 * Ranged attacks using [[Coordination]]
 * Melee attacks using [[Physique]] 
@@ -19,7 +19,7 @@ When you attack something, your range is how far you can engage them from.
 * If you aren't within a weapons range you can either [[Movement|Move]], or suffer a [[Attack-Bonuses#Distance Penalty]], or perhaps, both.
 * Magic generally has a range of [[Movement#Close]].
 * Items can be thrown [[Movement#Close]].
-* Ranged attacks will be defined in the weapons [[Weapon-Traits]]|[Weapons#[Weapon-Traits]].
+* Ranged attacks will be defined in the weapons [[Weapon-Traits]].
 
 ## Attacking
 - Declare what weapon you are using
@@ -27,7 +27,6 @@ When you attack something, your range is how far you can engage them from.
 - Determine any bonuses or negatives you have on the attack.
 - Declare any modifiers you are applying to the attack.
 - Roll a skill test. If you fail this test, this is a [[Terminology#Mitigated Attack]].
-- Your [[Terminology#Opponent]] can use a [[Terminology#Reaction]].
 - Your [[Terminology#Opponent]] [[#Taking Damage|Takes Damage]]
 
 ## Critical Hits
@@ -53,7 +52,7 @@ Your [[Terminology#Attack]] strikes a specific point of interest on an enemy.
 
 ## Taking Damage
 If you fail to mitigate an incoming attack, you will take damage.
-[[Armour]] is your first line of defence against attacks. Your armour provides you with a small amount of [[Armour#Armour Integrity]] which can absorb incoming damage. 
+[[Armour]] is your first line of defense against attacks. Your armour provides you with a small amount of [[Armour#Armour Integrity]] which can absorb incoming damage. 
 
 * Adjust incoming damage based on if you have [[Armour#Weakness and Resistance]] to the attack.
 * Deduct incoming damage from your [[Armour#Armour Integrity]].

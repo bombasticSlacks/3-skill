@@ -8,7 +8,7 @@
 ## Deafened
 *You can't hear.*
 * You cannot do anything relying on your ears.
-* You count as [[Effects#Disoriented]].
+* You count as [[Disoriented]].
 
 ### Removing
 {: no_toc }

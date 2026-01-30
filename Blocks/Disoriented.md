@@ -12,4 +12,4 @@
 ### Removing
 {: .no_toc }
 * Goes away on its own at the end of the [[Terminology#Scene]].
-* Can perform [[0|[Strength#Endurance]] as an [[Terminology#Action]] to remove.
+* Can perform [[Endurance]](0) as an [[Terminology#Action]] to remove.

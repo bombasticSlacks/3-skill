@@ -4,4 +4,4 @@
 
 ## Unprotected
 *You don't have armour on this location at all.*
-* When attacked in the [[Injury#Ancillary]] your [[Armour#Armour Integrity]] is considered to be 0.
+* When suffering a [[Attacks#Called Attack]] your [[Armour#Armour Integrity]] counts as 0.

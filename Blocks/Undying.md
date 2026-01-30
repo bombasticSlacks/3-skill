@@ -3,4 +3,4 @@
 ## Undying
 *This monster refuses to be brought down by anything but death.*
 
-* This [[Terminology#Character]] ignores the effects of being [[Effects#Wounded]].
+* This [[Terminology#Character]] ignores the effects of being [[Wounded]].

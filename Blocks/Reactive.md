@@ -3,4 +3,4 @@
 {: .label .label-purple }
 
 ## Reactive
-* You receive a (+2) to all [[Terminology#Skill Test]] related to [[Reacting]].
+* You receive a (+1) to all [[Terminology#Skill Test]] related to [[Combat#Defending]].

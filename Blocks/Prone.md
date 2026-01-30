@@ -7,8 +7,7 @@
 
 ## Prone
 *You have been knocked to the ground.* 
-* You suffer a -2 to all [[Physique]] skill tests.
-* Cannot perform [[Terminology#Reaction]].
+* You suffer a -2 to all [[Physique]] skill tests and [[Combat#Defending]].
 
 ### Removing
 {: .no_toc }

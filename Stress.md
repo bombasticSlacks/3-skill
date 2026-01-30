@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Strain And Toil
+title: Stress
 parent: How To Play
 nav_order: 0
 has_children: false
 ---
-# Strain And Toil
-Everyone has a limit to how much they can take before they can't push themselves any further. [[Stress]] is how this is tracked.
+# Stress
+Everyone has a limit to how much they can take before they can't push themselves any further. Stress is how this is tracked. 
+
+By default characters can suffer a maximum of 3 Stress, but clothing and other things can adjust this.
 
 ## Gaining Stress
 Depending on the scope of the character something may or may not be stressful. A hardboiled investigator might be used to seeing the dead, whereas a baker may not be. Stress can be assigned:
@@ -15,7 +17,7 @@ Depending on the scope of the character something may or may not be stressful. A
 * When a characters mind or body are ravaged by hunger, cold, exhaustion.
 * When a character fails a [[Terminology#Skill Test]] they may suffer [[Stress]] but move forward. As an example, maybe the character fails an athletics skill test to jump over a cliff, instead of having them fall to their death, they could be assigned a [[Stress]] and be left precariously dangling. 
 
-Similar to [[Reaction]] or [[Power]], [[Stress]] can be offered as a resource to spend. When a character pushes themselves out of their comfort zone suggest they may complete the action or make a skill test if they take [[Stress]].
+[[Stress]] can be offered as a resource to spend. When a character pushes themselves out of their comfort zone suggest they may complete the action or make a skill test if they take [[Stress]].
 
 > Jumping into the mouth of a large creature to attack it from the inside.
 

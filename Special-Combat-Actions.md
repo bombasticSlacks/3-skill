@@ -20,13 +20,13 @@ With at least one free hand or a melee weapon, you can attempt to disarm a [[Ter
 ### Grapple
 Make an attack against someone within [[Movement#Reach]] with the intent of getting control of your opponent. If this is a [[Terminology#Non-mitigated Attack]], your opponent is in a grapple. 
 As an [[Terminology#Action]], they may:
-* Attempt an [[Physique]] [[Skills#Opposed Difficulty]] skill test to become the grappler, instead of the grappled. This test is opposed by the grapplers [[Physique]]
-* Attempt a [[Coordination]] [[Skills#Opposed Difficulty]] skill test to stop being grappled. This test is opposed by the grapplers [[Physique]].
+* Attempt an [[Physique]] skill test to become the grappler, instead of the grappled. This test is opposed by the grapplers [[Physique]].
+* Attempt a [[Coordination]] skill test to stop being grappled. This test is opposed by the grapplers [[Physique]].
 
 As an [[Terminology#Action]], you may:
-* [[0|[Strength#Physique]] to cause 2 [[Injury#Impact]] damage.
+* [[Physique]] to cause 2 [[Injury#Impact]] damage.
 * Pin your [[Terminology#Opponent]] completely, causing them to take a -2 on any skill tests on their turn.
-* Make an attack with a size 1 weapon with a (-2) to hit that can’t be evaded
+* Make an [[Terminology#Action]] with a size 1 weapon with a (-2) to hit that can’t be evaded
 * Make an [[Physique]] skill test to throw them [[Movement#Close]] in a direction of your choice.
 
 ## Shove

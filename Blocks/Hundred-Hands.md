@@ -3,5 +3,5 @@
 ## Hundred Hands
 *Being near this thing means it will try to keep hold of you.*
 
-* When: Another creature is [[Effects#In Melee]] with you.
-* Do: They are [[Effects#Stuck]].
+* When: Another creature is [[In-Melee]] with you.
+* Do: They are [[Stuck]].

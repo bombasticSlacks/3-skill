@@ -9,7 +9,7 @@ has_children: true
 Armour is your character's safety net. It is designed to protect against only a small amount of high-powered attacks. However, advanced armour can be almost impervious to simpler weapons. Armour will protect the entirety of your body while it is worn.
 
 ## Defense Penalty
-Wearing armour affects your ability to fight in combat. Heavier armour, though offering more protection, will affect your ability to react quickly. Your skill penalty will apply to all [[Terminology#Skill Test]] you perform as part of a [[Reacting]].
+Wearing armour affects your ability to fight in combat. Heavier armour, though offering more protection, will affect your ability to react quickly. Your skill penalty will apply to all [[Terminology#Skill Test]] you perform as part of [[Combat#Defending]].
 
 ## Weakness and Resistance
 Some armour will be more susceptible or less susceptible to certain [[Injury#Types of Damage]].

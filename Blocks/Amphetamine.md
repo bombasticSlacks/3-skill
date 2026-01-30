@@ -7,5 +7,5 @@ Artisan
 
 ## Amphetamine
 *A powerful chemical concoction improving focus.*
-* As a [[Consumable#Result]] the [[Consumable#Target]] gains +1 [[Agility]] and +1 [[Intelligence]] until the end of the [[Terminology#Scene]].
+* As a [[Consumable#Result]] the [[Consumable#Target]] gains +1 [[Reflexes]] and +1 [[Application]] until the end of the [[Terminology#Scene]].
 

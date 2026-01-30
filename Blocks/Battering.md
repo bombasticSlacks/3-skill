@@ -3,4 +3,4 @@
 {: .label .label-purple }
 
 ### Battering
-* On causing [[Terminology#Damage]] this weapon causes the [[Terminology#Opponent]] to become [[Effects#Prone]].
+* On causing [[Terminology#Damage]] this weapon causes the [[Terminology#Opponent]] to become [[Prone]].

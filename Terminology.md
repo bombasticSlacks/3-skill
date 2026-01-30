@@ -14,7 +14,7 @@ Any skill test where a [[#Character|Character]] is attempting to harm or disrupt
 If a [[#Character|Character]] succeeds on an [[#Attack|Attack]] skill test, that is considered a Successful Attack
 
 ## Non-mitigated Attack
-If a [[#Character|Character]] succeeds on an [[#Attack|Attack]] skill test and their [[#Opponent|Opponent]] doesn't stop the attack with a [[#Reaction|Reaction]], that is a non-mitigated attack.
+If a [[#Character|Character]] succeeds on an [[#Attack|Attack]] skill test and their [[#Opponent|Opponent]] doesn't stop the attack with [[Combat#Defending]], that is a non-mitigated attack.
 
 ## Mitigated Attack
 If a [[#Character|Character]] fails an attack roll or their [[#Opponent|Opponent]] stops the attack with a reaction, that is a mitigated attack.
@@ -23,7 +23,7 @@ If a [[#Character|Character]] fails an attack roll or their [[#Opponent|Opponent
 An abstraction for how much power and harm is behind an attack. When you suffer damage it is first absorbed by [[Armour]] and then results in [[Injury]].
 
 ## Wounding Attack
-If a [[#Character|Character]] successfully [[Effects#Wounded]] with an attack it is considered a wounding attack.
+If a [[#Character|Character]] successfully causes [[Wounded]] with an attack it is considered a wounding attack.
 
 ## Opponent
 The opposition of a currently referenced [[#Character|Character]]. The character who will be negatively effected by your actions, or you would be by theirs.
