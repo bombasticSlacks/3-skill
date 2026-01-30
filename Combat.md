@@ -37,3 +37,6 @@ If the players or the non-players meaningfully outnumber each other one way or a
 A measure of how dangerous and threatening a person is. Used to weight who unintelligent monsters target at random as well as makes it harder to fight with ranged weapons when [[In-Melee]].
 * A character that is unarmed still has a base threat of 1. 
 * A character that is unconscious or otherwise detained should have a threat of 0.
+
+## Defending
+When a [[Terminology#Player Character]] is attacked they will need to defend themselves. This is a [[Skills#Fixed Difficulty]] skill test with a penalty and skill based on the attack.

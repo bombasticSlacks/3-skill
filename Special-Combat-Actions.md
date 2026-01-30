@@ -9,10 +9,10 @@ grand_parent: How To Play
 In combat there are several situations that come up often enough they should have predefined rules. This doesn't mean this list is exhaustive, but should give an idea of the sort of things you can do in combat apart from harming someone directly.
 
 ## Defensive Fighting
-You may as a free action make a [[0|[Agility#Coordination]] if successful, no one can perform [[Reacting#Attack of Opportunity]] against you during this turn. If you fail, anyone [[Effects#In Melee]] may immediately perform an [[Reacting#Attack of Opportunity]].
+You may as a free action make a [[Coordination]] if successful, no one can perform an attack against you during your turn. If you fail, someone [[In-Melee]] may immediately perform an [[Terminology#Attack]] against you.
 
 ## Cautious Step
-As an [[Terminology#Action]] may move without suffering [[Reacting#Attack of Opportunity]], but can do nothing else.
+As an [[Terminology#Action]] may move without suffering any [[Terminology#Attack]], but can do nothing else during your [[Terminology#Action]].
 
 ## Disarm
 With at least one free hand or a melee weapon, you can attempt to disarm a [[Terminology#Character]] within [[Movement#Reach]] of you. Make a [[Physique]] skill test at (-1) and if successful, your opponent drops their weapon (or it is now in your hands).
@@ -28,9 +28,6 @@ As an [[Terminology#Action]], you may:
 * Pin your [[Terminology#Opponent]] completely, causing them to take a -2 on any skill tests on their turn.
 * Make an attack with a size 1 weapon with a (-2) to hit that can’t be evaded
 * Make an [[Physique]] skill test to throw them [[Movement#Close]] in a direction of your choice.
-
-## Parry
-Which is a [[Physique]] skill test at (-2) where if you succeed, then if an enemy attacks you [[#Being in Melee Combat|in melee]] and succeeds, you ignore the attack. If they fail their skill test to attack, you may make an attack on them without requiring a skill test.
 
 ## Shove
 With at least one free hand, you can attempt to move someone within [[Movement#Reach]] of you. Make a [[Physique]] skill test, if you succeed, you can move them somewhere [[Movement#Close]].
