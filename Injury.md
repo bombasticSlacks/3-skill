@@ -14,13 +14,13 @@ Any damage not mitigated by armour is considered Injury Damage and causes direct
 When you suffer injury, the attacker can decide on something that occurs based on the amount of injury damage:
 
 
-| Injury Damage | Outcome                                                                    |
-| ------------- | -------------------------------------------------------------------------- |
-| > 0           | A limb, sense, or ability becomes temporarily non-functional.              |
-| > 4           | A limb, sense, or ability becomes temporarily non-functional, [[Wounded]]. |
-| > 6           | A limb or sense is destroyed, and becomes non-functional, [[Wounded]].     |
-| > 8           | Death.                                                                     |
-| > 10          | Death with nothing remaining of the character.                             |
+| Injury Damage | Outcome                                                                         |
+| ------------- | ------------------------------------------------------------------------------- |
+| > 0           | A limb, sense, or ability becomes temporarily non-functional.                   |
+| > 4           | A limb, sense, or ability becomes temporarily non-functional, [[Wounded]].      |
+| > 6           | A limb, sense or ability is destroyed, and becomes non-functional, [[Wounded]]. |
+| > 8           | Death.                                                                          |
+| > 10          | Death with nothing remaining of the character.                                  |
 
 
 > Example a character suffers an attack that deals 3 damage while having 1 [[Armour#Armour Integrity]]. There armour is reduced to 0 integrity and they suffer 2 injury damage. This is enough to cause them to suffer an injury there hand is hurt meaning they cannot temporarily use their sword.
